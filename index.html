@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Aivar Drukalski — Whisky Collection</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:wght@500;600;700&family=Source+Sans+3:wght@400;600;700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+  <header class="hero">
+    <div class="tartan"></div>
+    <p class="sub" style="letter-spacing:.2em;text-transform:uppercase;font-size:.75rem;color:var(--gold)">Private cellar · Dublin</p>
+    <h1>Whisky Collection</h1>
+    <p class="sub">Aivar Drukalski — Irish, Scotch &amp; selected spirits</p>
+    <p class="collector-note">A private collector&rsquo;s cellar. Bottles may be available for sale or exchange with fellow collectors — enquiries welcome.</p>
+    <p class="collector-contact">Contact: to be added</p>
+    <div class="stats">
+      <div class="stat"><b id="stat-count">—</b><span>Bottles</span></div>
+      <div class="stat"><b id="stat-brands">—</b><span>Brands</span></div>
+      <div class="stat"><b id="stat-priced">—</b><span>Priced</span></div>
+      <div class="stat"><b id="stat-market">—</b><span>Est. asking value</span></div>
+    </div>
+  </header>
+
+  <div class="toolbar">
+    <input id="search" type="search" placeholder="Search name, brand, cask…">
+    <select id="filter-brand"><option value="">All brands</option></select>
+    <select id="filter-region"><option value="">All regions</option></select>
+    <select id="sort">
+      <option value="brand">Sort: Brand</option>
+      <option value="name">Sort: Name</option>
+      <option value="price-desc">Sort: Price high→low</option>
+      <option value="price-asc">Sort: Price low→high</option>
+      <option value="year-desc">Sort: Year/age new→old</option>
+      <option value="year-asc">Sort: Year/age old→new</option>
+    </select>
+    <span id="result-count" style="color:var(--muted);font-size:.9rem"></span>
+  </div>
+
+  <main>
+    <div class="grid" id="grid"></div>
+  </main>
+
+  <div class="modal" id="modal" role="dialog" aria-modal="true">
+    <div class="modal-card">
+      <button class="modal-close" id="modal-close" aria-label="Close">×</button>
+      <div class="modal-grid">
+        <div class="gallery">
+          <img class="main" id="m-main" alt="">
+          <div class="thumbs" id="m-thumbs"></div>
+        </div>
+        <div class="detail">
+          <div class="brand" id="m-brand"></div>
+          <h2 id="m-name"></h2>
+          <div class="price-lg" id="m-price"></div>
+          <div class="market-block" id="m-market"></div>
+          <dl id="m-dl"></dl>
+          <h3 style="font-family:var(--serif);color:var(--gold);margin-top:22px">Features</h3>
+          <p id="m-features"></p>
+          <h3 style="font-family:var(--serif);color:var(--gold)">History</h3>
+          <p id="m-history"></p>
+          <h3 style="font-family:var(--serif);color:var(--gold)">Why it&rsquo;s valuable</h3>
+          <p id="m-why"></p>
+          <p id="m-notes" style="font-size:.85rem;color:var(--muted)"></p>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <footer>
+    <p class="collector-note">This is a private collector&rsquo;s collection. Bottles are available for sale or exchange / trade with fellow collectors — enquiries welcome.</p>
+    <p class="collector-contact">Contact: to be added</p>
+    <p class="footer-meta">Built as a static catalog for GitHub Pages · Photos from Whiskey new · Prices matched from Whiskey collection where possible</p>
+   · <a href="owner.html">Owner</a></footer>
+  <script src="js/app.js"></script>
+</body>
+</html>

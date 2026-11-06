@@ -1,0 +1,2526 @@
+{
+  "title": "Aivar Drukalski — Whisky Collection",
+  "owner": "Aivar Drukalski",
+  "location": "Dublin",
+  "generated": "2026-11-06",
+  "view": "public",
+  "hide_all_prices": false,
+  "items": [
+    {
+      "id": "w001",
+      "name": "Bushmills The Causeway Collection 1999 New American Oak",
+      "brand": "Bushmills",
+      "region": "Ireland",
+      "age": 23,
+      "vintage": 1999,
+      "abv": 50.1,
+      "volume_ml": 700,
+      "cask": "New / virgin American oak (Kelvin Cooperage)",
+      "features": "Causeway Collection; Ireland exclusive 2023; cask strength; NCF; distilled 14/09/1999; bottled 2023",
+      "history": "Bushmills Causeway Collection 1999 New American Oak — Ireland-exclusive 2023 release (fourth Causeway Collection). Distilled 14 September 1999, matured solely ~23 years in virgin American oak from Kelvin Cooperage, Kentucky; bottled 2023 at natural cask strength 50.1% ABV, non-chill-filtered, 70cl. Master Blender Alex Thomas selected it; RRP at launch ~€450",
+      "why_valuable": "Ireland-only Causeway release; 23yo virgin-oak single malt at cask strength; scarce vs core Bushmills",
+      "photos": [
+        {
+          "file": "20261105_100635.jpg",
+          "thumb": "images/thumbs/20261105_100635.jpg",
+          "full": "images/full/20261105_100635.jpg"
+        }
+      ],
+      "public_price_eur": 500,
+      "show_price": true,
+      "price_label": "€500"
+    },
+    {
+      "id": "w002",
+      "name": "Red Spot 19 Year Old Single Cask Marsala",
+      "brand": "Red Spot",
+      "region": "Ireland",
+      "age": 19,
+      "vintage": null,
+      "abv": 58.5,
+      "volume_ml": 700,
+      "cask": "Marsala butt (Cask 217213) after bourbon & Oloroso",
+      "features": "Single pot still; single cask; 603 bottles; Mitchell & Son exclusive",
+      "history": "Red Spot 19 Year Old Single Cask (Cask 217213): Midleton single pot still initially in bourbon & Oloroso, recasked 10 Dec 2008 into a 500L Marsala Superiore butt (Antonio Paez / Jerez oak, Grillo & Catarratto). Emptied 7 Mar 2024; 603 bottles at 58.5% ABV for Mitchell & Son only (RRP ~€670)",
+      "why_valuable": "Single Marsala butt; only 603 bottles; Mitchell & Son exclusive; high cask strength",
+      "photos": [
+        {
+          "file": "20261105_100708.jpg",
+          "thumb": "images/thumbs/20261105_100708.jpg",
+          "full": "images/full/20261105_100708.jpg"
+        }
+      ],
+      "public_price_eur": 650,
+      "show_price": true,
+      "price_label": "€650"
+    },
+    {
+      "id": "w003",
+      "name": "Glen Marnoch 24 Year Old 1988 Cask",
+      "brand": "Glen Marnoch",
+      "region": "Speyside",
+      "age": 24,
+      "vintage": 1988,
+      "abv": null,
+      "volume_ml": 700,
+      "cask": null,
+      "features": "Independent bottling; 1988 vintage",
+      "history": "Glen Marnoch 24 Year Old 1988 — independent bottling labelled as a 1988 vintage cask. Exact distillery, cask number and outturn are not confirmed from public sources for this specific bottle; age statement and vintage year are taken from the photographed label",
+      "why_valuable": "Long-aged 1988 indie bottling; collectible if distillery identity is desirable — verify label for full cask data",
+      "photos": [
+        {
+          "file": "20261105_100735.jpg",
+          "thumb": "images/thumbs/20261105_100735.jpg",
+          "full": "images/full/20261105_100735.jpg"
+        }
+      ],
+      "public_price_eur": 75,
+      "show_price": true,
+      "price_label": "€75"
+    },
+    {
+      "id": "w004",
+      "name": "Teeling 20 Year Old Chinese Edition Sherry Cask",
+      "brand": "Teeling",
+      "region": "Ireland",
+      "age": 20,
+      "vintage": null,
+      "abv": 52.0,
+      "volume_ml": 700,
+      "cask": "Sherry cask",
+      "features": "Chinese market edition; Teeling; single malt",
+      "history": "Teeling 20 Year Old Chinese Edition Sherry Cask — limited single malt for the Chinese market at 52% ABV / 70cl. Exact cask number and bottle count for this edition are not published on the label crops reviewed; known as a high-age Teeling export exclusive with sherry maturation",
+      "why_valuable": "20yo Teeling market exclusive; scarce outside China; sherry-led older stock",
+      "photos": [
+        {
+          "file": "20261105_100949.jpg",
+          "thumb": "images/thumbs/20261105_100949.jpg",
+          "full": "images/full/20261105_100949.jpg"
+        }
+      ],
+      "public_price_eur": 260,
+      "show_price": true,
+      "price_label": "€260"
+    },
+    {
+      "id": "w005",
+      "name": "Redbreast All Sherry Single Cask — Sonny Molloy's Galway",
+      "brand": "Redbreast",
+      "region": "Ireland",
+      "age": null,
+      "vintage": 2001,
+      "abv": 58.7,
+      "volume_ml": 700,
+      "cask": "All-sherry single cask",
+      "features": "Single pot still; Sonny Molloy's Galway exclusive; cask strength",
+      "history": "Redbreast All-Sherry Single Cask for Sonny Molloy's, Galway — Midleton single pot still matured entirely in sherry, bottled at cask strength (label ~58.7% ABV). Retailer exclusive; specific cask/bottle numbers should be read from the individual label (not fully captured in catalog photos)",
+      "why_valuable": "All-sherry Redbreast single cask; Galway retailer exclusive; cask strength",
+      "photos": [
+        {
+          "file": "20261105_101836.jpg",
+          "thumb": "images/thumbs/20261105_101836.jpg",
+          "full": "images/full/20261105_101836.jpg"
+        },
+        {
+          "file": "20261105_101731.jpg",
+          "thumb": "images/thumbs/20261105_101731.jpg",
+          "full": "images/full/20261105_101731.jpg"
+        },
+        {
+          "file": "20261105_101755.jpg",
+          "thumb": "images/thumbs/20261105_101755.jpg",
+          "full": "images/full/20261105_101755.jpg"
+        },
+        {
+          "file": "20261105_101909.jpg",
+          "thumb": "images/thumbs/20261105_101909.jpg",
+          "full": "images/full/20261105_101909.jpg"
+        },
+        {
+          "file": "20261105_101547.jpg",
+          "thumb": "images/thumbs/20261105_101547.jpg",
+          "full": "images/full/20261105_101547.jpg"
+        },
+        {
+          "file": "20261105_101346.jpg",
+          "thumb": "images/thumbs/20261105_101346.jpg",
+          "full": "images/full/20261105_101346.jpg"
+        },
+        {
+          "file": "20261105_101702.jpg",
+          "thumb": "images/thumbs/20261105_101702.jpg",
+          "full": "images/full/20261105_101702.jpg"
+        }
+      ],
+      "public_price_eur": 400,
+      "show_price": true,
+      "price_label": "€400"
+    },
+    {
+      "id": "w006",
+      "name": "Dunville's VR 12 Year Old PX Cask Strength",
+      "brand": "Dunville's",
+      "region": "Ireland",
+      "age": 12,
+      "vintage": null,
+      "abv": 56.4,
+      "volume_ml": 700,
+      "cask": "Pedro Ximénez (PX) sherry cask",
+      "features": "Cask strength; PX finish; Belfast / Echlinville; Single Malt",
+      "history": "Dunville's VR 12 Year Old PX Cask Strength (Belfast / Echlinville). Label reads Aged 12 Years Single Malt, PX Cask, Cask Strength; ABV on photographed bottles ~55–56.4% (batch-dependent). Part of Dunville's revival / Belfast Whiskey Week-linked PX releases; exact cask no. varies by bottling",
+      "why_valuable": "Cask-strength PX single malt under the historic Dunville's name; small festival/shop runs",
+      "photos": [
+        {
+          "file": "20261105_125610.jpg",
+          "thumb": "images/thumbs/20261105_125610.jpg",
+          "full": "images/full/20261105_125610.jpg"
+        },
+        {
+          "file": "20261105_110915.jpg",
+          "thumb": "images/thumbs/20261105_110915.jpg",
+          "full": "images/full/20261105_110915.jpg"
+        },
+        {
+          "file": "20261105_125626.jpg",
+          "thumb": "images/thumbs/20261105_125626.jpg",
+          "full": "images/full/20261105_125626.jpg"
+        }
+      ],
+      "public_price_eur": 120,
+      "show_price": true,
+      "price_label": "€120"
+    },
+    {
+      "id": "w007",
+      "name": "Writers' Tears Copper Pot",
+      "brand": "Writers' Tears",
+      "region": "Ireland",
+      "age": null,
+      "vintage": null,
+      "abv": 40.0,
+      "volume_ml": 700,
+      "cask": null,
+      "features": "Copper Pot; blended Irish; Walsh Whiskey",
+      "history": "Writers' Tears Copper Pot — Walsh Whiskey's core blend of single pot still and single malt, typically 40% ABV / 70cl. This catalog entry is the standard Copper Pot presentation (not a numbered limited edition)",
+      "why_valuable": "Accessible premium Irish blend; value is more drinking than rarity unless sealed older stock",
+      "photos": [
+        {
+          "file": "20261105_103913.jpg",
+          "thumb": "images/thumbs/20261105_103913.jpg",
+          "full": "images/full/20261105_103913.jpg"
+        },
+        {
+          "file": "20261105_103821.jpg",
+          "thumb": "images/thumbs/20261105_103821.jpg",
+          "full": "images/full/20261105_103821.jpg"
+        },
+        {
+          "file": "20261105_104010.jpg",
+          "thumb": "images/thumbs/20261105_104010.jpg",
+          "full": "images/full/20261105_104010.jpg"
+        }
+      ],
+      "public_price_eur": 40,
+      "show_price": true,
+      "price_label": "€40"
+    },
+    {
+      "id": "w008",
+      "name": "Writers' Tears Marsala Cask Finish",
+      "brand": "Writers' Tears",
+      "region": "Ireland",
+      "age": null,
+      "vintage": null,
+      "abv": null,
+      "volume_ml": 700,
+      "cask": "Marsala cask finish",
+      "features": "Marsala finish; limited",
+      "history": "Writers' Tears Marsala Cask Finish — limited Walsh Whiskey finish of Copper Pot stock in Marsala wine casks. Exact batch size/ABV for this bottle not confirmed from overlays; treat as a finite finish release rather than core range",
+      "why_valuable": "Marsala finish limited run; scarcer than standard Copper Pot",
+      "photos": [
+        {
+          "file": "20261105_104103.jpg",
+          "thumb": "images/thumbs/20261105_104103.jpg",
+          "full": "images/full/20261105_104103.jpg"
+        }
+      ],
+      "public_price_eur": 75,
+      "show_price": true,
+      "price_label": "€75"
+    },
+    {
+      "id": "w009",
+      "name": "The Macallan Quest",
+      "brand": "The Macallan",
+      "region": "Scotland",
+      "age": null,
+      "vintage": null,
+      "abv": 40.0,
+      "volume_ml": 700,
+      "cask": "Sherry-seasoned oak (Quest Collection)",
+      "features": "Quest Collection; travel retail",
+      "history": "The Macallan Quest — travel-retail Quest Collection opener, Highland single malt in sherry-seasoned oak, typically 40% ABV / 70cl. Not a numbered single cask; collectible as part of the Quest set (Quest → Legacy → Lumina → Enigma)",
+      "why_valuable": "Travel-retail Quest series entry; stronger as a set with Enigma than alone",
+      "photos": [
+        {
+          "file": "20261105_104355.jpg",
+          "thumb": "images/thumbs/20261105_104355.jpg",
+          "full": "images/full/20261105_104355.jpg"
+        },
+        {
+          "file": "20261105_104232.jpg",
+          "thumb": "images/thumbs/20261105_104232.jpg",
+          "full": "images/full/20261105_104232.jpg"
+        }
+      ],
+      "public_price_eur": 70,
+      "show_price": true,
+      "price_label": "€70"
+    },
+    {
+      "id": "w010",
+      "name": "Powers 16 Year Old John's Lane / Temple Bar Single Cask",
+      "brand": "Powers",
+      "region": "Ireland",
+      "age": 16,
+      "vintage": null,
+      "abv": null,
+      "volume_ml": 700,
+      "cask": null,
+      "features": "John's Lane / Temple Bar single cask territory",
+      "history": "Powers 16 Year Old John's Lane / Temple Bar single-cask territory — label identity needs re-check (photos previously mixed). If John's Lane 16yo: Midleton pot still aged statement expression; if Temple Bar single cask: retailer exclusive with cask/bottle numbers on label",
+      "why_valuable": "Uncertain ID — value depends on confirming John's Lane vs single-cask exclusive",
+      "photos": [
+        {
+          "file": "20261105_104507.jpg",
+          "thumb": "images/thumbs/20261105_104507.jpg",
+          "full": "images/full/20261105_104507.jpg"
+        },
+        {
+          "file": "20261105_104534.jpg",
+          "thumb": "images/thumbs/20261105_104534.jpg",
+          "full": "images/full/20261105_104534.jpg"
+        }
+      ],
+      "public_price_eur": 220,
+      "show_price": true,
+      "price_label": "€220"
+    },
+    {
+      "id": "w011",
+      "name": "Waterford The Cuvée",
+      "brand": "Waterford",
+      "region": "Ireland",
+      "age": null,
+      "vintage": null,
+      "abv": 50.0,
+      "volume_ml": 700,
+      "cask": null,
+      "features": "Flagship Cuvée; terroir-driven; barley-forward; ~25 farm origins",
+      "history": "Waterford The Cuvée — flagship barley-forward Irish single malt marrying ~25 separately distilled Single Farm Origin whiskies; typically 50% ABV / 70cl, NCF, transparent farm/cask data. Not a micro-cuvée one-off; the house Cuvée release",
+      "why_valuable": "Flagship terroir whisky; collectible for Waterford completists and early Cuvée bottles",
+      "photos": [
+        {
+          "file": "20261105_104635.jpg",
+          "thumb": "images/thumbs/20261105_104635.jpg",
+          "full": "images/full/20261105_104635.jpg"
+        },
+        {
+          "file": "20261105_104721.jpg",
+          "thumb": "images/thumbs/20261105_104721.jpg",
+          "full": "images/full/20261105_104721.jpg"
+        },
+        {
+          "file": "20261105_104841.jpg",
+          "thumb": "images/thumbs/20261105_104841.jpg",
+          "full": "images/full/20261105_104841.jpg"
+        },
+        {
+          "file": "20261105_133509 (1).jpg",
+          "thumb": "images/thumbs/20261105_133509_1.jpg",
+          "full": "images/full/20261105_133509_1.jpg"
+        },
+        {
+          "file": "20261105_133509 (2).jpg",
+          "thumb": "images/thumbs/20261105_133509_2.jpg",
+          "full": "images/full/20261105_133509_2.jpg"
+        },
+        {
+          "file": "20261105_133509.jpg",
+          "thumb": "images/thumbs/20261105_133509.jpg",
+          "full": "images/full/20261105_133509.jpg"
+        },
+        {
+          "file": "20261105_104810.jpg",
+          "thumb": "images/thumbs/20261105_104810.jpg",
+          "full": "images/full/20261105_104810.jpg"
+        },
+        {
+          "file": "20261105_133545.jpg",
+          "thumb": "images/thumbs/20261105_133545.jpg",
+          "full": "images/full/20261105_133545.jpg"
+        }
+      ],
+      "public_price_eur": 85,
+      "show_price": true,
+      "price_label": "€85"
+    },
+    {
+      "id": "w012",
+      "name": "Waterford Micro Cuvée",
+      "brand": "Waterford",
+      "region": "Ireland",
+      "age": null,
+      "vintage": null,
+      "abv": 50.0,
+      "volume_ml": 700,
+      "cask": null,
+      "features": "Micro Cuvée limited edition",
+      "history": "Waterford Micro Cuvée (generic entry) — small limited marriages of selected farm origins. Specific named Micro Cuvées in this catalog (Lómhar, Pique-Nique, Hearth) carry the collectible detail; this row may duplicate or need merging with those",
+      "why_valuable": "Micro Cuvées are short runs — value is in the named edition",
+      "photos": [
+        {
+          "file": "20261105_105619.jpg",
+          "thumb": "images/thumbs/20261105_105619.jpg",
+          "full": "images/full/20261105_105619.jpg"
+        }
+      ],
+      "public_price_eur": 100,
+      "show_price": true,
+      "price_label": "€100"
+    },
+    {
+      "id": "w013",
+      "name": "Waterford Single Farm Origin Lacken",
+      "brand": "Waterford",
+      "region": "Ireland",
+      "age": null,
+      "vintage": null,
+      "abv": 50.0,
+      "volume_ml": 700,
+      "cask": null,
+      "features": "Single Farm Origin; Lacken",
+      "history": "Waterford Single Farm Origin Lacken — one-farm barley isolation; typical SFO strength 50% ABV. Edition number and harvest year should be read from the individual box/label (not fully transcribed here)",
+      "why_valuable": "Single-farm Waterford; scarce per farm/edition",
+      "photos": [
+        {
+          "file": "20261105_105729.jpg",
+          "thumb": "images/thumbs/20261105_105729.jpg",
+          "full": "images/full/20261105_105729.jpg"
+        }
+      ],
+      "public_price_eur": 75,
+      "show_price": true,
+      "price_label": "€75"
+    },
+    {
+      "id": "w014",
+      "name": "Dunville's 20 Year Old Single Malt",
+      "brand": "Dunville's",
+      "region": "Ireland",
+      "age": 20,
+      "vintage": null,
+      "abv": null,
+      "volume_ml": 700,
+      "cask": null,
+      "features": "Single malt; Spirit of Belfast series",
+      "history": "Dunville's 20 Year Old Single Malt — Spirit of Belfast long-aged expression from Echlinville. Exact cask type/number for this bottle not confirmed from catalog crops",
+      "why_valuable": "20yo Dunville's is uncommon age stock for the revived brand",
+      "photos": [
+        {
+          "file": "20261105_105922.jpg",
+          "thumb": "images/thumbs/20261105_105922.jpg",
+          "full": "images/full/20261105_105922.jpg"
+        },
+        {
+          "file": "20261105_105936.jpg",
+          "thumb": "images/thumbs/20261105_105936.jpg",
+          "full": "images/full/20261105_105936.jpg"
+        }
+      ],
+      "public_price_eur": 280,
+      "show_price": true,
+      "price_label": "€280"
+    },
+    {
+      "id": "w015",
+      "name": "Dingle Batch No. 5 Single Malt",
+      "brand": "Dingle",
+      "region": "Ireland",
+      "age": null,
+      "vintage": null,
+      "abv": null,
+      "volume_ml": 700,
+      "cask": null,
+      "features": "Batch No.5 single malt",
+      "history": "Dingle Batch No. 5 Single Malt — numbered small-batch release from Dingle Distillery, Co. Kerry. Batch recipes change; ABV/outturn for Batch 5 should be confirmed on the tube label",
+      "why_valuable": "Early Dingle batch; closed batches rise as later batches replace them",
+      "photos": [
+        {
+          "file": "20261105_110442.jpg",
+          "thumb": "images/thumbs/20261105_110442.jpg",
+          "full": "images/full/20261105_110442.jpg"
+        },
+        {
+          "file": "20261105_110319.jpg",
+          "thumb": "images/thumbs/20261105_110319.jpg",
+          "full": "images/full/20261105_110319.jpg"
+        }
+      ],
+      "public_price_eur": 85,
+      "show_price": true,
+      "price_label": "€85"
+    },
+    {
+      "id": "w016",
+      "name": "Redbreast 21 Year Old",
+      "brand": "Redbreast",
+      "region": "Ireland",
+      "age": 21,
+      "vintage": null,
+      "abv": 46.0,
+      "volume_ml": 700,
+      "cask": null,
+      "features": "Single pot still; premium age statement",
+      "history": "Redbreast 21 Year Old — permanent premium age-statement single pot still (typically 46% ABV / 70cl) with multi-cask maturation including bourbon and sherry (sometimes wine). Not a Dream Cask limited; core luxury SKU",
+      "why_valuable": "Core high-age Redbreast; strong secondary market but widely distributed vs Dream Cask",
+      "photos": [
+        {
+          "file": "20261105_110529.jpg",
+          "thumb": "images/thumbs/20261105_110529.jpg",
+          "full": "images/full/20261105_110529.jpg"
+        }
+      ],
+      "public_price_eur": 210,
+      "show_price": true,
+      "price_label": "€210"
+    },
+    {
+      "id": "w018",
+      "name": "Thomond Gate King's Island Single Malt",
+      "brand": "Thomond Gate",
+      "region": "Ireland",
+      "age": null,
+      "vintage": null,
+      "abv": null,
+      "volume_ml": 700,
+      "cask": null,
+      "features": "King's Island single malt",
+      "history": "Thomond Gate King's Island Single Malt — Limerick-linked brand. Photos were contaminated with other bottles; treat identity as uncertain until a clean label shot is attached",
+      "why_valuable": "Uncertain ID — hold value judgment",
+      "photos": [
+        {
+          "file": "20261105_111127.jpg",
+          "thumb": "images/thumbs/20261105_111127.jpg",
+          "full": "images/full/20261105_111127.jpg"
+        }
+      ],
+      "public_price_eur": null,
+      "show_price": false,
+      "price_label": "Price on request"
+    },
+    {
+      "id": "w019",
+      "name": "Blue Spot 7 Year Old Cask Strength",
+      "brand": "Blue Spot",
+      "region": "Ireland",
+      "age": 7,
+      "vintage": null,
+      "abv": 58.7,
+      "volume_ml": 700,
+      "cask": "Bourbon barrels, sherry butts & Portuguese Madeira",
+      "features": "Cask strength; NCF; Spot family reunion after 56 years",
+      "history": "Blue Spot 7 Year Old Cask Strength — Mitchell & Son Spot family revival (returned after ~56 years). Midleton single pot still matured ≥7 years in bourbon barrels, sherry butts and Portuguese Madeira; this bottle labelled 58.7% ABV, 700ml, NCF. Batch ABV varies (e.g. 58.4–59.2%)",
+      "why_valuable": "First modern Blue Spot batches; cask-strength Spot; Madeira component uncommon",
+      "photos": [
+        {
+          "file": "20261105_141237.jpg",
+          "thumb": "images/thumbs/20261105_141237.jpg",
+          "full": "images/full/20261105_141237.jpg"
+        },
+        {
+          "file": "20261105_141237 (1).jpg",
+          "thumb": "images/thumbs/20261105_141237_1.jpg",
+          "full": "images/full/20261105_141237_1.jpg"
+        },
+        {
+          "file": "20261105_141237 (2).jpg",
+          "thumb": "images/thumbs/20261105_141237_2.jpg",
+          "full": "images/full/20261105_141237_2.jpg"
+        },
+        {
+          "file": "20261105_141237 (3).jpg",
+          "thumb": "images/thumbs/20261105_141237_3.jpg",
+          "full": "images/full/20261105_141237_3.jpg"
+        },
+        {
+          "file": "20261105_141237 (4).jpg",
+          "thumb": "images/thumbs/20261105_141237_4.jpg",
+          "full": "images/full/20261105_141237_4.jpg"
+        },
+        {
+          "file": "20261105_141237 (5).jpg",
+          "thumb": "images/thumbs/20261105_141237_5.jpg",
+          "full": "images/full/20261105_141237_5.jpg"
+        },
+        {
+          "file": "20261105_105654.jpg",
+          "thumb": "images/thumbs/20261105_105654.jpg",
+          "full": "images/full/20261105_105654.jpg"
+        }
+      ],
+      "public_price_eur": 110,
+      "show_price": true,
+      "price_label": "€110"
+    },
+    {
+      "id": "w020",
+      "name": "Gold Spot 9 Year Old",
+      "brand": "Gold Spot",
+      "region": "Ireland",
+      "age": 9,
+      "vintage": null,
+      "abv": null,
+      "volume_ml": 700,
+      "cask": null,
+      "features": "Single pot still; Spot range; limited",
+      "history": "Gold Spot 9 Year Old — inaugural Gold Spot (2022), single pot still with bourbon/sherry plus wine-cask components (Bordeaux/port in the first release), typically ~51.4% ABV. Photo set may be incomplete",
+      "why_valuable": "First Gold Spot release; limited vs Green/Yellow/Red core",
+      "photos": [
+        {
+          "file": "20261105_111521.jpg",
+          "thumb": "images/thumbs/20261105_111521.jpg",
+          "full": "images/full/20261105_111521.jpg"
+        }
+      ],
+      "public_price_eur": 190,
+      "show_price": true,
+      "price_label": "€190"
+    },
+    {
+      "id": "w022",
+      "name": "Krug Grande Cuvée 169ème Édition",
+      "brand": "Krug",
+      "region": "Champagne",
+      "age": null,
+      "vintage": null,
+      "abv": 12.5,
+      "volume_ml": 750,
+      "cask": null,
+      "features": "Champagne; Grande Cuvée; 169th edition; Brut",
+      "history": "Krug Grande Cuvée 169ème Édition — multi-vintage Champagne Brut, 12.5% ABV / 750ml (not whisky). Photographed stock in the cellar",
+      "why_valuable": "Prestige Champagne; 169th edition collectible among Krug completists",
+      "photos": [
+        {
+          "file": "20261105_110753.jpg",
+          "thumb": "images/thumbs/20261105_110753.jpg",
+          "full": "images/full/20261105_110753.jpg"
+        }
+      ],
+      "public_price_eur": 240,
+      "show_price": true,
+      "price_label": "€240"
+    },
+    {
+      "id": "w023",
+      "name": "The Macallan Rare Cask 2021 Release",
+      "brand": "The Macallan",
+      "region": "Scotland",
+      "age": null,
+      "vintage": null,
+      "abv": 43.0,
+      "volume_ml": 700,
+      "cask": "Rare sherry-seasoned oak casks",
+      "features": "Highland single malt; 2021 release; travel/special presentation",
+      "history": "The Macallan Rare Cask 2021 Release — annual Rare Cask selection from <1% of Macallan's sherry-seasoned oak inventory; 43% ABV / 700ml in the faceted Rare Cask bottle with 2021 RELEASE tag",
+      "why_valuable": "Annual Rare Cask; 2021 dated release sought by year-set collectors",
+      "photos": [
+        {
+          "file": "20261105_111045.jpg",
+          "thumb": "images/thumbs/20261105_111045.jpg",
+          "full": "images/full/20261105_111045.jpg"
+        },
+        {
+          "file": "20261105_111127.jpg",
+          "thumb": "images/thumbs/20261105_111127.jpg",
+          "full": "images/full/20261105_111127.jpg"
+        }
+      ],
+      "public_price_eur": 260,
+      "show_price": true,
+      "price_label": "€260"
+    },
+    {
+      "id": "w024",
+      "name": "Connacht Single Malt Batch 1",
+      "brand": "Connacht",
+      "region": "Ireland",
+      "age": null,
+      "vintage": null,
+      "abv": 47.0,
+      "volume_ml": 700,
+      "cask": null,
+      "features": "Batch 1; single malt; West of Ireland",
+      "history": "Connacht Single Malt Batch 1 — early West-of-Ireland single malt from Connacht Distillery, Co. Mayo; this bottle ~47% ABV. Batch 1 is the opening numbered batch",
+      "why_valuable": "First batch from a young distillery; Batch 1 scarcity",
+      "photos": [
+        {
+          "file": "20261105_111257.jpg",
+          "thumb": "images/thumbs/20261105_111257.jpg",
+          "full": "images/full/20261105_111257.jpg"
+        }
+      ],
+      "public_price_eur": 70,
+      "show_price": true,
+      "price_label": "€70"
+    },
+    {
+      "id": "w025",
+      "name": "Redbreast 12 Year Old",
+      "brand": "Redbreast",
+      "region": "Ireland",
+      "age": 12,
+      "vintage": null,
+      "abv": 40.0,
+      "volume_ml": 750,
+      "cask": null,
+      "features": "Single pot still; classic expression",
+      "history": "Redbreast 12 Year Old — classic single pot still core expression; photographed bottle shows 750ml / 40% VOL (export-style label). Not a limited edition",
+      "why_valuable": "Core Redbreast; value mainly if older packaging/sealed",
+      "photos": [
+        {
+          "file": "20261105_111458.jpg",
+          "thumb": "images/thumbs/20261105_111458.jpg",
+          "full": "images/full/20261105_111458.jpg"
+        }
+      ],
+      "public_price_eur": 60,
+      "show_price": true,
+      "price_label": "€60"
+    },
+    {
+      "id": "w026",
+      "name": "The Academy Single Pot Still",
+      "brand": "The Academy",
+      "region": "Ireland",
+      "age": null,
+      "vintage": null,
+      "abv": null,
+      "volume_ml": 700,
+      "cask": null,
+      "features": "Blue velvet pouch; tasting card",
+      "history": "The Academy Single Pot Still — identity/photo uncertain (shared Gold Spot imagery). Needs label verification",
+      "why_valuable": "Uncertain — do not price as confirmed Academy bottling",
+      "photos": [
+        {
+          "file": "20261105_111521.jpg",
+          "thumb": "images/thumbs/20261105_111521.jpg",
+          "full": "images/full/20261105_111521.jpg"
+        }
+      ],
+      "public_price_eur": 180,
+      "show_price": true,
+      "price_label": "€180"
+    },
+    {
+      "id": "w027",
+      "name": "Armand de Brignac Ace of Spades Brut Gold",
+      "brand": "Armand de Brignac",
+      "region": "Champagne",
+      "age": null,
+      "vintage": null,
+      "abv": 12.5,
+      "volume_ml": 750,
+      "cask": null,
+      "features": "Champagne; gold bottle; brut",
+      "history": "Armand de Brignac Ace of Spades Brut Gold — flagship gold-bottle Champagne with lacquer box; ~12.5% ABV. Photographed cellar stock (not whisky)",
+      "why_valuable": "Luxury Champagne; strong gift/resale demand",
+      "photos": [
+        {
+          "file": "20261105_111928.jpg",
+          "thumb": "images/thumbs/20261105_111928.jpg",
+          "full": "images/full/20261105_111928.jpg"
+        },
+        {
+          "file": "20261105_111840.jpg",
+          "thumb": "images/thumbs/20261105_111840.jpg",
+          "full": "images/full/20261105_111840.jpg"
+        },
+        {
+          "file": "20261105_112241.jpg",
+          "thumb": "images/thumbs/20261105_112241.jpg",
+          "full": "images/full/20261105_112241.jpg"
+        },
+        {
+          "file": "20261105_112149.jpg",
+          "thumb": "images/thumbs/20261105_112149.jpg",
+          "full": "images/full/20261105_112149.jpg"
+        }
+      ],
+      "public_price_eur": 260,
+      "show_price": true,
+      "price_label": "€260"
+    },
+    {
+      "id": "w028",
+      "name": "Jameson Black Barrel Proof",
+      "brand": "Jameson",
+      "region": "Ireland",
+      "age": null,
+      "vintage": null,
+      "abv": null,
+      "volume_ml": 700,
+      "cask": null,
+      "features": "Black Barrel; higher proof variant",
+      "history": "Jameson Black Barrel Proof — higher-strength Black Barrel variant emphasising charred bourbon barrels. Exact proof/ABV from label should be confirmed on the bottle",
+      "why_valuable": "Proof variant scarcer than standard Black Barrel",
+      "photos": [
+        {
+          "file": "20261105_125820.jpg",
+          "thumb": "images/thumbs/20261105_125820.jpg",
+          "full": "images/full/20261105_125820.jpg"
+        },
+        {
+          "file": "20261105_125722.jpg",
+          "thumb": "images/thumbs/20261105_125722.jpg",
+          "full": "images/full/20261105_125722.jpg"
+        },
+        {
+          "file": "20261105_125753.jpg",
+          "thumb": "images/thumbs/20261105_125753.jpg",
+          "full": "images/full/20261105_125753.jpg"
+        },
+        {
+          "file": "20261105_125706.jpg",
+          "thumb": "images/thumbs/20261105_125706.jpg",
+          "full": "images/full/20261105_125706.jpg"
+        }
+      ],
+      "public_price_eur": 140,
+      "show_price": true,
+      "price_label": "€140"
+    },
+    {
+      "id": "w029",
+      "name": "Dunville's VR 18 Year Old",
+      "brand": "Dunville's",
+      "region": "Ireland",
+      "age": 18,
+      "vintage": null,
+      "abv": null,
+      "volume_ml": 700,
+      "cask": null,
+      "features": "Tube with large gold 18",
+      "history": "Dunville's VR 18 Year Old — aged Belfast-branded single malt in Spirit of Belfast presentation",
+      "why_valuable": "18yo Dunville's; limited Echlinville aged stock",
+      "photos": [
+        {
+          "file": "20261105_130222.jpg",
+          "thumb": "images/thumbs/20261105_130222.jpg",
+          "full": "images/full/20261105_130222.jpg"
+        },
+        {
+          "file": "20261105_130251.jpg",
+          "thumb": "images/thumbs/20261105_130251.jpg",
+          "full": "images/full/20261105_130251.jpg"
+        }
+      ],
+      "public_price_eur": 220,
+      "show_price": true,
+      "price_label": "€220"
+    },
+    {
+      "id": "w030",
+      "name": "Dunville's 19 Year Old Single Malt",
+      "brand": "Dunville's",
+      "region": "Ireland",
+      "age": 19,
+      "vintage": null,
+      "abv": 53.2,
+      "volume_ml": 700,
+      "cask": "Madeira wine cask finish",
+      "features": "Single cask; Celtic Whiskey Shop; bottled 14/5/21; cask 1636",
+      "history": "Dunville's 19 Year Old Madeira Wine Cask Finish — Celtic Whiskey Shop bottling; label data: Cask 1636, bottle examples ~#211, bottled 14/5/21, 53.2% ABV / 700ml, Spirit of Belfast tin",
+      "why_valuable": "Single-cask Madeira finish; retailer exclusive; numbered bottles",
+      "photos": [
+        {
+          "file": "20261105_130333.jpg",
+          "thumb": "images/thumbs/20261105_130333.jpg",
+          "full": "images/full/20261105_130333.jpg"
+        },
+        {
+          "file": "20261105_130403.jpg",
+          "thumb": "images/thumbs/20261105_130403.jpg",
+          "full": "images/full/20261105_130403.jpg"
+        },
+        {
+          "file": "20261105_130446.jpg",
+          "thumb": "images/thumbs/20261105_130446.jpg",
+          "full": "images/full/20261105_130446.jpg"
+        }
+      ],
+      "public_price_eur": 280,
+      "show_price": true,
+      "price_label": "€280"
+    },
+    {
+      "id": "w031",
+      "name": "Athrú Single Cask",
+      "brand": "Athrú",
+      "region": "Ireland",
+      "age": null,
+      "vintage": null,
+      "abv": null,
+      "volume_ml": 700,
+      "cask": null,
+      "features": "Blue tube with horse crest; stout bottle",
+      "history": "Athrú Single Cask — Sligo/Athrú (formerly Nicotin) single cask. Cask number/ABV not confirmed from catalog crops; flagged uncertain",
+      "why_valuable": "Irish craft single cask — value if cask no. verified",
+      "photos": [
+        {
+          "file": "20261105_130529.jpg",
+          "thumb": "images/thumbs/20261105_130529.jpg",
+          "full": "images/full/20261105_130529.jpg"
+        }
+      ],
+      "public_price_eur": 320,
+      "show_price": true,
+      "price_label": "€320"
+    },
+    {
+      "id": "w032",
+      "name": "Heaven's Door × Redbreast Edition",
+      "brand": "Heaven's Door",
+      "region": "USA / Ireland collaboration",
+      "age": null,
+      "vintage": null,
+      "abv": null,
+      "volume_ml": 700,
+      "cask": null,
+      "features": "Bourbon finished in Redbreast Irish whiskey casks; Master Blenders' Edition",
+      "history": "Heaven's Door × Redbreast Master Blenders' Edition — American straight bourbon finished in Irish whiskey casks tied to Redbreast; label-confirmed collaboration",
+      "why_valuable": "Cross-category Master Blenders' collab; limited US/IE crossover appeal",
+      "photos": [
+        {
+          "file": "20261105_130627.jpg",
+          "thumb": "images/thumbs/20261105_130627.jpg",
+          "full": "images/full/20261105_130627.jpg"
+        },
+        {
+          "file": "20261105_130614.jpg",
+          "thumb": "images/thumbs/20261105_130614.jpg",
+          "full": "images/full/20261105_130614.jpg"
+        }
+      ],
+      "public_price_eur": 140,
+      "show_price": true,
+      "price_label": "€140"
+    },
+    {
+      "id": "w033",
+      "name": "Dunville's 14 Year Old Single Malt",
+      "brand": "Dunville's",
+      "region": "Ireland",
+      "age": 14,
+      "vintage": null,
+      "abv": null,
+      "volume_ml": 700,
+      "cask": null,
+      "features": "Tube with large gold 14",
+      "history": "Dunville's 14 Year Old Single Malt — Spirit of Belfast aged expression. Exact cask/ABV from this bottle not fully read",
+      "why_valuable": "Mid-teen Dunville's age statement; smaller runs than core blends",
+      "photos": [
+        {
+          "file": "20261105_130655.jpg",
+          "thumb": "images/thumbs/20261105_130655.jpg",
+          "full": "images/full/20261105_130655.jpg"
+        }
+      ],
+      "public_price_eur": 180,
+      "show_price": true,
+      "price_label": "€180"
+    },
+    {
+      "id": "w034",
+      "name": "Connacht Single Malt First Cask",
+      "brand": "Connacht",
+      "region": "Ireland",
+      "age": null,
+      "vintage": null,
+      "abv": null,
+      "volume_ml": 700,
+      "cask": null,
+      "features": "Misty landscape box; First Cask",
+      "history": "Connacht Single Malt First Cask — early First Cask release from Connacht Distillery (distinct from Batch 1)",
+      "why_valuable": "Early First Cask; young-distillery collectible",
+      "photos": [
+        {
+          "file": "20261105_130822.jpg",
+          "thumb": "images/thumbs/20261105_130822.jpg",
+          "full": "images/full/20261105_130822.jpg"
+        },
+        {
+          "file": "20261105_130737.jpg",
+          "thumb": "images/thumbs/20261105_130737.jpg",
+          "full": "images/full/20261105_130737.jpg"
+        }
+      ],
+      "public_price_eur": 180,
+      "show_price": true,
+      "price_label": "€180"
+    },
+    {
+      "id": "w035",
+      "name": "Redbreast PX Edition (Iberian Series)",
+      "brand": "Redbreast",
+      "region": "Ireland",
+      "age": null,
+      "vintage": null,
+      "abv": null,
+      "volume_ml": 700,
+      "cask": "Pedro Ximénez (Iberian Series)",
+      "features": "Iberian Series; PX finish",
+      "history": "Redbreast PX Edition (Iberian Series) — single pot still finished in Pedro Ximénez sherry casks as part of the Iberian Series. Typically 46% ABV / 70cl limited series SKU",
+      "why_valuable": "Iberian Series limited; PX finish popular with collectors",
+      "photos": [
+        {
+          "file": "20261105_131107.jpg",
+          "thumb": "images/thumbs/20261105_131107.jpg",
+          "full": "images/full/20261105_131107.jpg"
+        },
+        {
+          "file": "20261105_131742.jpg",
+          "thumb": "images/thumbs/20261105_131742.jpg",
+          "full": "images/full/20261105_131742.jpg"
+        },
+        {
+          "file": "20261105_131742 (1).jpg",
+          "thumb": "images/thumbs/20261105_131742_1.jpg",
+          "full": "images/full/20261105_131742_1.jpg"
+        },
+        {
+          "file": "20261105_131809.jpg",
+          "thumb": "images/thumbs/20261105_131809.jpg",
+          "full": "images/full/20261105_131809.jpg"
+        },
+        {
+          "file": "20261105_131809 (1).jpg",
+          "thumb": "images/thumbs/20261105_131809_1.jpg",
+          "full": "images/full/20261105_131809_1.jpg"
+        },
+        {
+          "file": "20261105_131809 (2).jpg",
+          "thumb": "images/thumbs/20261105_131809_2.jpg",
+          "full": "images/full/20261105_131809_2.jpg"
+        },
+        {
+          "file": "20261105_131809 (3).jpg",
+          "thumb": "images/thumbs/20261105_131809_3.jpg",
+          "full": "images/full/20261105_131809_3.jpg"
+        },
+        {
+          "file": "20261105_131809 (4).jpg",
+          "thumb": "images/thumbs/20261105_131809_4.jpg",
+          "full": "images/full/20261105_131809_4.jpg"
+        },
+        {
+          "file": "20261105_130923.jpg",
+          "thumb": "images/thumbs/20261105_130923.jpg",
+          "full": "images/full/20261105_130923.jpg"
+        },
+        {
+          "file": "20261105_131016.jpg",
+          "thumb": "images/thumbs/20261105_131016.jpg",
+          "full": "images/full/20261105_131016.jpg"
+        }
+      ],
+      "public_price_eur": 200,
+      "show_price": true,
+      "price_label": "€200"
+    },
+    {
+      "id": "w036",
+      "name": "The Irishman Cask Strength",
+      "brand": "The Irishman",
+      "region": "Ireland",
+      "age": null,
+      "vintage": null,
+      "abv": null,
+      "volume_ml": 700,
+      "cask": null,
+      "features": "Cask strength; Walsh Whiskey",
+      "history": "The Irishman Cask Strength — Walsh Whiskey CS bottling (pot-still led)",
+      "why_valuable": "Cask-strength Irishman; smaller than standard range",
+      "photos": [
+        {
+          "file": "20261105_131202.jpg",
+          "thumb": "images/thumbs/20261105_131202.jpg",
+          "full": "images/full/20261105_131202.jpg"
+        }
+      ],
+      "public_price_eur": 130,
+      "show_price": true,
+      "price_label": "€130"
+    },
+    {
+      "id": "w037",
+      "name": "Killowen 10 Year Old Bonded Experimental",
+      "brand": "Killowen",
+      "region": "Ireland",
+      "age": 10,
+      "vintage": null,
+      "abv": null,
+      "volume_ml": 700,
+      "cask": null,
+      "features": "Burlap bag; Bonded Experimental Series",
+      "history": "Killowen 10 Year Old Bonded Experimental — Mourne Mountains experimental bonded series, typically 500ml cask strength. Batch/bottle numbers on label",
+      "why_valuable": "Tiny Killowen experimental outturns; 500ml CS format",
+      "photos": [
+        {
+          "file": "20261105_131702.jpg",
+          "thumb": "images/thumbs/20261105_131702.jpg",
+          "full": "images/full/20261105_131702.jpg"
+        }
+      ],
+      "public_price_eur": 90,
+      "show_price": true,
+      "price_label": "€90"
+    },
+    {
+      "id": "w038",
+      "name": "Redbreast 12 Year Old Limited Edition Bird Feeder",
+      "brand": "Redbreast",
+      "region": "Ireland",
+      "age": 12,
+      "vintage": null,
+      "abv": null,
+      "volume_ml": 700,
+      "cask": null,
+      "features": "Limited edition bird feeder gift pack",
+      "history": "Redbreast 12 Limited Edition Bird Feeder — classic Redbreast 12 packaged with decorative bird-feeder / Galway crystal gift concept. Liquid is standard 12yo; collectible packaging",
+      "why_valuable": "Gift-pack rarity more than liquid rarity; complete sets preferred",
+      "photos": [
+        {
+          "file": "20261105_132001.jpg",
+          "thumb": "images/thumbs/20261105_132001.jpg",
+          "full": "images/full/20261105_132001.jpg"
+        },
+        {
+          "file": "20261105_132001 (1).jpg",
+          "thumb": "images/thumbs/20261105_132001_1.jpg",
+          "full": "images/full/20261105_132001_1.jpg"
+        },
+        {
+          "file": "20261105_132001 (2).jpg",
+          "thumb": "images/thumbs/20261105_132001_2.jpg",
+          "full": "images/full/20261105_132001_2.jpg"
+        },
+        {
+          "file": "20261105_132001 (3).jpg",
+          "thumb": "images/thumbs/20261105_132001_3.jpg",
+          "full": "images/full/20261105_132001_3.jpg"
+        },
+        {
+          "file": "20261105_131917.jpg",
+          "thumb": "images/thumbs/20261105_131917.jpg",
+          "full": "images/full/20261105_131917.jpg"
+        },
+        {
+          "file": "20261105_131917 (1).jpg",
+          "thumb": "images/thumbs/20261105_131917_1.jpg",
+          "full": "images/full/20261105_131917_1.jpg"
+        },
+        {
+          "file": "20261105_132055.jpg",
+          "thumb": "images/thumbs/20261105_132055.jpg",
+          "full": "images/full/20261105_132055.jpg"
+        },
+        {
+          "file": "20261105_132055 (1).jpg",
+          "thumb": "images/thumbs/20261105_132055_1.jpg",
+          "full": "images/full/20261105_132055_1.jpg"
+        },
+        {
+          "file": "20261105_132159.jpg",
+          "thumb": "images/thumbs/20261105_132159.jpg",
+          "full": "images/full/20261105_132159.jpg"
+        },
+        {
+          "file": "20261105_132159 (1).jpg",
+          "thumb": "images/thumbs/20261105_132159_1.jpg",
+          "full": "images/full/20261105_132159_1.jpg"
+        }
+      ],
+      "public_price_eur": 80,
+      "show_price": true,
+      "price_label": "€80"
+    },
+    {
+      "id": "w039",
+      "name": "Gold Spot 13 Year Old",
+      "brand": "Gold Spot",
+      "region": "Ireland",
+      "age": 13,
+      "vintage": null,
+      "abv": 46.0,
+      "volume_ml": 700,
+      "cask": "Bourbon, sherry & Recioto della Valpolicella",
+      "features": "Generations Edition; limited release",
+      "history": "Gold Spot 13 Year Old Generations Edition — matured in bourbon & sherry then finished ~16 months in Recioto della Valpolicella (Secondo Marco / Valpolicella) casks; 46% ABV, NCF; celebrates seven Mitchell generations; released ~Mar 2024 (RRP ~€150). Limited global allocation (reports cite ~3,000 bottles)",
+      "why_valuable": "Named Generations limited; Italian Recioto finish; finite Spot release",
+      "photos": [
+        {
+          "file": "20261105_133320.jpg",
+          "thumb": "images/thumbs/20261105_133320.jpg",
+          "full": "images/full/20261105_133320.jpg"
+        },
+        {
+          "file": "20261105_133320 (1).jpg",
+          "thumb": "images/thumbs/20261105_133320_1.jpg",
+          "full": "images/full/20261105_133320_1.jpg"
+        },
+        {
+          "file": "20261105_133320 (2).jpg",
+          "thumb": "images/thumbs/20261105_133320_2.jpg",
+          "full": "images/full/20261105_133320_2.jpg"
+        },
+        {
+          "file": "20261105_133641.jpg",
+          "thumb": "images/thumbs/20261105_133641.jpg",
+          "full": "images/full/20261105_133641.jpg"
+        },
+        {
+          "file": "20261105_133634.jpg",
+          "thumb": "images/thumbs/20261105_133634.jpg",
+          "full": "images/full/20261105_133634.jpg"
+        }
+      ],
+      "public_price_eur": 155,
+      "show_price": true,
+      "price_label": "€155"
+    },
+    {
+      "id": "w040",
+      "name": "Hibiki Japanese Harmony",
+      "brand": "Hibiki",
+      "region": "Japan",
+      "age": null,
+      "vintage": null,
+      "abv": 43.0,
+      "volume_ml": 700,
+      "cask": null,
+      "features": "Japanese Harmony; blended whisky",
+      "history": "Hibiki Japanese Harmony — Suntory's core blended Japanese whisky, typically 43% ABV / 70cl. Not a limited edition",
+      "why_valuable": "Core Hibiki; demand driven by Japanese whisky market, not scarcity of this SKU",
+      "photos": [
+        {
+          "file": "20261105_135242.jpg",
+          "thumb": "images/thumbs/20261105_135242.jpg",
+          "full": "images/full/20261105_135242.jpg"
+        }
+      ],
+      "public_price_eur": 85,
+      "show_price": true,
+      "price_label": "€85"
+    },
+    {
+      "id": "w041",
+      "name": "Killowen 11 Year Old",
+      "brand": "Killowen",
+      "region": "Ireland",
+      "age": 11,
+      "vintage": null,
+      "abv": null,
+      "volume_ml": 700,
+      "cask": null,
+      "features": "11 Year Old release",
+      "history": "Killowen 11 Year Old — age-statement Killowen; exact batch/cask not confirmed; uncertain flag",
+      "why_valuable": "Verify batch — Killowen 11s are small",
+      "photos": [
+        {
+          "file": "20261105_135612.jpg",
+          "thumb": "images/thumbs/20261105_135612.jpg",
+          "full": "images/full/20261105_135612.jpg"
+        }
+      ],
+      "public_price_eur": null,
+      "show_price": false,
+      "price_label": "Price on request"
+    },
+    {
+      "id": "w042",
+      "name": "W.D. O'Connell 19 Year Old",
+      "brand": "W.D. O'Connell",
+      "region": "Ireland",
+      "age": 19,
+      "vintage": null,
+      "abv": null,
+      "volume_ml": 700,
+      "cask": null,
+      "features": "Independent bottler; age 19",
+      "history": "W.D. O'Connell 19 Year Old — independent Irish bottling; cask details not confirmed from crops; uncertain",
+      "why_valuable": "19yo indie Irish — value if cask/distillery on label is desirable",
+      "photos": [
+        {
+          "file": "20261105_135655.jpg",
+          "thumb": "images/thumbs/20261105_135655.jpg",
+          "full": "images/full/20261105_135655.jpg"
+        }
+      ],
+      "public_price_eur": 160,
+      "show_price": true,
+      "price_label": "€160"
+    },
+    {
+      "id": "w043",
+      "name": "Dingle Batch No. 6 Single Malt",
+      "brand": "Dingle",
+      "region": "Ireland",
+      "age": null,
+      "vintage": null,
+      "abv": null,
+      "volume_ml": 700,
+      "cask": null,
+      "features": "Dark blue tube; Batch 6",
+      "history": "Dingle Batch No. 6 Single Malt — successive numbered Dingle batch; recipe differs from Batch 5. Confirm ABV/outturn on tube",
+      "why_valuable": "Closed Dingle batch; collect as a batch set",
+      "photos": [
+        {
+          "file": "20261105_135739.jpg",
+          "thumb": "images/thumbs/20261105_135739.jpg",
+          "full": "images/full/20261105_135739.jpg"
+        }
+      ],
+      "public_price_eur": 85,
+      "show_price": true,
+      "price_label": "€85"
+    },
+    {
+      "id": "w044",
+      "name": "Dingle Single Pot Still",
+      "brand": "Dingle",
+      "region": "Ireland",
+      "age": null,
+      "vintage": null,
+      "abv": null,
+      "volume_ml": 700,
+      "cask": null,
+      "features": "White tube; purple foil",
+      "history": "Dingle Single Pot Still — Dingle SPS expression (distinct from batch malts). Confirm release year/ABV on label",
+      "why_valuable": "Dingle SPS scarcer than batch malts",
+      "photos": [
+        {
+          "file": "20261105_135815.jpg",
+          "thumb": "images/thumbs/20261105_135815.jpg",
+          "full": "images/full/20261105_135815.jpg"
+        },
+        {
+          "file": "20261105_135838.jpg",
+          "thumb": "images/thumbs/20261105_135838.jpg",
+          "full": "images/full/20261105_135838.jpg"
+        }
+      ],
+      "public_price_eur": 100,
+      "show_price": true,
+      "price_label": "€100"
+    },
+    {
+      "id": "w045",
+      "name": "Midleton Very Rare (wooden box release)",
+      "brand": "Midleton",
+      "region": "Ireland",
+      "age": null,
+      "vintage": null,
+      "abv": 40.0,
+      "volume_ml": 700,
+      "cask": null,
+      "features": "Very Rare; wooden presentation case",
+      "history": "Midleton Very Rare (wooden-box presentation) — annual MVR vintage blend of Midleton pot still & grain at 40% ABV, individually numbered and signed by the Master Distiller. Exact vintage year should match the case band (20/XX)",
+      "why_valuable": "Annual MVR; wooden case + signature/number drive collectability",
+      "photos": [
+        {
+          "file": "20261105_140306.jpg",
+          "thumb": "images/thumbs/20261105_140306.jpg",
+          "full": "images/full/20261105_140306.jpg"
+        },
+        {
+          "file": "20261105_140233.jpg",
+          "thumb": "images/thumbs/20261105_140233.jpg",
+          "full": "images/full/20261105_140233.jpg"
+        },
+        {
+          "file": "20261105_140624.jpg",
+          "thumb": "images/thumbs/20261105_140624.jpg",
+          "full": "images/full/20261105_140624.jpg"
+        },
+        {
+          "file": "20261105_140701.jpg",
+          "thumb": "images/thumbs/20261105_140701.jpg",
+          "full": "images/full/20261105_140701.jpg"
+        },
+        {
+          "file": "20261105_140701 (1).jpg",
+          "thumb": "images/thumbs/20261105_140701_1.jpg",
+          "full": "images/full/20261105_140701_1.jpg"
+        },
+        {
+          "file": "20261105_140551.jpg",
+          "thumb": "images/thumbs/20261105_140551.jpg",
+          "full": "images/full/20261105_140551.jpg"
+        }
+      ],
+      "public_price_eur": 250,
+      "show_price": true,
+      "price_label": "€250"
+    },
+    {
+      "id": "w046",
+      "name": "Midleton Single Cask 1999 — The Friend at Hand, Belfast",
+      "brand": "Midleton",
+      "region": "Ireland",
+      "age": null,
+      "vintage": 1999,
+      "abv": 46.0,
+      "volume_ml": 700,
+      "cask": "First fill bourbon barrel 40728",
+      "features": "Friend at Hand Belfast exclusive; bottle 174/210; distilled 26 Apr 1999; 46% ABV",
+      "history": "Midleton single pot still single cask matured exclusively in first-fill bourbon barrel 40728, distilled 26 April 1999, selected/bonded for The Friend at Hand, Belfast. Bottle 174 of 210 at 46% ABV / 700ml. (Inventory previously mislabelled as Bushmills Causeway 2011 — corrected from high-res label.)",
+      "why_valuable": "210-bottle Belfast retailer exclusive; 1999 Midleton bourbon single cask",
+      "photos": [
+        {
+          "file": "20261105_140802.jpg",
+          "thumb": "images/thumbs/20261105_140802.jpg",
+          "full": "images/full/20261105_140802.jpg"
+        },
+        {
+          "file": "20261105_140844.jpg",
+          "thumb": "images/thumbs/20261105_140844.jpg",
+          "full": "images/full/20261105_140844.jpg"
+        }
+      ],
+      "public_price_eur": 400,
+      "show_price": true,
+      "price_label": "€400"
+    },
+    {
+      "id": "w047",
+      "name": "Green Spot Single Pot Still (wooden box)",
+      "brand": "Green Spot",
+      "region": "Ireland",
+      "age": null,
+      "vintage": null,
+      "abv": null,
+      "volume_ml": 700,
+      "cask": null,
+      "features": "Single pot still; wooden box presentation",
+      "history": "Green Spot Single Pot Still (wooden box) — classic Mitchell & Son Green Spot (~7–10yo pot still) in gift wooden presentation. Not Château Léoville or single-cask",
+      "why_valuable": "Gift packaging; liquid is core Green Spot",
+      "photos": [
+        {
+          "file": "20261105_140926.jpg",
+          "thumb": "images/thumbs/20261105_140926.jpg",
+          "full": "images/full/20261105_140926.jpg"
+        }
+      ],
+      "public_price_eur": 55,
+      "show_price": true,
+      "price_label": "€55"
+    },
+    {
+      "id": "w049",
+      "name": "The Irishman Cask Strength 2022",
+      "brand": "The Irishman",
+      "region": "Ireland",
+      "age": null,
+      "vintage": 2022,
+      "abv": null,
+      "volume_ml": 700,
+      "cask": null,
+      "features": "2022 cask strength release",
+      "history": "The Irishman Cask Strength 2022 — dated CS release",
+      "why_valuable": "Year-dated CS; scarcer than NAS Irishman",
+      "photos": [
+        {
+          "file": "20261105_141528.jpg",
+          "thumb": "images/thumbs/20261105_141528.jpg",
+          "full": "images/full/20261105_141528.jpg"
+        }
+      ],
+      "public_price_eur": 130,
+      "show_price": true,
+      "price_label": "€130"
+    },
+    {
+      "id": "w050",
+      "name": "Natterjack Irish Whiskey",
+      "brand": "Natterjack",
+      "region": "Ireland",
+      "age": null,
+      "vintage": null,
+      "abv": null,
+      "volume_ml": 700,
+      "cask": null,
+      "features": "Toad label; small bottles",
+      "history": "Natterjack Irish Whiskey — brand entry; details uncertain from catalog",
+      "why_valuable": "Uncertain — verify expression",
+      "photos": [
+        {
+          "file": "20261105_141857.jpg",
+          "thumb": "images/thumbs/20261105_141857.jpg",
+          "full": "images/full/20261105_141857.jpg"
+        },
+        {
+          "file": "20261105_142001.jpg",
+          "thumb": "images/thumbs/20261105_142001.jpg",
+          "full": "images/full/20261105_142001.jpg"
+        }
+      ],
+      "public_price_eur": 120,
+      "show_price": true,
+      "price_label": "€120"
+    },
+    {
+      "id": "w051",
+      "name": "Midleton Very Rare 2022",
+      "brand": "Midleton",
+      "region": "Ireland",
+      "age": null,
+      "vintage": 2022,
+      "abv": 40.0,
+      "volume_ml": 700,
+      "cask": null,
+      "features": "2022 vintage release; patterned box",
+      "history": "Midleton Very Rare 2022 Vintage Release — annual blend signed by Kevin O'Gorman, 40% ABV / 700ml, individually numbered (examples in collection photos include #19234, #29166). Wooden case banded 20/22",
+      "why_valuable": "Dated MVR vintage; numbered + signed; year-set collectors",
+      "photos": [
+        {
+          "file": "20261106_111806.jpg",
+          "thumb": "images/thumbs/20261106_111806.jpg",
+          "full": "images/full/20261106_111806.jpg"
+        },
+        {
+          "file": "20261106_113701.jpg",
+          "thumb": "images/thumbs/20261106_113701.jpg",
+          "full": "images/full/20261106_113701.jpg"
+        },
+        {
+          "file": "20261105_143858.jpg",
+          "thumb": "images/thumbs/20261105_143858.jpg",
+          "full": "images/full/20261105_143858.jpg"
+        },
+        {
+          "file": "20261105_143924.jpg",
+          "thumb": "images/thumbs/20261105_143924.jpg",
+          "full": "images/full/20261105_143924.jpg"
+        }
+      ],
+      "public_price_eur": 240,
+      "show_price": true,
+      "price_label": "€240"
+    },
+    {
+      "id": "w052",
+      "name": "Redbreast Lustau Edition Oloroso",
+      "brand": "Redbreast",
+      "region": "Ireland",
+      "age": null,
+      "vintage": null,
+      "abv": null,
+      "volume_ml": 700,
+      "cask": "Lustau Oloroso",
+      "features": "Lustau Edition",
+      "history": "Redbreast Lustau Edition — finished in Oloroso casks from Bodegas Lustau; typically 46% ABV Iberian/sherry series SKU",
+      "why_valuable": "Lustau collab; popular limited series Redbreast",
+      "photos": [
+        {
+          "file": "20261106_103146.jpg",
+          "thumb": "images/thumbs/20261106_103146.jpg",
+          "full": "images/full/20261106_103146.jpg"
+        },
+        {
+          "file": "20261106_103030.jpg",
+          "thumb": "images/thumbs/20261106_103030.jpg",
+          "full": "images/full/20261106_103030.jpg"
+        }
+      ],
+      "public_price_eur": 75,
+      "show_price": true,
+      "price_label": "€75"
+    },
+    {
+      "id": "w053",
+      "name": "Redbreast Dream Cask 28 Year Old Oloroso",
+      "brand": "Redbreast",
+      "region": "Ireland",
+      "age": 28,
+      "vintage": null,
+      "abv": null,
+      "volume_ml": 700,
+      "cask": "Oloroso",
+      "features": "Dream Cask; ultra-rare",
+      "history": "Redbreast Dream Cask — catalogued as 28yo Oloroso; note: Dream Cask Oloroso Sherry Edition was released as a min. 29yo vatting married 15 months in an Oloroso butt, 51.2% ABV, 500ml, only 924 bottles via The Birdhouse ballot (~€520). If this bottle is instead Ruby Port Dream Cask: 28yo, 51.5% ABV, 912 bottles, cask 400295. Confirm which Dream Cask from the label",
+      "why_valuable": "Dream Cask = ultra-limited Birdhouse ballot releases (~900 bottles); high secondary prices",
+      "photos": [
+        {
+          "file": "20261106_104804.jpg",
+          "thumb": "images/thumbs/20261106_104804.jpg",
+          "full": "images/full/20261106_104804.jpg"
+        },
+        {
+          "file": "20261106_104351.jpg",
+          "thumb": "images/thumbs/20261106_104351.jpg",
+          "full": "images/full/20261106_104351.jpg"
+        },
+        {
+          "file": "20261106_104943.jpg",
+          "thumb": "images/thumbs/20261106_104943.jpg",
+          "full": "images/full/20261106_104943.jpg"
+        }
+      ],
+      "public_price_eur": 1100,
+      "show_price": true,
+      "price_label": "€1100"
+    },
+    {
+      "id": "w054",
+      "name": "Midleton Very Rare 2024",
+      "brand": "Midleton",
+      "region": "Ireland",
+      "age": null,
+      "vintage": 2024,
+      "abv": 40.0,
+      "volume_ml": 700,
+      "cask": null,
+      "features": "2024 vintage; floral patterned box",
+      "history": "Midleton Very Rare 2024 Vintage Release — latest annual MVR at 40% ABV, numbered/signed, wooden presentation",
+      "why_valuable": "Newest MVR vintage; early sealed bottles for year sets",
+      "photos": [
+        {
+          "file": "20261106_105536.jpg",
+          "thumb": "images/thumbs/20261106_105536.jpg",
+          "full": "images/full/20261106_105536.jpg"
+        },
+        {
+          "file": "20261106_105424.jpg",
+          "thumb": "images/thumbs/20261106_105424.jpg",
+          "full": "images/full/20261106_105424.jpg"
+        },
+        {
+          "file": "20261106_105312.jpg",
+          "thumb": "images/thumbs/20261106_105312.jpg",
+          "full": "images/full/20261106_105312.jpg"
+        }
+      ],
+      "public_price_eur": 245,
+      "show_price": true,
+      "price_label": "€245"
+    },
+    {
+      "id": "w055",
+      "name": "Midleton Very Rare 2021",
+      "brand": "Midleton",
+      "region": "Ireland",
+      "age": null,
+      "vintage": 2021,
+      "abv": 40.0,
+      "volume_ml": 700,
+      "cask": null,
+      "features": "2021 vintage; wooden box",
+      "history": "Midleton Very Rare 2021 — Kevin O'Gorman signature, 40% ABV; collection examples include bottle #10047",
+      "why_valuable": "",
+      "photos": [
+        {
+          "file": "20261106_110601.jpg",
+          "thumb": "images/thumbs/20261106_110601.jpg",
+          "full": "images/full/20261106_110601.jpg"
+        },
+        {
+          "file": "20261106_105821.jpg",
+          "thumb": "images/thumbs/20261106_105821.jpg",
+          "full": "images/full/20261106_105821.jpg"
+        },
+        {
+          "file": "20261106_113838.jpg",
+          "thumb": "images/thumbs/20261106_113838.jpg",
+          "full": "images/full/20261106_113838.jpg"
+        },
+        {
+          "file": "20261106_110146.jpg",
+          "thumb": "images/thumbs/20261106_110146.jpg",
+          "full": "images/full/20261106_110146.jpg"
+        },
+        {
+          "file": "20261106_110002.jpg",
+          "thumb": "images/thumbs/20261106_110002.jpg",
+          "full": "images/full/20261106_110002.jpg"
+        }
+      ],
+      "public_price_eur": 280,
+      "show_price": true,
+      "price_label": "€280"
+    },
+    {
+      "id": "w056",
+      "name": "Midleton Very Rare 2023",
+      "brand": "Midleton",
+      "region": "Ireland",
+      "age": null,
+      "vintage": 2023,
+      "abv": 40.0,
+      "volume_ml": 700,
+      "cask": null,
+      "features": "2023 vintage; patterned box",
+      "history": "Midleton Very Rare 2023 — Vintage Release 2023, 40% ABV / 700ml; collection photos show bottle #09583 among others",
+      "why_valuable": "2023 MVR vintage; numbered collectible",
+      "photos": [
+        {
+          "file": "20261106_110424.jpg",
+          "thumb": "images/thumbs/20261106_110424.jpg",
+          "full": "images/full/20261106_110424.jpg"
+        },
+        {
+          "file": "20261106_110757.jpg",
+          "thumb": "images/thumbs/20261106_110757.jpg",
+          "full": "images/full/20261106_110757.jpg"
+        },
+        {
+          "file": "20261106_110930.jpg",
+          "thumb": "images/thumbs/20261106_110930.jpg",
+          "full": "images/full/20261106_110930.jpg"
+        },
+        {
+          "file": "20261106_103710.jpg",
+          "thumb": "images/thumbs/20261106_103710.jpg",
+          "full": "images/full/20261106_103710.jpg"
+        },
+        {
+          "file": "20261106_103348.jpg",
+          "thumb": "images/thumbs/20261106_103348.jpg",
+          "full": "images/full/20261106_103348.jpg"
+        }
+      ],
+      "public_price_eur": 250,
+      "show_price": true,
+      "price_label": "€250"
+    },
+    {
+      "id": "w057",
+      "name": "The Macallan Classic Cut",
+      "brand": "The Macallan",
+      "region": "Scotland",
+      "age": null,
+      "vintage": null,
+      "abv": null,
+      "volume_ml": 700,
+      "cask": null,
+      "features": "Classic Cut; annual higher-strength",
+      "history": "The Macallan Classic Cut — annual higher-strength Macallan cut of sherry-seasoned casks; ABV and edition year vary by release (check neck/label year)",
+      "why_valuable": "Annual Classic Cut; year-dated collectible",
+      "photos": [
+        {
+          "file": "20261106_111342 (10).jpg",
+          "thumb": "images/thumbs/20261106_111342_10.jpg",
+          "full": "images/full/20261106_111342_10.jpg"
+        },
+        {
+          "file": "20261106_111342.jpg",
+          "thumb": "images/thumbs/20261106_111342.jpg",
+          "full": "images/full/20261106_111342.jpg"
+        },
+        {
+          "file": "20261106_111342 (1).jpg",
+          "thumb": "images/thumbs/20261106_111342_1.jpg",
+          "full": "images/full/20261106_111342_1.jpg"
+        },
+        {
+          "file": "20261106_111342 (2).jpg",
+          "thumb": "images/thumbs/20261106_111342_2.jpg",
+          "full": "images/full/20261106_111342_2.jpg"
+        },
+        {
+          "file": "20261106_111342 (3).jpg",
+          "thumb": "images/thumbs/20261106_111342_3.jpg",
+          "full": "images/full/20261106_111342_3.jpg"
+        },
+        {
+          "file": "20261106_111342 (4).jpg",
+          "thumb": "images/thumbs/20261106_111342_4.jpg",
+          "full": "images/full/20261106_111342_4.jpg"
+        },
+        {
+          "file": "20261106_111342 (5).jpg",
+          "thumb": "images/thumbs/20261106_111342_5.jpg",
+          "full": "images/full/20261106_111342_5.jpg"
+        },
+        {
+          "file": "20261106_111342 (6).jpg",
+          "thumb": "images/thumbs/20261106_111342_6.jpg",
+          "full": "images/full/20261106_111342_6.jpg"
+        },
+        {
+          "file": "20261106_111342 (7).jpg",
+          "thumb": "images/thumbs/20261106_111342_7.jpg",
+          "full": "images/full/20261106_111342_7.jpg"
+        },
+        {
+          "file": "20261106_111342 (8).jpg",
+          "thumb": "images/thumbs/20261106_111342_8.jpg",
+          "full": "images/full/20261106_111342_8.jpg"
+        },
+        {
+          "file": "20261106_111342 (9).jpg",
+          "thumb": "images/thumbs/20261106_111342_9.jpg",
+          "full": "images/full/20261106_111342_9.jpg"
+        }
+      ],
+      "public_price_eur": 140,
+      "show_price": true,
+      "price_label": "€140"
+    },
+    {
+      "id": "w058",
+      "name": "Redbreast 27 Year Old",
+      "brand": "Redbreast",
+      "region": "Ireland",
+      "age": 27,
+      "vintage": null,
+      "abv": null,
+      "volume_ml": 700,
+      "cask": null,
+      "features": "27 Year Old; large green display box",
+      "history": "Redbreast 27 Year Old — permanent ultra-age SPS (typically 46%+ ABV). Not Dream Cask; core luxury age statement",
+      "why_valuable": "Oldest permanent Redbreast; high retail, strong demand",
+      "photos": [
+        {
+          "file": "20261106_112824.jpg",
+          "thumb": "images/thumbs/20261106_112824.jpg",
+          "full": "images/full/20261106_112824.jpg"
+        }
+      ],
+      "public_price_eur": 520,
+      "show_price": true,
+      "price_label": "€520"
+    },
+    {
+      "id": "w059",
+      "name": "The Macallan Reflexion",
+      "brand": "The Macallan",
+      "region": "Scotland",
+      "age": null,
+      "vintage": null,
+      "abv": null,
+      "volume_ml": 700,
+      "cask": null,
+      "features": "Reflexion; sherry-led prestige",
+      "history": "The Macallan Reflexion — prestige travel-retail first-fill sherry European oak expression. Confirm ABV on label (~43–46% class)",
+      "why_valuable": "Travel prestige Macallan; scarce vs core 12/18",
+      "photos": [
+        {
+          "file": "20261106_113522 (1).jpg",
+          "thumb": "images/thumbs/20261106_113522_1.jpg",
+          "full": "images/full/20261106_113522_1.jpg"
+        },
+        {
+          "file": "20261106_113522.jpg",
+          "thumb": "images/thumbs/20261106_113522.jpg",
+          "full": "images/full/20261106_113522.jpg"
+        },
+        {
+          "file": "20261106_113319.jpg",
+          "thumb": "images/thumbs/20261106_113319.jpg",
+          "full": "images/full/20261106_113319.jpg"
+        }
+      ],
+      "public_price_eur": 1000,
+      "show_price": true,
+      "price_label": "€1000"
+    },
+    {
+      "id": "w060",
+      "name": "The Macallan Harmony Intense Arabica",
+      "brand": "The Macallan",
+      "region": "Scotland",
+      "age": null,
+      "vintage": null,
+      "abv": 44.0,
+      "volume_ml": 700,
+      "cask": null,
+      "features": "Harmony Collection; Intense Arabica; coffee collaboration",
+      "history": "Macallan Harmony Intense Arabica — Harmony Collection coffee collaboration matured in sherry-seasoned oak; sibling to Smooth Arabica. Confirm ABV on label",
+      "why_valuable": "Harmony coffee series; travel exclusive appeal",
+      "photos": [
+        {
+          "file": "20261106_114039.jpg",
+          "thumb": "images/thumbs/20261106_114039.jpg",
+          "full": "images/full/20261106_114039.jpg"
+        }
+      ],
+      "public_price_eur": 180,
+      "show_price": true,
+      "price_label": "€180"
+    },
+    {
+      "id": "w061",
+      "name": "Green Spot Château Léoville Barton Cask Strength",
+      "brand": "Green Spot",
+      "region": "Ireland",
+      "age": null,
+      "vintage": null,
+      "abv": 46.0,
+      "volume_ml": 700,
+      "cask": "Château Léoville Barton Bordeaux finish",
+      "features": "Wine cask collaboration; Bordeaux finish",
+      "history": "Green Spot Château Léoville Barton (2015) — first SPS finished in Bordeaux wine casks from Saint-Julien second-growth Château Léoville Barton (12–24 month finish after bourbon/sherry/new oak). 46% ABV; original outturn reported ~4,000 bottles (Whiskybase)",
+      "why_valuable": "First Bordeaux-cask SPS; Barton family/Irish heritage story; finite 2015 release",
+      "photos": [
+        {
+          "file": "20261106_115053.jpg",
+          "thumb": "images/thumbs/20261106_115053.jpg",
+          "full": "images/full/20261106_115053.jpg"
+        },
+        {
+          "file": "20261106_115033.jpg",
+          "thumb": "images/thumbs/20261106_115033.jpg",
+          "full": "images/full/20261106_115033.jpg"
+        },
+        {
+          "file": "20261106_115033 (1).jpg",
+          "thumb": "images/thumbs/20261106_115033_1.jpg",
+          "full": "images/full/20261106_115033_1.jpg"
+        },
+        {
+          "file": "20261106_114930.jpg",
+          "thumb": "images/thumbs/20261106_114930.jpg",
+          "full": "images/full/20261106_114930.jpg"
+        },
+        {
+          "file": "20261106_115217.jpg",
+          "thumb": "images/thumbs/20261106_115217.jpg",
+          "full": "images/full/20261106_115217.jpg"
+        }
+      ],
+      "public_price_eur": 85,
+      "show_price": true,
+      "price_label": "€85"
+    },
+    {
+      "id": "w062",
+      "name": "Bushmills 1608 Anniversary Edition",
+      "brand": "Bushmills",
+      "region": "Ireland",
+      "age": null,
+      "vintage": null,
+      "abv": null,
+      "volume_ml": 700,
+      "cask": null,
+      "features": "1608 Anniversary Edition",
+      "history": "Bushmills 1608 Anniversary Edition — commemorative bottling referencing the historic licence era. Confirm whether blended or malt and ABV on this bottle's label",
+      "why_valuable": "Anniversary packaging collectible; verify liquid specs",
+      "photos": [
+        {
+          "file": "20261106_111634.jpg",
+          "thumb": "images/thumbs/20261106_111634.jpg",
+          "full": "images/full/20261106_111634.jpg"
+        }
+      ],
+      "public_price_eur": 110,
+      "show_price": true,
+      "price_label": "€110"
+    },
+    {
+      "id": "w063",
+      "name": "The Macallan Edition No.4",
+      "brand": "The Macallan",
+      "region": "Scotland",
+      "age": null,
+      "vintage": null,
+      "abv": 48.4,
+      "volume_ml": 700,
+      "cask": "European & American sherry-seasoned oak (multi-cask)",
+      "features": "Limited Edition series; code C7.V613.T25.2018-004; Nick Savage",
+      "history": "The Macallan Edition No.4 (2018) — code C7.V613.T25.2018-004; multi European & American sherry-seasoned oak casks disclosed on green pack; 48.4% ABV; Master Distiller Nick Savage",
+      "why_valuable": "Transparent Edition series; distillery-celebration release; closed series now",
+      "photos": [
+        {
+          "file": "20261106_115111.jpg",
+          "thumb": "images/thumbs/20261106_115111.jpg",
+          "full": "images/full/20261106_115111.jpg"
+        }
+      ],
+      "public_price_eur": 190,
+      "show_price": true,
+      "price_label": "€190"
+    },
+    {
+      "id": "w103",
+      "name": "Killowen Signature Rum & Raisin 5 Year Old Batch #03",
+      "brand": "Killowen",
+      "region": "Ireland",
+      "age": 5,
+      "vintage": null,
+      "abv": 55.0,
+      "volume_ml": 500,
+      "cask": "Dark rum casks & PX sherry butts",
+      "features": "Small batch; cask strength; bottle ~902/990; bonded experimental",
+      "history": "Killowen Signature Rum & Raisin 5 Year Old Batch #03 — single malt finished in dark rum casks & PX butts; 55% ABV / 500ml; bottle ~902/990; bonded & bottled at cask strength",
+      "why_valuable": "Tiny 990-bottle Killowen batch; CS 500ml experimental",
+      "photos": [
+        {
+          "file": "20261105_132851.jpg",
+          "thumb": "images/thumbs/20261105_132851.jpg",
+          "full": "images/full/20261105_132851.jpg"
+        }
+      ],
+      "public_price_eur": 75,
+      "show_price": true,
+      "price_label": "€75"
+    },
+    {
+      "id": "w106",
+      "name": "Waterford Micro Cuvée Lómhar",
+      "brand": "Waterford",
+      "region": "Ireland",
+      "age": null,
+      "vintage": null,
+      "abv": 50.0,
+      "volume_ml": 700,
+      "cask": null,
+      "features": "Micro Cuvée; limited; terroir-driven",
+      "history": "Waterford Micro Cuvée Lómhar — named Micro Cuvée marriage of selected farm origins; typically ~50% ABV / 70cl cobalt bottle. Exact farm list/ABV on this bottle's rear label not fully transcribed",
+      "why_valuable": "Named Micro Cuvée short run; Lómhar-specific demand",
+      "photos": [
+        {
+          "file": "20261105_133900 (1).jpg",
+          "thumb": "images/thumbs/20261105_133900_1.jpg",
+          "full": "images/full/20261105_133900_1.jpg"
+        },
+        {
+          "file": "20261105_133900.jpg",
+          "thumb": "images/thumbs/20261105_133900.jpg",
+          "full": "images/full/20261105_133900.jpg"
+        }
+      ],
+      "public_price_eur": 180,
+      "show_price": true,
+      "price_label": "€180"
+    },
+    {
+      "id": "w107",
+      "name": "Waterford Micro Cuvée Pique-Nique",
+      "brand": "Waterford",
+      "region": "Ireland",
+      "age": null,
+      "vintage": null,
+      "abv": 50.0,
+      "volume_ml": 700,
+      "cask": null,
+      "features": "Micro Cuvée; limited",
+      "history": "Waterford Micro Cuvée Pique-Nique — picnic-themed Micro Cuvée; cobalt bottle + Micro Cuvée box; typical ~50% ABV",
+      "why_valuable": "Named Micro Cuvée; short outturn",
+      "photos": [
+        {
+          "file": "20261105_134324 (1).jpg",
+          "thumb": "images/thumbs/20261105_134324_1.jpg",
+          "full": "images/full/20261105_134324_1.jpg"
+        },
+        {
+          "file": "20261105_134324 (2).jpg",
+          "thumb": "images/thumbs/20261105_134324_2.jpg",
+          "full": "images/full/20261105_134324_2.jpg"
+        },
+        {
+          "file": "20261105_134324.jpg",
+          "thumb": "images/thumbs/20261105_134324.jpg",
+          "full": "images/full/20261105_134324.jpg"
+        },
+        {
+          "file": "20261105_134021 (1).jpg",
+          "thumb": "images/thumbs/20261105_134021_1.jpg",
+          "full": "images/full/20261105_134021_1.jpg"
+        },
+        {
+          "file": "20261105_134021.jpg",
+          "thumb": "images/thumbs/20261105_134021.jpg",
+          "full": "images/full/20261105_134021.jpg"
+        }
+      ],
+      "public_price_eur": 95,
+      "show_price": true,
+      "price_label": "€95"
+    },
+    {
+      "id": "w108",
+      "name": "Waterford Single Farm Origin Sheestown Edition 1.2",
+      "brand": "Waterford",
+      "region": "Ireland",
+      "age": null,
+      "vintage": null,
+      "abv": 50.0,
+      "volume_ml": 700,
+      "cask": null,
+      "features": "Single Farm Origin; Edition 1.2",
+      "history": "Waterford Single Farm Origin Sheestown Edition 1.2 — farm-isolated barley; Edition 1.2; typical 50% ABV / 700ml",
+      "why_valuable": "SFO Sheestown 1.2; per-edition scarcity",
+      "photos": [
+        {
+          "file": "20261105_134141.jpg",
+          "thumb": "images/thumbs/20261105_134141.jpg",
+          "full": "images/full/20261105_134141.jpg"
+        }
+      ],
+      "public_price_eur": 85,
+      "show_price": true,
+      "price_label": "€85"
+    },
+    {
+      "id": "w110",
+      "name": "Redbreast Tawny Port Cask Edition (Iberian Series)",
+      "brand": "Redbreast",
+      "region": "Ireland",
+      "age": null,
+      "vintage": null,
+      "abv": 46.0,
+      "volume_ml": 700,
+      "cask": "Tawny Port hogsheads",
+      "features": "Iberian Series; port finish",
+      "history": "Redbreast Tawny Port Cask Edition (Iberian Series) — finished in tawny port hogsheads; typically 46% ABV / 70cl Iberian Series release",
+      "why_valuable": "Iberian Series port finish; limited vs core 12",
+      "photos": [
+        {
+          "file": "20261105_135150 (1).jpg",
+          "thumb": "images/thumbs/20261105_135150_1.jpg",
+          "full": "images/full/20261105_135150_1.jpg"
+        },
+        {
+          "file": "20261105_135150.jpg",
+          "thumb": "images/thumbs/20261105_135150.jpg",
+          "full": "images/full/20261105_135150.jpg"
+        }
+      ],
+      "public_price_eur": 90,
+      "show_price": true,
+      "price_label": "€90"
+    },
+    {
+      "id": "w111",
+      "name": "Killowen Rum & Raisin 6 Year Old Batch #04",
+      "brand": "Killowen",
+      "region": "Ireland",
+      "age": 6,
+      "vintage": null,
+      "abv": 55.0,
+      "volume_ml": 500,
+      "cask": "Dark rum & PX sherry",
+      "features": "Small batch; cask strength; ~110/395",
+      "history": "Killowen Rum & Raisin 6 Year Old Batch #04 — CS ~55% ABV / 500ml; bottle examples ~110/395; rum & PX finishes",
+      "why_valuable": "Even smaller than Batch #03 (~395 bottles)",
+      "photos": [
+        {
+          "file": "20261105_135515.jpg",
+          "thumb": "images/thumbs/20261105_135515.jpg",
+          "full": "images/full/20261105_135515.jpg"
+        },
+        {
+          "file": "20261105_135454.jpg",
+          "thumb": "images/thumbs/20261105_135454.jpg",
+          "full": "images/full/20261105_135454.jpg"
+        }
+      ],
+      "public_price_eur": 85,
+      "show_price": true,
+      "price_label": "€85"
+    },
+    {
+      "id": "w112",
+      "name": "Jameson Caskmates DevilCraft Brewing Co. Edition",
+      "brand": "Jameson",
+      "region": "Ireland",
+      "age": null,
+      "vintage": null,
+      "abv": 40.0,
+      "volume_ml": 700,
+      "cask": null,
+      "features": "Caskmates; finished in DevilCraft craft beer barrels; limited",
+      "history": "Jameson Caskmates DevilCraft Brewing Co. Edition — finished in DevilCraft (Tokyo) beer barrels; 40% ABV / 700ml; limited city collab with skyline label art; serial on neck wrap (e.g. JQ-058548)",
+      "why_valuable": "Tokyo DevilCraft collab; scarcer Caskmates SKU",
+      "photos": [
+        {
+          "file": "20261105_140944.jpg",
+          "thumb": "images/thumbs/20261105_140944.jpg",
+          "full": "images/full/20261105_140944.jpg"
+        },
+        {
+          "file": "20261105_140959.jpg",
+          "thumb": "images/thumbs/20261105_140959.jpg",
+          "full": "images/full/20261105_140959.jpg"
+        }
+      ],
+      "public_price_eur": 175,
+      "show_price": true,
+      "price_label": "€175"
+    },
+    {
+      "id": "w113",
+      "name": "Waterford Micro Cuvée Hearth",
+      "brand": "Waterford",
+      "region": "Ireland",
+      "age": null,
+      "vintage": null,
+      "abv": 50.0,
+      "volume_ml": 700,
+      "cask": null,
+      "features": "Micro Cuvée; limited",
+      "history": "Waterford Micro Cuvée Hearth — named Micro Cuvée; cobalt presentation; typical ~50% ABV",
+      "why_valuable": "Named Micro Cuvée short run",
+      "photos": [
+        {
+          "file": "20261105_141329 (1).jpg",
+          "thumb": "images/thumbs/20261105_141329_1.jpg",
+          "full": "images/full/20261105_141329_1.jpg"
+        },
+        {
+          "file": "20261105_141329 (2).jpg",
+          "thumb": "images/thumbs/20261105_141329_2.jpg",
+          "full": "images/full/20261105_141329_2.jpg"
+        },
+        {
+          "file": "20261105_141329 (3).jpg",
+          "thumb": "images/thumbs/20261105_141329_3.jpg",
+          "full": "images/full/20261105_141329_3.jpg"
+        },
+        {
+          "file": "20261105_141329.jpg",
+          "thumb": "images/thumbs/20261105_141329.jpg",
+          "full": "images/full/20261105_141329.jpg"
+        }
+      ],
+      "public_price_eur": 110,
+      "show_price": true,
+      "price_label": "€110"
+    },
+    {
+      "id": "w116",
+      "name": "Redbreast 16 Year Old Oloroso Single Cask — Friends of Midleton",
+      "brand": "Redbreast",
+      "region": "Ireland",
+      "age": 16,
+      "vintage": null,
+      "abv": 57.0,
+      "volume_ml": 700,
+      "cask": "Oloroso sherry single cask 37560",
+      "features": "Friends of Midleton Distillery exclusive; bottle ~196/654; bonded 10 Dec 2004",
+      "history": "Redbreast 16 Year Old Oloroso Single Cask — Friends of Midleton Distillery exclusive. Cask 37560; bonded 10 Dec 2004; bottle ~196 of 654; ~57% ABV / 700ml; selected by Billy Leighton",
+      "why_valuable": "FoM exclusive; 654 bottles; named cask; CS",
+      "photos": [
+        {
+          "file": "20261106_103818.jpg",
+          "thumb": "images/thumbs/20261106_103818.jpg",
+          "full": "images/full/20261106_103818.jpg"
+        }
+      ],
+      "public_price_eur": 400,
+      "show_price": true,
+      "price_label": "€400"
+    },
+    {
+      "id": "w117",
+      "name": "The Macallan Harmony Collection Smooth Arabica",
+      "brand": "The Macallan",
+      "region": "Scotland",
+      "age": null,
+      "vintage": null,
+      "abv": 40.0,
+      "volume_ml": 700,
+      "cask": "Sherry-seasoned oak",
+      "features": "Harmony Collection; travel exclusive; coffee collaboration; coffee-husk packaging",
+      "history": "Macallan Harmony Collection Smooth Arabica — travel exclusive; sherry-seasoned oak; 40% ABV / 700ml; coffee-husk packaging; flavour map oak/ground coffee/toffee/raisin/hazelnut",
+      "why_valuable": "Travel Harmony + sustainable pack; Arabica pair with Intense",
+      "photos": [
+        {
+          "file": "20261106_104021.jpg",
+          "thumb": "images/thumbs/20261106_104021.jpg",
+          "full": "images/full/20261106_104021.jpg"
+        },
+        {
+          "file": "20261106_104059.jpg",
+          "thumb": "images/thumbs/20261106_104059.jpg",
+          "full": "images/full/20261106_104059.jpg"
+        }
+      ],
+      "public_price_eur": 180,
+      "show_price": true,
+      "price_label": "€180"
+    },
+    {
+      "id": "w119",
+      "name": "The Macallan Rare Cask 2022 Release",
+      "brand": "The Macallan",
+      "region": "Scotland",
+      "age": null,
+      "vintage": null,
+      "abv": 43.0,
+      "volume_ml": 700,
+      "cask": "Rare sherry-seasoned oak",
+      "features": "2022 annual Rare Cask release",
+      "history": "Macallan Rare Cask 2022 Release — 43% ABV / 700ml; 2022 RELEASE tag; rare sherry oak selection",
+      "why_valuable": "Year-dated Rare Cask for annual sets",
+      "photos": [
+        {
+          "file": "20261106_112002.jpg",
+          "thumb": "images/thumbs/20261106_112002.jpg",
+          "full": "images/full/20261106_112002.jpg"
+        }
+      ],
+      "public_price_eur": 220,
+      "show_price": true,
+      "price_label": "€220"
+    },
+    {
+      "id": "w121",
+      "name": "Midleton Single Pot Still Single Cask 1997 — CÆSAR Club Romania",
+      "brand": "Midleton",
+      "region": "Ireland",
+      "age": null,
+      "vintage": 1997,
+      "abv": 57.9,
+      "volume_ml": 700,
+      "cask": "First fill bourbon barrel 31679",
+      "features": "CÆSAR Limited Edition; bottle 061/198; bonded 11 Apr 1997; Brian Nation",
+      "history": "Midleton Single Pot Still Single Cask 1997 — CÆSAR Club Romania exclusive. First-fill bourbon cask 31679; bonded 11 Apr 1997; bottle 061/198; 57.9% ABV / 700ml; Brian Nation; Original Year 1997 Laid Down",
+      "why_valuable": "198 bottles; club exclusive; 1997 bourbon single cask CS",
+      "photos": [
+        {
+          "file": "20261106_112405.jpg",
+          "thumb": "images/thumbs/20261106_112405.jpg",
+          "full": "images/full/20261106_112405.jpg"
+        }
+      ],
+      "public_price_eur": 550,
+      "show_price": true,
+      "price_label": "€550"
+    },
+    {
+      "id": "w122",
+      "name": "Powers 12 Year Old Single Cask — Friends of Midleton",
+      "brand": "Powers",
+      "region": "Ireland",
+      "age": 12,
+      "vintage": null,
+      "abv": 54.3,
+      "volume_ml": 700,
+      "cask": "First fill bourbon 151316",
+      "features": "Friends of Midleton exclusive; distilled 23.10.2007; ~177/204",
+      "history": "Powers 12 Year Old Single Cask — Friends of Midleton exclusive. First-fill bourbon cask 151316; distilled 23.10.2007; ~177/204 bottles; 54.3% ABV / 700ml",
+      "why_valuable": "FoM Powers; only ~204 bottles",
+      "photos": [
+        {
+          "file": "20261106_112500.jpg",
+          "thumb": "images/thumbs/20261106_112500.jpg",
+          "full": "images/full/20261106_112500.jpg"
+        }
+      ],
+      "public_price_eur": 280,
+      "show_price": true,
+      "price_label": "€280"
+    },
+    {
+      "id": "w125",
+      "name": "The Macallan Aera",
+      "brand": "The Macallan",
+      "region": "Scotland",
+      "age": null,
+      "vintage": null,
+      "abv": 40.0,
+      "volume_ml": 700,
+      "cask": "Predominantly sherry-seasoned oak",
+      "features": "Travel retail; black bottle; geometric design",
+      "history": "The Macallan Aera — travel-retail black-bottle expression; predominantly sherry-seasoned oak; 40% ABV / 700ml; dried fruits/honey/chocolate notes on pack",
+      "why_valuable": "Travel-only Aera; distinctive black bottle",
+      "photos": [
+        {
+          "file": "20261106_114230.jpg",
+          "thumb": "images/thumbs/20261106_114230.jpg",
+          "full": "images/full/20261106_114230.jpg"
+        }
+      ],
+      "public_price_eur": 100,
+      "show_price": true,
+      "price_label": "€100"
+    },
+    {
+      "id": "w126",
+      "name": "The Macallan Edition No.6",
+      "brand": "The Macallan",
+      "region": "Scotland",
+      "age": null,
+      "vintage": null,
+      "abv": 48.6,
+      "volume_ml": 700,
+      "cask": "Multi-cask (River Spey / Hardy collaboration theme)",
+      "features": "Limited Edition series; Hardy collaboration; code C.L.V.193.T23.2020-006",
+      "history": "Macallan Edition No.6 (2020) — Hardy / River Spey collaboration; code C.L.V.193.T23.2020-006; five disclosed cask types including 'The Atlantic Salmon' refill butts; 48.6% ABV / 700ml",
+      "why_valuable": "Closed Edition series; Hardy collab; transparent cask story",
+      "photos": [
+        {
+          "file": "20261106_114323.jpg",
+          "thumb": "images/thumbs/20261106_114323.jpg",
+          "full": "images/full/20261106_114323.jpg"
+        }
+      ],
+      "public_price_eur": 200,
+      "show_price": true,
+      "price_label": "€200"
+    },
+    {
+      "id": "w127",
+      "name": "The Macallan Rare Cask Batch No.1 2019 Release",
+      "brand": "The Macallan",
+      "region": "Scotland",
+      "age": null,
+      "vintage": null,
+      "abv": 43.0,
+      "volume_ml": 700,
+      "cask": null,
+      "features": "Batch No.1; 2019 release",
+      "history": "Macallan Rare Cask Batch No.1 2019 Release — 43% ABV / 700ml; early numbered Rare Cask batch",
+      "why_valuable": "Batch No.1 2019; early Rare Cask collectible",
+      "photos": [
+        {
+          "file": "20261106_114427.jpg",
+          "thumb": "images/thumbs/20261106_114427.jpg",
+          "full": "images/full/20261106_114427.jpg"
+        }
+      ],
+      "public_price_eur": 310,
+      "show_price": true,
+      "price_label": "€310"
+    },
+    {
+      "id": "w128",
+      "name": "The Macallan Rare Cask 2020 Release",
+      "brand": "The Macallan",
+      "region": "Scotland",
+      "age": null,
+      "vintage": null,
+      "abv": 43.0,
+      "volume_ml": 700,
+      "cask": null,
+      "features": "2020 annual release",
+      "history": "Macallan Rare Cask 2020 Release — 43% ABV / 700ml annual Rare Cask",
+      "why_valuable": "2020 Rare Cask year-set piece",
+      "photos": [
+        {
+          "file": "20261106_114522.jpg",
+          "thumb": "images/thumbs/20261106_114522.jpg",
+          "full": "images/full/20261106_114522.jpg"
+        }
+      ],
+      "public_price_eur": 300,
+      "show_price": true,
+      "price_label": "€300"
+    },
+    {
+      "id": "w129",
+      "name": "Green Spot Single Cask — Revolution Whiskey Bar",
+      "brand": "Green Spot",
+      "region": "Ireland",
+      "age": null,
+      "vintage": null,
+      "abv": 59.6,
+      "volume_ml": 700,
+      "cask": "Bourbon barrel 7740",
+      "features": "Retailer exclusive; bonded 17/01/2007; bottle 084/174; Brian Nation",
+      "history": "Green Spot Single Cask — Revolution Whiskey Bar exclusive. Bourbon barrel 7740; bonded 17/01/2007; bottle 084/174; 59.6% ABV / 700ml; Brian Nation / Mitchell & Son",
+      "why_valuable": "174 bottles; bar exclusive; high CS",
+      "photos": [
+        {
+          "file": "20261106_114627.jpg",
+          "thumb": "images/thumbs/20261106_114627.jpg",
+          "full": "images/full/20261106_114627.jpg"
+        }
+      ],
+      "public_price_eur": 350,
+      "show_price": true,
+      "price_label": "€350"
+    },
+    {
+      "id": "w130",
+      "name": "Green Spot Single Cask — The Whisky Exchange (Marsala Butt)",
+      "brand": "Green Spot",
+      "region": "Ireland",
+      "age": null,
+      "vintage": 1991,
+      "abv": 55.7,
+      "volume_ml": 700,
+      "cask": "Bourbon & sherry then Marsala butt 50776",
+      "features": "TWE exclusive; bonded 18/10/1991; bottle 427/576",
+      "history": "Green Spot Single Cask — The Whisky Exchange exclusive. Bourbon & sherry then Marsala butt 50776; bonded 18/10/1991; bottle 427/576; 55.7% ABV / 700ml; Brian Nation",
+      "why_valuable": "1991 distillate; Marsala butt; 576 bottles; TWE exclusive",
+      "photos": [
+        {
+          "file": "20261106_114721.jpg",
+          "thumb": "images/thumbs/20261106_114721.jpg",
+          "full": "images/full/20261106_114721.jpg"
+        }
+      ],
+      "public_price_eur": 400,
+      "show_price": true,
+      "price_label": "€400"
+    },
+    {
+      "id": "w064",
+      "name": "Jameson Caskmates Dieu du Ciel! Limited Edition",
+      "brand": "Jameson",
+      "region": "Ireland",
+      "age": null,
+      "vintage": null,
+      "abv": null,
+      "volume_ml": 700,
+      "cask": null,
+      "features": "Caskmates; Dieu du Ciel! craft beer barrels",
+      "history": "Jameson Caskmates Dieu du Ciel! — Jameson finished in Dieu du Ciel (Montreal) craft-beer barrels; limited collab SKU, typically 40% ABV",
+      "why_valuable": "Beer-cask Caskmates collab; limited vs standard Caskmates Stout/IPA",
+      "photos": [
+        {
+          "file": "20261105_141019.jpg",
+          "thumb": "images/thumbs/20261105_141019.jpg",
+          "full": "images/full/20261105_141019.jpg"
+        }
+      ],
+      "public_price_eur": 550,
+      "show_price": true,
+      "price_label": "€550"
+    },
+    {
+      "id": "w065",
+      "name": "The Macallan Enigma",
+      "brand": "The Macallan",
+      "region": "Scotland",
+      "age": null,
+      "vintage": null,
+      "abv": 44.9,
+      "volume_ml": 700,
+      "cask": "First-fill sherry-seasoned European oak (Jerez cooperage)",
+      "features": "Quest Collection pinnacle; travel exclusive",
+      "history": "The Macallan Enigma — pinnacle of Quest Collection; first-fill sherry-seasoned European oak from a single Jerez cooperage; 44.9% ABV / 700ml; travel exclusive",
+      "why_valuable": "Quest Collection top expression; travel-only scarcity",
+      "photos": [
+        {
+          "file": "20261106_112236.jpg",
+          "thumb": "images/thumbs/20261106_112236.jpg",
+          "full": "images/full/20261106_112236.jpg"
+        }
+      ],
+      "public_price_eur": 280,
+      "show_price": true,
+      "price_label": "€280"
+    }
+  ],
+  "stats": {
+    "unique_bottles": 81,
+    "with_price": 79,
+    "est_market_value_eur": 17545,
+    "brands": 28
+  },
+  "archive_note": "3 archive_only bottles omitted (no new photo)"
+}
