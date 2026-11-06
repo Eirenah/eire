@@ -35,9 +35,9 @@
           "full": "images/full/20261105_100635.jpg"
         }
       ],
-      "public_price_eur": 500,
+      "public_price_eur": 340,
       "show_price": true,
-      "price_label": "€500"
+      "price_label": "€340"
     },
     {
       "id": "u002",
@@ -68,9 +68,9 @@
           "full": "images/full/20261105_100708.jpg"
         }
       ],
-      "public_price_eur": 650,
+      "public_price_eur": 520,
       "show_price": true,
-      "price_label": "€650"
+      "price_label": "€520"
     },
     {
       "id": "u003",
@@ -82,7 +82,7 @@
       "expression_quantity": 1,
       "unit_bottle_number": null,
       "unit_cask_number": null,
-      "uncertain": true,
+      "uncertain": false,
       "name": "Glen Marnoch 24 Year Old 1988 Cask — unit 1 of 1",
       "brand": "Glen Marnoch",
       "region": "Speyside",
@@ -101,9 +101,9 @@
           "full": "images/full/20261105_100735.jpg"
         }
       ],
-      "public_price_eur": 75,
-      "show_price": true,
-      "price_label": "€75"
+      "public_price_eur": null,
+      "show_price": false,
+      "price_label": "Price on request"
     },
     {
       "id": "u004",
@@ -134,9 +134,9 @@
           "full": "images/full/20261105_100949.jpg"
         }
       ],
-      "public_price_eur": 260,
-      "show_price": true,
-      "price_label": "€260"
+      "public_price_eur": null,
+      "show_price": false,
+      "price_label": "Price on request"
     },
     {
       "id": "u005",
@@ -167,9 +167,9 @@
           "full": "images/full/20261105_101346.jpg"
         }
       ],
-      "public_price_eur": 400,
-      "show_price": true,
-      "price_label": "€400"
+      "public_price_eur": null,
+      "show_price": false,
+      "price_label": "Price on request"
     },
     {
       "id": "u006",
@@ -200,9 +200,9 @@
           "full": "images/full/20261105_101547.jpg"
         }
       ],
-      "public_price_eur": 400,
-      "show_price": true,
-      "price_label": "€400"
+      "public_price_eur": null,
+      "show_price": false,
+      "price_label": "Price on request"
     },
     {
       "id": "u007",
@@ -233,9 +233,9 @@
           "full": "images/full/20261105_101702.jpg"
         }
       ],
-      "public_price_eur": 120,
-      "show_price": true,
-      "price_label": "€120"
+      "public_price_eur": null,
+      "show_price": false,
+      "price_label": "Price on request"
     },
     {
       "id": "u008",
@@ -266,9 +266,9 @@
           "full": "images/full/20261105_101731.jpg"
         }
       ],
-      "public_price_eur": null,
-      "show_price": false,
-      "price_label": "Price on request"
+      "public_price_eur": 100,
+      "show_price": true,
+      "price_label": "€100"
     },
     {
       "id": "u009",
@@ -299,9 +299,9 @@
           "full": "images/full/20261105_101755.jpg"
         }
       ],
-      "public_price_eur": null,
-      "show_price": false,
-      "price_label": "Price on request"
+      "public_price_eur": 90,
+      "show_price": true,
+      "price_label": "€90"
     },
     {
       "id": "u010",
@@ -332,9 +332,9 @@
           "full": "images/full/20261105_101836.jpg"
         }
       ],
-      "public_price_eur": null,
-      "show_price": false,
-      "price_label": "Price on request"
+      "public_price_eur": 55,
+      "show_price": true,
+      "price_label": "€55"
     },
     {
       "id": "u011",
@@ -365,9 +365,9 @@
           "full": "images/full/20261105_101909.jpg"
         }
       ],
-      "public_price_eur": 40,
+      "public_price_eur": 45,
       "show_price": true,
-      "price_label": "€40"
+      "price_label": "€45"
     },
     {
       "id": "u012",
@@ -398,9 +398,9 @@
           "full": "images/full/20261105_103754.jpg"
         }
       ],
-      "public_price_eur": 70,
+      "public_price_eur": 100,
       "show_price": true,
-      "price_label": "€70"
+      "price_label": "€100"
     },
     {
       "id": "u013",
@@ -431,9 +431,9 @@
           "full": "images/full/20261105_103821.jpg"
         }
       ],
-      "public_price_eur": 70,
+      "public_price_eur": 100,
       "show_price": true,
-      "price_label": "€70"
+      "price_label": "€100"
     },
     {
       "id": "u014",
@@ -444,7 +444,7 @@
       "unit_index": 1,
       "expression_quantity": 1,
       "unit_bottle_number": null,
-      "unit_cask_number": "18885",
+      "unit_cask_number": "18585",
       "uncertain": false,
       "name": "Powers 16 Year Old Single Cask — Celtic Whiskey Shop — unit 1 of 1",
       "brand": "Powers",
@@ -453,9 +453,9 @@
       "vintage": null,
       "abv": 46,
       "volume_ml": 700,
-      "cask": "Cask 18885",
+      "cask": "Cask 18585",
       "features": "John's Lane / Temple Bar single cask territory",
-      "history": "Celtic Whiskey Shop exclusive, 16-year single pot still, cask 18885; bonded 28 February 2003; photographed at 46% ABV",
+      "history": "Celtic Whiskey Shop exclusive, 16-year single pot still, cask 18585; bonded 28 February 2003; 46% ABV. High-resolution label corrected the prior 18885 transcription",
       "why_valuable": "Uncertain ID — value depends on confirming John's Lane vs single-cask exclusive",
       "photos": [
         {
@@ -464,9 +464,9 @@
           "full": "images/full/20261105_103913.jpg"
         }
       ],
-      "public_price_eur": 220,
+      "public_price_eur": 200,
       "show_price": true,
-      "price_label": "€220"
+      "price_label": "€200"
     },
     {
       "id": "u015",
@@ -530,9 +530,9 @@
           "full": "images/full/20261105_104103.jpg"
         }
       ],
-      "public_price_eur": null,
-      "show_price": false,
-      "price_label": "Price on request"
+      "public_price_eur": 90,
+      "show_price": true,
+      "price_label": "€90"
     },
     {
       "id": "u017",
@@ -563,9 +563,9 @@
           "full": "images/full/20261105_104232.jpg"
         }
       ],
-      "public_price_eur": 100,
-      "show_price": true,
-      "price_label": "€100"
+      "public_price_eur": null,
+      "show_price": false,
+      "price_label": "Price on request"
     },
     {
       "id": "u018",
@@ -577,7 +577,7 @@
       "expression_quantity": 1,
       "unit_bottle_number": null,
       "unit_cask_number": null,
-      "uncertain": true,
+      "uncertain": false,
       "name": "Waterford Single Farm Origin Lacken — unit 1 of 1",
       "brand": "Waterford",
       "region": "Ireland",
@@ -596,9 +596,9 @@
           "full": "images/full/20261105_104355.jpg"
         }
       ],
-      "public_price_eur": 75,
-      "show_price": true,
-      "price_label": "€75"
+      "public_price_eur": null,
+      "show_price": false,
+      "price_label": "Price on request"
     },
     {
       "id": "u019",
@@ -609,18 +609,18 @@
       "unit_index": 1,
       "expression_quantity": 1,
       "unit_bottle_number": null,
-      "unit_cask_number": null,
+      "unit_cask_number": "1206",
       "uncertain": false,
       "name": "Dunville's 20 Year Old Single Malt — unit 1 of 1",
       "brand": "Dunville's",
       "region": "Ireland",
       "age": 20,
       "vintage": null,
-      "abv": null,
+      "abv": 54.1,
       "volume_ml": 700,
-      "cask": null,
-      "features": "Single malt; Spirit of Belfast series",
-      "history": "Dunville's 20 Year Old Single Malt — Spirit of Belfast long-aged expression from Echlinville. Exact cask type/number for this bottle not confirmed from catalog crops",
+      "cask": "Palo Cortado cask 1206",
+      "features": "James J. Fox exclusive; cask 1206; Palo Cortado; bottled 30/06/2021",
+      "history": "Dunville 20 Year Old James J. Fox exclusive, cask 1206, Palo Cortado sherry finish; 54.1% ABV; 323-bottle edition",
       "why_valuable": "20yo Dunville's is uncommon age stock for the revived brand",
       "photos": [
         {
@@ -629,9 +629,9 @@
           "full": "images/full/20261105_104507.jpg"
         }
       ],
-      "public_price_eur": 280,
-      "show_price": true,
-      "price_label": "€280"
+      "public_price_eur": null,
+      "show_price": false,
+      "price_label": "Price on request"
     },
     {
       "id": "u020",
@@ -662,9 +662,9 @@
           "full": "images/full/20261105_104534.jpg"
         }
       ],
-      "public_price_eur": 85,
-      "show_price": true,
-      "price_label": "€85"
+      "public_price_eur": null,
+      "show_price": false,
+      "price_label": "Price on request"
     },
     {
       "id": "u021",
@@ -695,9 +695,9 @@
           "full": "images/full/20261105_104635.jpg"
         }
       ],
-      "public_price_eur": 85,
-      "show_price": true,
-      "price_label": "€85"
+      "public_price_eur": null,
+      "show_price": false,
+      "price_label": "Price on request"
     },
     {
       "id": "u022",
@@ -728,9 +728,9 @@
           "full": "images/full/20261105_104721.jpg"
         }
       ],
-      "public_price_eur": 210,
+      "public_price_eur": 200,
       "show_price": true,
-      "price_label": "€210"
+      "price_label": "€200"
     },
     {
       "id": "u023",
@@ -741,17 +741,17 @@
       "unit_index": 1,
       "expression_quantity": 1,
       "unit_bottle_number": null,
-      "unit_cask_number": null,
-      "uncertain": true,
+      "unit_cask_number": "29849",
+      "uncertain": false,
       "name": "Teeling Single Pot Still Single Cask — Celtic Whiskey Shop — unit 1 of 1",
       "brand": "Teeling",
       "region": "Ireland",
       "age": null,
       "vintage": null,
-      "abv": null,
+      "abv": 54.4,
       "volume_ml": 700,
-      "cask": null,
-      "features": "Blue tube; dark glass bottle",
+      "cask": "Chestnut PX, cask 29849",
+      "features": "Celtic Whiskey Shop; chestnut PX; cask 29849; selected 05/2022",
       "history": "Celtic Whiskey Shop exclusive single-cask single pot still release; blue tube and label show 2015 distillation. Exact bottle/cask numbers require closer transcription",
       "why_valuable": "Retailer-exclusive single-cask Dublin pot still bottling",
       "photos": [
@@ -768,24 +768,24 @@
     {
       "id": "u024",
       "expression_id": "w018",
-      "expression_name": "Thomond Gate King's Island Single Malt",
+      "expression_name": "Thomond Gate The Clash of the Ash",
       "photo_filename": "20261105_104841.jpg",
       "stock_order": 24,
       "unit_index": 1,
       "expression_quantity": 3,
       "unit_bottle_number": null,
       "unit_cask_number": null,
-      "uncertain": true,
-      "name": "Thomond Gate King's Island Single Malt — unit 1 of 3",
+      "uncertain": false,
+      "name": "Thomond Gate The Clash of the Ash — unit 1 of 3",
       "brand": "Thomond Gate",
       "region": "Ireland",
       "age": null,
       "vintage": null,
-      "abv": null,
+      "abv": 49,
       "volume_ml": 700,
       "cask": null,
-      "features": "King's Island single malt",
-      "history": "Thomond Gate King's Island Single Malt — Limerick-linked brand. Photos were contaminated with other bottles; treat identity as uncertain until a clean label shot is attached",
+      "features": "The Clash of the Ash; VAT 1; edition of 1350; bottled 08/09/2023",
+      "history": "The photographed label states The Clash of the Ash, VAT 1, bottled 08/09/2023, 49% ABV, 700 ml. The notation 1 of 1350 describes the edition, not a unique serial",
       "why_valuable": "Uncertain ID — hold value judgment",
       "photos": [
         {
@@ -827,9 +827,9 @@
           "full": "images/full/20261105_105619.jpg"
         }
       ],
-      "public_price_eur": 110,
+      "public_price_eur": 150,
       "show_price": true,
-      "price_label": "€110"
+      "price_label": "€150"
     },
     {
       "id": "u026",
@@ -874,7 +874,7 @@
       "expression_quantity": 4,
       "unit_bottle_number": null,
       "unit_cask_number": null,
-      "uncertain": true,
+      "uncertain": false,
       "name": "Gold Spot 9 Year Old — unit 1 of 4",
       "brand": "Gold Spot",
       "region": "Ireland",
@@ -893,9 +893,9 @@
           "full": "images/full/20261105_105729.jpg"
         }
       ],
-      "public_price_eur": 190,
+      "public_price_eur": 160,
       "show_price": true,
-      "price_label": "€190"
+      "price_label": "€160"
     },
     {
       "id": "u028",
@@ -907,7 +907,7 @@
       "expression_quantity": 3,
       "unit_bottle_number": null,
       "unit_cask_number": null,
-      "uncertain": true,
+      "uncertain": false,
       "name": "Dunville’s VR 10 Year Old PX — unit 1 of 3",
       "brand": "Dunville’s",
       "region": "Ireland",
@@ -926,9 +926,9 @@
           "full": "images/full/20261105_105922.jpg"
         }
       ],
-      "public_price_eur": null,
-      "show_price": false,
-      "price_label": "Price on request"
+      "public_price_eur": 110,
+      "show_price": true,
+      "price_label": "€110"
     },
     {
       "id": "u029",
@@ -940,7 +940,7 @@
       "expression_quantity": 3,
       "unit_bottle_number": null,
       "unit_cask_number": null,
-      "uncertain": true,
+      "uncertain": false,
       "name": "Dunville’s VR 10 Year Old PX — unit 2 of 3",
       "brand": "Dunville’s",
       "region": "Ireland",
@@ -959,9 +959,9 @@
           "full": "images/full/20261105_105936.jpg"
         }
       ],
-      "public_price_eur": null,
-      "show_price": false,
-      "price_label": "Price on request"
+      "public_price_eur": 65,
+      "show_price": true,
+      "price_label": "€65"
     },
     {
       "id": "u030",
@@ -992,31 +992,31 @@
           "full": "images/full/20261105_110319.jpg"
         }
       ],
-      "public_price_eur": null,
-      "show_price": false,
-      "price_label": "Price on request"
+      "public_price_eur": 500,
+      "show_price": true,
+      "price_label": "€500"
     },
     {
       "id": "u031",
       "expression_id": "w018",
-      "expression_name": "Thomond Gate King's Island Single Malt",
+      "expression_name": "Thomond Gate The Clash of the Ash",
       "photo_filename": "20261105_110442.jpg",
       "stock_order": 31,
       "unit_index": 2,
       "expression_quantity": 3,
       "unit_bottle_number": null,
       "unit_cask_number": null,
-      "uncertain": true,
-      "name": "Thomond Gate King's Island Single Malt — unit 2 of 3",
+      "uncertain": false,
+      "name": "Thomond Gate The Clash of the Ash — unit 2 of 3",
       "brand": "Thomond Gate",
       "region": "Ireland",
       "age": null,
       "vintage": null,
-      "abv": null,
+      "abv": 49,
       "volume_ml": 700,
       "cask": null,
-      "features": "King's Island single malt",
-      "history": "Thomond Gate King's Island Single Malt — Limerick-linked brand. Photos were contaminated with other bottles; treat identity as uncertain until a clean label shot is attached",
+      "features": "The Clash of the Ash; VAT 1; edition of 1350; bottled 08/09/2023",
+      "history": "The photographed label states The Clash of the Ash, VAT 1, bottled 08/09/2023, 49% ABV, 700 ml. The notation 1 of 1350 describes the edition, not a unique serial",
       "why_valuable": "Uncertain ID — hold value judgment",
       "photos": [
         {
@@ -1032,24 +1032,24 @@
     {
       "id": "u032",
       "expression_id": "w018",
-      "expression_name": "Thomond Gate King's Island Single Malt",
+      "expression_name": "Thomond Gate The Clash of the Ash",
       "photo_filename": "20261105_110529.jpg",
       "stock_order": 32,
       "unit_index": 3,
       "expression_quantity": 3,
       "unit_bottle_number": null,
       "unit_cask_number": null,
-      "uncertain": true,
-      "name": "Thomond Gate King's Island Single Malt — unit 3 of 3",
+      "uncertain": false,
+      "name": "Thomond Gate The Clash of the Ash — unit 3 of 3",
       "brand": "Thomond Gate",
       "region": "Ireland",
       "age": null,
       "vintage": null,
-      "abv": null,
+      "abv": 49,
       "volume_ml": 700,
       "cask": null,
-      "features": "King's Island single malt",
-      "history": "Thomond Gate King's Island Single Malt — Limerick-linked brand. Photos were contaminated with other bottles; treat identity as uncertain until a clean label shot is attached",
+      "features": "The Clash of the Ash; VAT 1; edition of 1350; bottled 08/09/2023",
+      "history": "The photographed label states The Clash of the Ash, VAT 1, bottled 08/09/2023, 49% ABV, 700 ml. The notation 1 of 1350 describes the edition, not a unique serial",
       "why_valuable": "Uncertain ID — hold value judgment",
       "photos": [
         {
@@ -1091,9 +1091,9 @@
           "full": "images/full/20261105_110753.jpg"
         }
       ],
-      "public_price_eur": 240,
+      "public_price_eur": 180,
       "show_price": true,
-      "price_label": "€240"
+      "price_label": "€180"
     },
     {
       "id": "u034",
@@ -1124,9 +1124,9 @@
           "full": "images/full/20261105_110915.jpg"
         }
       ],
-      "public_price_eur": 120,
-      "show_price": true,
-      "price_label": "€120"
+      "public_price_eur": null,
+      "show_price": false,
+      "price_label": "Price on request"
     },
     {
       "id": "u035",
@@ -1157,9 +1157,9 @@
           "full": "images/full/20261105_111045.jpg"
         }
       ],
-      "public_price_eur": 260,
+      "public_price_eur": 380,
       "show_price": true,
-      "price_label": "€260"
+      "price_label": "€380"
     },
     {
       "id": "u036",
@@ -1256,9 +1256,9 @@
           "full": "images/full/20261105_111317.jpg"
         }
       ],
-      "public_price_eur": 120,
-      "show_price": true,
-      "price_label": "€120"
+      "public_price_eur": null,
+      "show_price": false,
+      "price_label": "Price on request"
     },
     {
       "id": "u039",
@@ -1296,23 +1296,23 @@
     {
       "id": "u040",
       "expression_id": "w026",
-      "expression_name": "The Academy Single Pot Still",
+      "expression_name": "Irish Whiskey Academy Midleton — Edition No. 1",
       "photo_filename": "20261105_111521.jpg",
       "stock_order": 40,
       "unit_index": 1,
       "expression_quantity": 1,
       "unit_bottle_number": "Not legible",
       "unit_cask_number": null,
-      "uncertain": true,
-      "name": "The Academy Single Pot Still — unit 1 of 1",
+      "uncertain": false,
+      "name": "Irish Whiskey Academy Midleton — Edition No. 1 — unit 1 of 1",
       "brand": "The Academy",
       "region": "Ireland",
       "age": null,
       "vintage": null,
-      "abv": null,
-      "volume_ml": 700,
+      "abv": 46,
+      "volume_ml": 500,
       "cask": null,
-      "features": "Blue velvet pouch; tasting card",
+      "features": "Edition No. 1; single pot still; 46%; 500 ml",
       "history": "The Academy Single Pot Still — identity/photo uncertain (shared Gold Spot imagery). Needs label verification",
       "why_valuable": "Uncertain — do not price as confirmed Academy bottling",
       "photos": [
@@ -1322,9 +1322,9 @@
           "full": "images/full/20261105_111521.jpg"
         }
       ],
-      "public_price_eur": 180,
-      "show_price": true,
-      "price_label": "€180"
+      "public_price_eur": null,
+      "show_price": false,
+      "price_label": "Price on request"
     },
     {
       "id": "u041",
@@ -1355,9 +1355,9 @@
           "full": "images/full/20261105_111840.jpg"
         }
       ],
-      "public_price_eur": 260,
+      "public_price_eur": 280,
       "show_price": true,
-      "price_label": "€260"
+      "price_label": "€280"
     },
     {
       "id": "u042",
@@ -1388,9 +1388,9 @@
           "full": "images/full/20261105_111928.jpg"
         }
       ],
-      "public_price_eur": 260,
+      "public_price_eur": 280,
       "show_price": true,
-      "price_label": "€260"
+      "price_label": "€280"
     },
     {
       "id": "u043",
@@ -1421,9 +1421,9 @@
           "full": "images/full/20261105_112149.jpg"
         }
       ],
-      "public_price_eur": 260,
+      "public_price_eur": 280,
       "show_price": true,
-      "price_label": "€260"
+      "price_label": "€280"
     },
     {
       "id": "u044",
@@ -1454,9 +1454,9 @@
           "full": "images/full/20261105_112241.jpg"
         }
       ],
-      "public_price_eur": 260,
+      "public_price_eur": 280,
       "show_price": true,
-      "price_label": "€260"
+      "price_label": "€280"
     },
     {
       "id": "u045",
@@ -1487,9 +1487,9 @@
           "full": "images/full/20261105_125610.jpg"
         }
       ],
-      "public_price_eur": 120,
-      "show_price": true,
-      "price_label": "€120"
+      "public_price_eur": null,
+      "show_price": false,
+      "price_label": "Price on request"
     },
     {
       "id": "u046",
@@ -1501,7 +1501,7 @@
       "expression_quantity": 3,
       "unit_bottle_number": null,
       "unit_cask_number": null,
-      "uncertain": true,
+      "uncertain": false,
       "name": "Dunville’s VR 10 Year Old PX — unit 3 of 3",
       "brand": "Dunville’s",
       "region": "Ireland",
@@ -1520,9 +1520,9 @@
           "full": "images/full/20261105_125626.jpg"
         }
       ],
-      "public_price_eur": null,
-      "show_price": false,
-      "price_label": "Price on request"
+      "public_price_eur": 130,
+      "show_price": true,
+      "price_label": "€130"
     },
     {
       "id": "u047",
@@ -1553,9 +1553,9 @@
           "full": "images/full/20261105_125706.jpg"
         }
       ],
-      "public_price_eur": 140,
+      "public_price_eur": 180,
       "show_price": true,
-      "price_label": "€140"
+      "price_label": "€180"
     },
     {
       "id": "u048",
@@ -1586,9 +1586,9 @@
           "full": "images/full/20261105_125722.jpg"
         }
       ],
-      "public_price_eur": 140,
+      "public_price_eur": 180,
       "show_price": true,
-      "price_label": "€140"
+      "price_label": "€180"
     },
     {
       "id": "u049",
@@ -1619,9 +1619,9 @@
           "full": "images/full/20261105_125753.jpg"
         }
       ],
-      "public_price_eur": 140,
+      "public_price_eur": 180,
       "show_price": true,
-      "price_label": "€140"
+      "price_label": "€180"
     },
     {
       "id": "u050",
@@ -1652,9 +1652,9 @@
           "full": "images/full/20261105_125820.jpg"
         }
       ],
-      "public_price_eur": 140,
+      "public_price_eur": 180,
       "show_price": true,
-      "price_label": "€140"
+      "price_label": "€180"
     },
     {
       "id": "u051",
@@ -1666,7 +1666,7 @@
       "expression_quantity": 1,
       "unit_bottle_number": null,
       "unit_cask_number": null,
-      "uncertain": true,
+      "uncertain": false,
       "name": "Dunville’s VR 12 Year Old PX (standard strength) — unit 1 of 1",
       "brand": "Dunville’s",
       "region": "Ireland",
@@ -1685,9 +1685,9 @@
           "full": "images/full/20261105_130222.jpg"
         }
       ],
-      "public_price_eur": null,
-      "show_price": false,
-      "price_label": "Price on request"
+      "public_price_eur": 90,
+      "show_price": true,
+      "price_label": "€90"
     },
     {
       "id": "u052",
@@ -1697,8 +1697,8 @@
       "stock_order": 52,
       "unit_index": 1,
       "expression_quantity": 2,
-      "unit_bottle_number": null,
-      "unit_cask_number": null,
+      "unit_bottle_number": "021",
+      "unit_cask_number": "989",
       "uncertain": false,
       "name": "Dunville's VR 18 Year Old — unit 1 of 2",
       "brand": "Dunville's",
@@ -1718,9 +1718,9 @@
           "full": "images/full/20261105_130251.jpg"
         }
       ],
-      "public_price_eur": 220,
+      "public_price_eur": 320,
       "show_price": true,
-      "price_label": "€220"
+      "price_label": "€320"
     },
     {
       "id": "u053",
@@ -1730,8 +1730,8 @@
       "stock_order": 53,
       "unit_index": 2,
       "expression_quantity": 2,
-      "unit_bottle_number": null,
-      "unit_cask_number": null,
+      "unit_bottle_number": "023",
+      "unit_cask_number": "989",
       "uncertain": false,
       "name": "Dunville's VR 18 Year Old — unit 2 of 2",
       "brand": "Dunville's",
@@ -1751,9 +1751,9 @@
           "full": "images/full/20261105_130333.jpg"
         }
       ],
-      "public_price_eur": 220,
+      "public_price_eur": 320,
       "show_price": true,
-      "price_label": "€220"
+      "price_label": "€320"
     },
     {
       "id": "u054",
@@ -1763,8 +1763,8 @@
       "stock_order": 54,
       "unit_index": 1,
       "expression_quantity": 2,
-      "unit_bottle_number": null,
-      "unit_cask_number": null,
+      "unit_bottle_number": "211",
+      "unit_cask_number": "1636",
       "uncertain": false,
       "name": "Dunville's 19 Year Old Single Malt — unit 1 of 2",
       "brand": "Dunville's",
@@ -1784,9 +1784,9 @@
           "full": "images/full/20261105_130403.jpg"
         }
       ],
-      "public_price_eur": 280,
-      "show_price": true,
-      "price_label": "€280"
+      "public_price_eur": null,
+      "show_price": false,
+      "price_label": "Price on request"
     },
     {
       "id": "u055",
@@ -1796,8 +1796,8 @@
       "stock_order": 55,
       "unit_index": 2,
       "expression_quantity": 2,
-      "unit_bottle_number": null,
-      "unit_cask_number": null,
+      "unit_bottle_number": "212",
+      "unit_cask_number": "1636",
       "uncertain": false,
       "name": "Dunville's 19 Year Old Single Malt — unit 2 of 2",
       "brand": "Dunville's",
@@ -1817,30 +1817,30 @@
           "full": "images/full/20261105_130446.jpg"
         }
       ],
-      "public_price_eur": 280,
-      "show_price": true,
-      "price_label": "€280"
+      "public_price_eur": null,
+      "show_price": false,
+      "price_label": "Price on request"
     },
     {
       "id": "u056",
       "expression_id": "w031",
-      "expression_name": "Athrú Single Cask",
+      "expression_name": "Athrú 16 Year Old Single Cask 43001",
       "photo_filename": "20261105_130529.jpg",
       "stock_order": 56,
       "unit_index": 1,
       "expression_quantity": 1,
       "unit_bottle_number": null,
-      "unit_cask_number": null,
-      "uncertain": true,
-      "name": "Athrú Single Cask — unit 1 of 1",
+      "unit_cask_number": "43001",
+      "uncertain": false,
+      "name": "Athrú 16 Year Old Single Cask 43001 — unit 1 of 1",
       "brand": "Athrú",
       "region": "Ireland",
-      "age": null,
+      "age": 16,
       "vintage": null,
-      "abv": null,
+      "abv": 56.5,
       "volume_ml": 700,
-      "cask": null,
-      "features": "Blue tube with horse crest; stout bottle",
+      "cask": "43001",
+      "features": "Cask 43001; bonded 23/07/2004; bottled 18/05/2021; bottle serial partly illegible",
       "history": "Athrú Single Cask — Sligo/Athrú (formerly Nicotin) single cask. Cask number/ABV not confirmed from catalog crops; flagged uncertain",
       "why_valuable": "Irish craft single cask — value if cask no. verified",
       "photos": [
@@ -1850,9 +1850,9 @@
           "full": "images/full/20261105_130529.jpg"
         }
       ],
-      "public_price_eur": 320,
+      "public_price_eur": 170,
       "show_price": true,
-      "price_label": "€320"
+      "price_label": "€170"
     },
     {
       "id": "u057",
@@ -1883,9 +1883,9 @@
           "full": "images/full/20261105_130614.jpg"
         }
       ],
-      "public_price_eur": 140,
+      "public_price_eur": 230,
       "show_price": true,
-      "price_label": "€140"
+      "price_label": "€230"
     },
     {
       "id": "u058",
@@ -1916,9 +1916,9 @@
           "full": "images/full/20261105_130627.jpg"
         }
       ],
-      "public_price_eur": 140,
+      "public_price_eur": 230,
       "show_price": true,
-      "price_label": "€140"
+      "price_label": "€230"
     },
     {
       "id": "u059",
@@ -1928,19 +1928,19 @@
       "stock_order": 59,
       "unit_index": 1,
       "expression_quantity": 1,
-      "unit_bottle_number": null,
-      "unit_cask_number": null,
+      "unit_bottle_number": "075",
+      "unit_cask_number": "1699",
       "uncertain": false,
       "name": "Dunville's 14 Year Old Single Malt — unit 1 of 1",
       "brand": "Dunville's",
       "region": "Ireland",
       "age": 14,
       "vintage": null,
-      "abv": null,
+      "abv": 57.7,
       "volume_ml": 700,
-      "cask": null,
-      "features": "Tube with large gold 14",
-      "history": "Dunville's 14 Year Old Single Malt — Spirit of Belfast aged expression. Exact cask/ABV from this bottle not fully read",
+      "cask": "PX sherry cask1699 — Carry Out Killarney",
+      "features": "Carry Out Killarney; cask1699; bottle075; 57.7%; bottled10/05/2021",
+      "history": "Dunville14-year single malt, PX sherry cask1699 selected for Carry Out Killarney; bottle075; bottled10May2021 at57.7%ABV",
       "why_valuable": "Mid-teen Dunville's age statement; smaller runs than core blends",
       "photos": [
         {
@@ -1949,9 +1949,9 @@
           "full": "images/full/20261105_130655.jpg"
         }
       ],
-      "public_price_eur": 180,
-      "show_price": true,
-      "price_label": "€180"
+      "public_price_eur": null,
+      "show_price": false,
+      "price_label": "Price on request"
     },
     {
       "id": "u060",
@@ -1982,9 +1982,9 @@
           "full": "images/full/20261105_130737.jpg"
         }
       ],
-      "public_price_eur": 180,
+      "public_price_eur": 270,
       "show_price": true,
-      "price_label": "€180"
+      "price_label": "€270"
     },
     {
       "id": "u061",
@@ -2015,9 +2015,9 @@
           "full": "images/full/20261105_130822.jpg"
         }
       ],
-      "public_price_eur": 180,
+      "public_price_eur": 230,
       "show_price": true,
-      "price_label": "€180"
+      "price_label": "€230"
     },
     {
       "id": "u062",
@@ -2048,9 +2048,9 @@
           "full": "images/full/20261105_130923.jpg"
         }
       ],
-      "public_price_eur": 200,
+      "public_price_eur": 120,
       "show_price": true,
-      "price_label": "€200"
+      "price_label": "€120"
     },
     {
       "id": "u063",
@@ -2114,9 +2114,9 @@
           "full": "images/full/20261105_131107.jpg"
         }
       ],
-      "public_price_eur": null,
-      "show_price": false,
-      "price_label": "Price on request"
+      "public_price_eur": 200,
+      "show_price": true,
+      "price_label": "€200"
     },
     {
       "id": "u065",
@@ -2147,9 +2147,9 @@
           "full": "images/full/20261105_131202.jpg"
         }
       ],
-      "public_price_eur": 130,
+      "public_price_eur": 170,
       "show_price": true,
-      "price_label": "€130"
+      "price_label": "€170"
     },
     {
       "id": "u066",
@@ -2180,9 +2180,9 @@
           "full": "images/full/20261105_131702.jpg"
         }
       ],
-      "public_price_eur": 90,
+      "public_price_eur": 70,
       "show_price": true,
-      "price_label": "€90"
+      "price_label": "€70"
     },
     {
       "id": "u067",
@@ -2213,9 +2213,9 @@
           "full": "images/full/20261105_131742_1.jpg"
         }
       ],
-      "public_price_eur": 200,
+      "public_price_eur": 85,
       "show_price": true,
-      "price_label": "€200"
+      "price_label": "€85"
     },
     {
       "id": "u068",
@@ -2246,9 +2246,9 @@
           "full": "images/full/20261105_131742.jpg"
         }
       ],
-      "public_price_eur": 200,
+      "public_price_eur": 85,
       "show_price": true,
-      "price_label": "€200"
+      "price_label": "€85"
     },
     {
       "id": "u069",
@@ -2279,9 +2279,9 @@
           "full": "images/full/20261105_131809_1.jpg"
         }
       ],
-      "public_price_eur": 200,
+      "public_price_eur": 85,
       "show_price": true,
-      "price_label": "€200"
+      "price_label": "€85"
     },
     {
       "id": "u070",
@@ -2312,9 +2312,9 @@
           "full": "images/full/20261105_131809_2.jpg"
         }
       ],
-      "public_price_eur": 200,
+      "public_price_eur": 85,
       "show_price": true,
-      "price_label": "€200"
+      "price_label": "€85"
     },
     {
       "id": "u071",
@@ -2345,9 +2345,9 @@
           "full": "images/full/20261105_131809_3.jpg"
         }
       ],
-      "public_price_eur": 200,
+      "public_price_eur": 85,
       "show_price": true,
-      "price_label": "€200"
+      "price_label": "€85"
     },
     {
       "id": "u072",
@@ -2378,9 +2378,9 @@
           "full": "images/full/20261105_131809_4.jpg"
         }
       ],
-      "public_price_eur": 200,
+      "public_price_eur": 85,
       "show_price": true,
-      "price_label": "€200"
+      "price_label": "€85"
     },
     {
       "id": "u073",
@@ -2411,9 +2411,9 @@
           "full": "images/full/20261105_131809.jpg"
         }
       ],
-      "public_price_eur": 200,
+      "public_price_eur": 85,
       "show_price": true,
-      "price_label": "€200"
+      "price_label": "€85"
     },
     {
       "id": "u074",
@@ -2444,9 +2444,9 @@
           "full": "images/full/20261105_131917_1.jpg"
         }
       ],
-      "public_price_eur": 80,
+      "public_price_eur": 90,
       "show_price": true,
-      "price_label": "€80"
+      "price_label": "€90"
     },
     {
       "id": "u075",
@@ -2477,9 +2477,9 @@
           "full": "images/full/20261105_131917.jpg"
         }
       ],
-      "public_price_eur": 80,
+      "public_price_eur": 70,
       "show_price": true,
-      "price_label": "€80"
+      "price_label": "€70"
     },
     {
       "id": "u076",
@@ -2510,9 +2510,9 @@
           "full": "images/full/20261105_132001_1.jpg"
         }
       ],
-      "public_price_eur": 80,
+      "public_price_eur": 70,
       "show_price": true,
-      "price_label": "€80"
+      "price_label": "€70"
     },
     {
       "id": "u077",
@@ -2543,9 +2543,9 @@
           "full": "images/full/20261105_132001_2.jpg"
         }
       ],
-      "public_price_eur": 80,
+      "public_price_eur": 70,
       "show_price": true,
-      "price_label": "€80"
+      "price_label": "€70"
     },
     {
       "id": "u078",
@@ -2576,9 +2576,9 @@
           "full": "images/full/20261105_132001_3.jpg"
         }
       ],
-      "public_price_eur": 80,
+      "public_price_eur": 70,
       "show_price": true,
-      "price_label": "€80"
+      "price_label": "€70"
     },
     {
       "id": "u079",
@@ -2609,9 +2609,9 @@
           "full": "images/full/20261105_132001.jpg"
         }
       ],
-      "public_price_eur": 80,
+      "public_price_eur": 70,
       "show_price": true,
-      "price_label": "€80"
+      "price_label": "€70"
     },
     {
       "id": "u080",
@@ -2642,9 +2642,9 @@
           "full": "images/full/20261105_132055_1.jpg"
         }
       ],
-      "public_price_eur": 80,
+      "public_price_eur": 70,
       "show_price": true,
-      "price_label": "€80"
+      "price_label": "€70"
     },
     {
       "id": "u081",
@@ -2675,9 +2675,9 @@
           "full": "images/full/20261105_132055.jpg"
         }
       ],
-      "public_price_eur": 80,
+      "public_price_eur": 70,
       "show_price": true,
-      "price_label": "€80"
+      "price_label": "€70"
     },
     {
       "id": "u082",
@@ -2708,9 +2708,9 @@
           "full": "images/full/20261105_132159_1.jpg"
         }
       ],
-      "public_price_eur": 80,
+      "public_price_eur": 70,
       "show_price": true,
-      "price_label": "€80"
+      "price_label": "€70"
     },
     {
       "id": "u083",
@@ -2741,9 +2741,9 @@
           "full": "images/full/20261105_132159.jpg"
         }
       ],
-      "public_price_eur": 80,
+      "public_price_eur": 70,
       "show_price": true,
-      "price_label": "€80"
+      "price_label": "€70"
     },
     {
       "id": "u084",
@@ -2774,9 +2774,9 @@
           "full": "images/full/20261105_132851.jpg"
         }
       ],
-      "public_price_eur": 75,
+      "public_price_eur": 90,
       "show_price": true,
-      "price_label": "€75"
+      "price_label": "€90"
     },
     {
       "id": "u085",
@@ -2788,7 +2788,7 @@
       "expression_quantity": 4,
       "unit_bottle_number": null,
       "unit_cask_number": null,
-      "uncertain": true,
+      "uncertain": false,
       "name": "Gold Spot 9 Year Old — unit 2 of 4",
       "brand": "Gold Spot",
       "region": "Ireland",
@@ -2807,9 +2807,9 @@
           "full": "images/full/20261105_133320_1.jpg"
         }
       ],
-      "public_price_eur": 190,
+      "public_price_eur": 160,
       "show_price": true,
-      "price_label": "€190"
+      "price_label": "€160"
     },
     {
       "id": "u086",
@@ -2821,7 +2821,7 @@
       "expression_quantity": 4,
       "unit_bottle_number": null,
       "unit_cask_number": null,
-      "uncertain": true,
+      "uncertain": false,
       "name": "Gold Spot 9 Year Old — unit 3 of 4",
       "brand": "Gold Spot",
       "region": "Ireland",
@@ -2840,9 +2840,9 @@
           "full": "images/full/20261105_133320_2.jpg"
         }
       ],
-      "public_price_eur": 190,
+      "public_price_eur": 160,
       "show_price": true,
-      "price_label": "€190"
+      "price_label": "€160"
     },
     {
       "id": "u087",
@@ -2854,7 +2854,7 @@
       "expression_quantity": 4,
       "unit_bottle_number": null,
       "unit_cask_number": null,
-      "uncertain": true,
+      "uncertain": false,
       "name": "Gold Spot 9 Year Old — unit 4 of 4",
       "brand": "Gold Spot",
       "region": "Ireland",
@@ -2873,9 +2873,9 @@
           "full": "images/full/20261105_133320.jpg"
         }
       ],
-      "public_price_eur": 190,
+      "public_price_eur": 160,
       "show_price": true,
-      "price_label": "€190"
+      "price_label": "€160"
     },
     {
       "id": "u088",
@@ -2906,9 +2906,9 @@
           "full": "images/full/20261105_133509_1.jpg"
         }
       ],
-      "public_price_eur": 85,
+      "public_price_eur": 100,
       "show_price": true,
-      "price_label": "€85"
+      "price_label": "€100"
     },
     {
       "id": "u089",
@@ -2939,9 +2939,9 @@
           "full": "images/full/20261105_133509_2.jpg"
         }
       ],
-      "public_price_eur": 85,
+      "public_price_eur": 75,
       "show_price": true,
-      "price_label": "€85"
+      "price_label": "€75"
     },
     {
       "id": "u090",
@@ -2972,9 +2972,9 @@
           "full": "images/full/20261105_133509.jpg"
         }
       ],
-      "public_price_eur": 85,
+      "public_price_eur": 75,
       "show_price": true,
-      "price_label": "€85"
+      "price_label": "€75"
     },
     {
       "id": "u091",
@@ -3005,9 +3005,9 @@
           "full": "images/full/20261105_133545.jpg"
         }
       ],
-      "public_price_eur": 85,
+      "public_price_eur": 55,
       "show_price": true,
-      "price_label": "€85"
+      "price_label": "€55"
     },
     {
       "id": "u092",
@@ -3038,9 +3038,9 @@
           "full": "images/full/20261105_133634.jpg"
         }
       ],
-      "public_price_eur": 155,
+      "public_price_eur": 160,
       "show_price": true,
-      "price_label": "€155"
+      "price_label": "€160"
     },
     {
       "id": "u093",
@@ -3071,9 +3071,9 @@
           "full": "images/full/20261105_133641.jpg"
         }
       ],
-      "public_price_eur": 155,
+      "public_price_eur": 160,
       "show_price": true,
-      "price_label": "€155"
+      "price_label": "€160"
     },
     {
       "id": "u094",
@@ -3104,9 +3104,9 @@
           "full": "images/full/20261105_133900_1.jpg"
         }
       ],
-      "public_price_eur": 180,
+      "public_price_eur": 440,
       "show_price": true,
-      "price_label": "€180"
+      "price_label": "€440"
     },
     {
       "id": "u095",
@@ -3137,9 +3137,9 @@
           "full": "images/full/20261105_133900.jpg"
         }
       ],
-      "public_price_eur": 180,
+      "public_price_eur": 140,
       "show_price": true,
-      "price_label": "€180"
+      "price_label": "€140"
     },
     {
       "id": "u096",
@@ -3170,9 +3170,9 @@
           "full": "images/full/20261105_134021_1.jpg"
         }
       ],
-      "public_price_eur": 95,
+      "public_price_eur": 140,
       "show_price": true,
-      "price_label": "€95"
+      "price_label": "€140"
     },
     {
       "id": "u097",
@@ -3203,9 +3203,9 @@
           "full": "images/full/20261105_134021.jpg"
         }
       ],
-      "public_price_eur": 95,
+      "public_price_eur": 140,
       "show_price": true,
-      "price_label": "€95"
+      "price_label": "€140"
     },
     {
       "id": "u098",
@@ -3236,9 +3236,9 @@
           "full": "images/full/20261105_134141.jpg"
         }
       ],
-      "public_price_eur": 85,
+      "public_price_eur": 55,
       "show_price": true,
-      "price_label": "€85"
+      "price_label": "€55"
     },
     {
       "id": "u099",
@@ -3269,9 +3269,9 @@
           "full": "images/full/20261105_134324_1.jpg"
         }
       ],
-      "public_price_eur": 95,
+      "public_price_eur": 140,
       "show_price": true,
-      "price_label": "€95"
+      "price_label": "€140"
     },
     {
       "id": "u100",
@@ -3302,9 +3302,9 @@
           "full": "images/full/20261105_134324_2.jpg"
         }
       ],
-      "public_price_eur": 95,
+      "public_price_eur": 140,
       "show_price": true,
-      "price_label": "€95"
+      "price_label": "€140"
     },
     {
       "id": "u101",
@@ -3335,9 +3335,9 @@
           "full": "images/full/20261105_134324.jpg"
         }
       ],
-      "public_price_eur": 95,
+      "public_price_eur": 140,
       "show_price": true,
-      "price_label": "€95"
+      "price_label": "€140"
     },
     {
       "id": "u102",
@@ -3368,9 +3368,9 @@
           "full": "images/full/20261105_135150_1.jpg"
         }
       ],
-      "public_price_eur": 90,
+      "public_price_eur": 85,
       "show_price": true,
-      "price_label": "€90"
+      "price_label": "€85"
     },
     {
       "id": "u103",
@@ -3401,14 +3401,14 @@
           "full": "images/full/20261105_135150.jpg"
         }
       ],
-      "public_price_eur": 90,
+      "public_price_eur": 85,
       "show_price": true,
-      "price_label": "€90"
+      "price_label": "€85"
     },
     {
       "id": "u104",
       "expression_id": "w040",
-      "expression_name": "Hibiki Japanese Harmony",
+      "expression_name": "Hibiki Japanese Harmony Master's Select",
       "photo_filename": "20261105_135242.jpg",
       "stock_order": 104,
       "unit_index": 1,
@@ -3416,7 +3416,7 @@
       "unit_bottle_number": null,
       "unit_cask_number": null,
       "uncertain": false,
-      "name": "Hibiki Japanese Harmony — unit 1 of 1",
+      "name": "Hibiki Japanese Harmony Master's Select — unit 1 of 1",
       "brand": "Hibiki",
       "region": "Japan",
       "age": null,
@@ -3424,8 +3424,8 @@
       "abv": 43.0,
       "volume_ml": 700,
       "cask": null,
-      "features": "Japanese Harmony; blended whisky",
-      "history": "Hibiki Japanese Harmony — Suntory's core blended Japanese whisky, typically 43% ABV / 70cl. Not a limited edition",
+      "features": "Master's Select; 43% ABV; 700 ml",
+      "history": "Hibiki Japanese Harmony Master's Select, confirmed from both the photographed bottle and presentation box; 43% ABV, 700 ml",
       "why_valuable": "Core Hibiki; demand driven by Japanese whisky market, not scarcity of this SKU",
       "photos": [
         {
@@ -3434,9 +3434,9 @@
           "full": "images/full/20261105_135242.jpg"
         }
       ],
-      "public_price_eur": 85,
+      "public_price_eur": 130,
       "show_price": true,
-      "price_label": "€85"
+      "price_label": "€130"
     },
     {
       "id": "u105",
@@ -3467,9 +3467,9 @@
           "full": "images/full/20261105_135454.jpg"
         }
       ],
-      "public_price_eur": 85,
-      "show_price": true,
-      "price_label": "€85"
+      "public_price_eur": null,
+      "show_price": false,
+      "price_label": "Price on request"
     },
     {
       "id": "u106",
@@ -3507,23 +3507,23 @@
     {
       "id": "u107",
       "expression_id": "w041",
-      "expression_name": "Killowen 11 Year Old",
+      "expression_name": "Killowen The Dalriadan Part 1 of 2 — 11 Year Old",
       "photo_filename": "20261105_135612.jpg",
       "stock_order": 107,
       "unit_index": 1,
       "expression_quantity": 1,
       "unit_bottle_number": null,
       "unit_cask_number": null,
-      "uncertain": true,
-      "name": "Killowen 11 Year Old — unit 1 of 1",
+      "uncertain": false,
+      "name": "Killowen The Dalriadan Part 1 of 2 — 11 Year Old — unit 1 of 1",
       "brand": "Killowen",
       "region": "Ireland",
       "age": 11,
       "vintage": null,
-      "abv": null,
-      "volume_ml": 700,
+      "abv": 57.5,
+      "volume_ml": 500,
       "cask": null,
-      "features": "11 Year Old release",
+      "features": "The Dalriadan Part 1 of 2; 11 years; 57.5%; 500 ml; small bottle serial not confidently legible",
       "history": "Killowen 11 Year Old — age-statement Killowen; exact batch/cask not confirmed; uncertain flag",
       "why_valuable": "Verify batch — Killowen 11s are small",
       "photos": [
@@ -3533,31 +3533,31 @@
           "full": "images/full/20261105_135612.jpg"
         }
       ],
-      "public_price_eur": null,
-      "show_price": false,
-      "price_label": "Price on request"
+      "public_price_eur": 65,
+      "show_price": true,
+      "price_label": "€65"
     },
     {
       "id": "u108",
       "expression_id": "w042",
-      "expression_name": "W.D. O'Connell 19 Year Old",
+      "expression_name": "W.D. O'Connell 19 Year Old PX Series",
       "photo_filename": "20261105_135655.jpg",
       "stock_order": 108,
       "unit_index": 1,
       "expression_quantity": 1,
-      "unit_bottle_number": null,
-      "unit_cask_number": null,
-      "uncertain": true,
-      "name": "W.D. O'Connell 19 Year Old — unit 1 of 1",
+      "unit_bottle_number": "228",
+      "unit_cask_number": "144104",
+      "uncertain": false,
+      "name": "W.D. O'Connell 19 Year Old PX Series — unit 1 of 1",
       "brand": "W.D. O'Connell",
       "region": "Ireland",
       "age": 19,
       "vintage": null,
-      "abv": null,
+      "abv": 46,
       "volume_ml": 700,
-      "cask": null,
-      "features": "Independent bottler; age 19",
-      "history": "W.D. O'Connell 19 Year Old — independent Irish bottling; cask details not confirmed from crops; uncertain",
+      "cask": "144104",
+      "features": "PX Series; cask 144104; bottle 228; 46%; 700 ml",
+      "history": "W.D. OConnell19-year PX Series, cask144104, bottle228, bottled at46%ABV",
       "why_valuable": "19yo indie Irish — value if cask/distillery on label is desirable",
       "photos": [
         {
@@ -3566,9 +3566,9 @@
           "full": "images/full/20261105_135655.jpg"
         }
       ],
-      "public_price_eur": 160,
-      "show_price": true,
-      "price_label": "€160"
+      "public_price_eur": null,
+      "show_price": false,
+      "price_label": "Price on request"
     },
     {
       "id": "u109",
@@ -3599,9 +3599,9 @@
           "full": "images/full/20261105_135739.jpg"
         }
       ],
-      "public_price_eur": 85,
+      "public_price_eur": 90,
       "show_price": true,
-      "price_label": "€85"
+      "price_label": "€90"
     },
     {
       "id": "u110",
@@ -3632,9 +3632,9 @@
           "full": "images/full/20261105_135815.jpg"
         }
       ],
-      "public_price_eur": 100,
+      "public_price_eur": 120,
       "show_price": true,
-      "price_label": "€100"
+      "price_label": "€120"
     },
     {
       "id": "u111",
@@ -3665,14 +3665,14 @@
           "full": "images/full/20261105_135838.jpg"
         }
       ],
-      "public_price_eur": null,
-      "show_price": false,
-      "price_label": "Price on request"
+      "public_price_eur": 100,
+      "show_price": true,
+      "price_label": "€100"
     },
     {
       "id": "u112",
       "expression_id": "w045",
-      "expression_name": "Midleton Very Rare 2018",
+      "expression_name": "Midleton Very Rare 2015",
       "photo_filename": "20261105_140233.jpg",
       "stock_order": 112,
       "unit_index": 1,
@@ -3680,16 +3680,16 @@
       "unit_bottle_number": null,
       "unit_cask_number": null,
       "uncertain": false,
-      "name": "Midleton Very Rare 2018 — unit 1 of 1",
+      "name": "Midleton Very Rare 2015 — unit 1 of 1",
       "brand": "Midleton",
       "region": "Ireland",
       "age": null,
-      "vintage": 2018,
+      "vintage": 2015,
       "abv": 40.0,
       "volume_ml": 700,
       "cask": null,
-      "features": "Very Rare; wooden presentation case",
-      "history": "The photographed wooden case and bottle identify the 2018 annual Midleton Very Rare vintage release, at 40% ABV",
+      "features": "2015 vintage; wooden presentation case",
+      "history": "The bottle label clearly states the 2015 annual Midleton Very Rare vintage, in its wooden presentation case; 40% ABV",
       "why_valuable": "Annual MVR; wooden case + signature/number drive collectability",
       "photos": [
         {
@@ -3698,9 +3698,9 @@
           "full": "images/full/20261105_140233.jpg"
         }
       ],
-      "public_price_eur": 250,
+      "public_price_eur": 570,
       "show_price": true,
-      "price_label": "€250"
+      "price_label": "€570"
     },
     {
       "id": "u113",
@@ -3712,7 +3712,7 @@
       "expression_quantity": 2,
       "unit_bottle_number": "064/198",
       "unit_cask_number": "31679",
-      "uncertain": true,
+      "uncertain": false,
       "name": "Midleton Single Pot Still Single Cask 1997 — CÆSAR Club Romania — unit 1 of 2",
       "brand": "Midleton",
       "region": "Ireland",
@@ -3731,9 +3731,9 @@
           "full": "images/full/20261105_140306.jpg"
         }
       ],
-      "public_price_eur": 550,
-      "show_price": true,
-      "price_label": "€550"
+      "public_price_eur": null,
+      "show_price": false,
+      "price_label": "Price on request"
     },
     {
       "id": "u114",
@@ -3764,9 +3764,9 @@
           "full": "images/full/20261105_140551.jpg"
         }
       ],
-      "public_price_eur": null,
-      "show_price": false,
-      "price_label": "Price on request"
+      "public_price_eur": 520,
+      "show_price": true,
+      "price_label": "€520"
     },
     {
       "id": "u115",
@@ -3797,9 +3797,9 @@
           "full": "images/full/20261105_140624.jpg"
         }
       ],
-      "public_price_eur": null,
-      "show_price": false,
-      "price_label": "Price on request"
+      "public_price_eur": 500,
+      "show_price": true,
+      "price_label": "€500"
     },
     {
       "id": "u116",
@@ -3830,9 +3830,9 @@
           "full": "images/full/20261105_140701_1.jpg"
         }
       ],
-      "public_price_eur": null,
-      "show_price": false,
-      "price_label": "Price on request"
+      "public_price_eur": 150,
+      "show_price": true,
+      "price_label": "€150"
     },
     {
       "id": "u117",
@@ -3863,9 +3863,9 @@
           "full": "images/full/20261105_140701.jpg"
         }
       ],
-      "public_price_eur": null,
-      "show_price": false,
-      "price_label": "Price on request"
+      "public_price_eur": 90,
+      "show_price": true,
+      "price_label": "€90"
     },
     {
       "id": "u118",
@@ -3875,7 +3875,7 @@
       "stock_order": 118,
       "unit_index": 1,
       "expression_quantity": 1,
-      "unit_bottle_number": null,
+      "unit_bottle_number": "176/228",
       "unit_cask_number": "40728",
       "uncertain": false,
       "name": "Midleton Single Cask 1999 — The Friend at Hand, Belfast — unit 1 of 1",
@@ -3886,7 +3886,7 @@
       "abv": 46.0,
       "volume_ml": 700,
       "cask": "First fill bourbon barrel 40728",
-      "features": "Friend at Hand Belfast exclusive; distilled 26 Apr 1999; 46% ABV",
+      "features": "Friend at Hand Belfast exclusive; bonded 30 Apr 1999; cask 40728; 46% ABV",
       "history": "Midleton single pot still single cask matured exclusively in first-fill bourbon barrel 40728, distilled 26 April 1999, selected/bonded for The Friend at Hand, Belfast. at 46% ABV / 700ml. (Inventory previously mislabelled as Bushmills Causeway 2011 — corrected from high-res label.)",
       "why_valuable": "210-bottle Belfast retailer exclusive; 1999 Midleton bourbon single cask",
       "photos": [
@@ -3896,9 +3896,9 @@
           "full": "images/full/20261105_140802.jpg"
         }
       ],
-      "public_price_eur": 400,
-      "show_price": true,
-      "price_label": "€400"
+      "public_price_eur": null,
+      "show_price": false,
+      "price_label": "Price on request"
     },
     {
       "id": "u119",
@@ -3929,9 +3929,9 @@
           "full": "images/full/20261105_140844.jpg"
         }
       ],
-      "public_price_eur": null,
-      "show_price": false,
-      "price_label": "Price on request"
+      "public_price_eur": 550,
+      "show_price": true,
+      "price_label": "€550"
     },
     {
       "id": "u120",
@@ -3943,7 +3943,7 @@
       "expression_quantity": 1,
       "unit_bottle_number": null,
       "unit_cask_number": null,
-      "uncertain": true,
+      "uncertain": false,
       "name": "Jameson Tokyo Limited Edition — unit 1 of 1",
       "brand": "Jameson",
       "region": "Ireland",
@@ -3962,9 +3962,9 @@
           "full": "images/full/20261105_140926.jpg"
         }
       ],
-      "public_price_eur": null,
-      "show_price": false,
-      "price_label": "Price on request"
+      "public_price_eur": 150,
+      "show_price": true,
+      "price_label": "€150"
     },
     {
       "id": "u121",
@@ -3995,14 +3995,14 @@
           "full": "images/full/20261105_140944.jpg"
         }
       ],
-      "public_price_eur": 175,
+      "public_price_eur": 190,
       "show_price": true,
-      "price_label": "€175"
+      "price_label": "€190"
     },
     {
       "id": "u122",
       "expression_id": "w214",
-      "expression_name": "Jameson Bottle Shop Dublin Limited Edition",
+      "expression_name": "Jameson Limited Edition — illustrated label",
       "photo_filename": "20261105_140959.jpg",
       "stock_order": 122,
       "unit_index": 1,
@@ -4010,7 +4010,7 @@
       "unit_bottle_number": null,
       "unit_cask_number": null,
       "uncertain": true,
-      "name": "Jameson Bottle Shop Dublin Limited Edition — unit 1 of 1",
+      "name": "Jameson Limited Edition — illustrated label — unit 1 of 1",
       "brand": "Jameson",
       "region": "Ireland",
       "age": null,
@@ -4018,8 +4018,8 @@
       "abv": null,
       "volume_ml": 700,
       "cask": null,
-      "features": "Label-identified; exact market valuation pending",
-      "history": "Photographed Jameson bottle has Bottle Shop Dublin neck band and a distinct illustrated label",
+      "features": "Illustrated limited-edition label; exact edition/designer unresolved",
+      "history": "Jameson limited-edition illustrated bottle. The exact artwork edition or designer cannot be established from the available photograph; the former Bottle Shop Dublin attribution is not verified",
       "why_valuable": "Decorative Dublin presentation, kept separate from other Jameson editions",
       "photos": [
         {
@@ -4061,9 +4061,9 @@
           "full": "images/full/20261105_141019.jpg"
         }
       ],
-      "public_price_eur": 550,
-      "show_price": true,
-      "price_label": "€550"
+      "public_price_eur": null,
+      "show_price": false,
+      "price_label": "Price on request"
     },
     {
       "id": "u124",
@@ -4292,9 +4292,9 @@
           "full": "images/full/20261105_141329_1.jpg"
         }
       ],
-      "public_price_eur": 110,
-      "show_price": true,
-      "price_label": "€110"
+      "public_price_eur": null,
+      "show_price": false,
+      "price_label": "Price on request"
     },
     {
       "id": "u131",
@@ -4325,9 +4325,9 @@
           "full": "images/full/20261105_141329_2.jpg"
         }
       ],
-      "public_price_eur": 110,
-      "show_price": true,
-      "price_label": "€110"
+      "public_price_eur": null,
+      "show_price": false,
+      "price_label": "Price on request"
     },
     {
       "id": "u132",
@@ -4358,9 +4358,9 @@
           "full": "images/full/20261105_141329_3.jpg"
         }
       ],
-      "public_price_eur": 110,
-      "show_price": true,
-      "price_label": "€110"
+      "public_price_eur": null,
+      "show_price": false,
+      "price_label": "Price on request"
     },
     {
       "id": "u133",
@@ -4391,9 +4391,9 @@
           "full": "images/full/20261105_141329.jpg"
         }
       ],
-      "public_price_eur": 110,
-      "show_price": true,
-      "price_label": "€110"
+      "public_price_eur": null,
+      "show_price": false,
+      "price_label": "Price on request"
     },
     {
       "id": "u134",
@@ -4424,9 +4424,9 @@
           "full": "images/full/20261105_141528.jpg"
         }
       ],
-      "public_price_eur": null,
-      "show_price": false,
-      "price_label": "Price on request"
+      "public_price_eur": 90,
+      "show_price": true,
+      "price_label": "€90"
     },
     {
       "id": "u135",
@@ -4490,14 +4490,14 @@
           "full": "images/full/20261105_142001.jpg"
         }
       ],
-      "public_price_eur": 130,
+      "public_price_eur": 170,
       "show_price": true,
-      "price_label": "€130"
+      "price_label": "€170"
     },
     {
       "id": "u137",
       "expression_id": "w050",
-      "expression_name": "Natterjack Irish Whiskey",
+      "expression_name": "Natterjack Cask Strength",
       "photo_filename": "20261105_143858.jpg",
       "stock_order": 137,
       "unit_index": 1,
@@ -4505,16 +4505,16 @@
       "unit_bottle_number": null,
       "unit_cask_number": null,
       "uncertain": true,
-      "name": "Natterjack Irish Whiskey — unit 1 of 2",
+      "name": "Natterjack Cask Strength — unit 1 of 2",
       "brand": "Natterjack",
       "region": "Ireland",
       "age": null,
       "vintage": null,
       "abv": null,
-      "volume_ml": 700,
+      "volume_ml": 500,
       "cask": null,
-      "features": "Toad label; small bottles",
-      "history": "Natterjack Irish Whiskey — brand entry; details uncertain from catalog",
+      "features": "Cask Strength; 500 ml; exact blend number and ABV illegible",
+      "history": "The two photographed units are Natterjack Cask Strength, 500 ml. Each source photo is a collage showing one unit from multiple sides. Exact blend number and strength remain illegible",
       "why_valuable": "Uncertain — verify expression",
       "photos": [
         {
@@ -4523,14 +4523,14 @@
           "full": "images/full/20261105_143858.jpg"
         }
       ],
-      "public_price_eur": 120,
-      "show_price": true,
-      "price_label": "€120"
+      "public_price_eur": null,
+      "show_price": false,
+      "price_label": "Price on request"
     },
     {
       "id": "u138",
       "expression_id": "w050",
-      "expression_name": "Natterjack Irish Whiskey",
+      "expression_name": "Natterjack Cask Strength",
       "photo_filename": "20261105_143924.jpg",
       "stock_order": 138,
       "unit_index": 2,
@@ -4538,16 +4538,16 @@
       "unit_bottle_number": null,
       "unit_cask_number": null,
       "uncertain": true,
-      "name": "Natterjack Irish Whiskey — unit 2 of 2",
+      "name": "Natterjack Cask Strength — unit 2 of 2",
       "brand": "Natterjack",
       "region": "Ireland",
       "age": null,
       "vintage": null,
       "abv": null,
-      "volume_ml": 700,
+      "volume_ml": 500,
       "cask": null,
-      "features": "Toad label; small bottles",
-      "history": "Natterjack Irish Whiskey — brand entry; details uncertain from catalog",
+      "features": "Cask Strength; 500 ml; exact blend number and ABV illegible",
+      "history": "The two photographed units are Natterjack Cask Strength, 500 ml. Each source photo is a collage showing one unit from multiple sides. Exact blend number and strength remain illegible",
       "why_valuable": "Uncertain — verify expression",
       "photos": [
         {
@@ -4556,9 +4556,9 @@
           "full": "images/full/20261105_143924.jpg"
         }
       ],
-      "public_price_eur": 120,
-      "show_price": true,
-      "price_label": "€120"
+      "public_price_eur": null,
+      "show_price": false,
+      "price_label": "Price on request"
     },
     {
       "id": "u139",
@@ -4589,9 +4589,9 @@
           "full": "images/full/20261106_103030.jpg"
         }
       ],
-      "public_price_eur": 250,
+      "public_price_eur": 270,
       "show_price": true,
-      "price_label": "€250"
+      "price_label": "€270"
     },
     {
       "id": "u140",
@@ -4622,9 +4622,9 @@
           "full": "images/full/20261106_103146.jpg"
         }
       ],
-      "public_price_eur": 250,
+      "public_price_eur": 160,
       "show_price": true,
-      "price_label": "€250"
+      "price_label": "€160"
     },
     {
       "id": "u141",
@@ -4655,9 +4655,9 @@
           "full": "images/full/20261106_103348.jpg"
         }
       ],
-      "public_price_eur": 250,
+      "public_price_eur": 160,
       "show_price": true,
-      "price_label": "€250"
+      "price_label": "€160"
     },
     {
       "id": "u142",
@@ -4688,9 +4688,9 @@
           "full": "images/full/20261106_103710.jpg"
         }
       ],
-      "public_price_eur": 250,
+      "public_price_eur": 160,
       "show_price": true,
-      "price_label": "€250"
+      "price_label": "€160"
     },
     {
       "id": "u143",
@@ -4721,9 +4721,9 @@
           "full": "images/full/20261106_103818.jpg"
         }
       ],
-      "public_price_eur": 400,
-      "show_price": true,
-      "price_label": "€400"
+      "public_price_eur": null,
+      "show_price": false,
+      "price_label": "Price on request"
     },
     {
       "id": "u144",
@@ -4754,9 +4754,9 @@
           "full": "images/full/20261106_104021.jpg"
         }
       ],
-      "public_price_eur": 180,
+      "public_price_eur": 100,
       "show_price": true,
-      "price_label": "€180"
+      "price_label": "€100"
     },
     {
       "id": "u145",
@@ -4787,9 +4787,9 @@
           "full": "images/full/20261106_104059.jpg"
         }
       ],
-      "public_price_eur": 180,
+      "public_price_eur": 100,
       "show_price": true,
-      "price_label": "€180"
+      "price_label": "€100"
     },
     {
       "id": "u146",
@@ -4820,9 +4820,9 @@
           "full": "images/full/20261106_104351.jpg"
         }
       ],
-      "public_price_eur": null,
-      "show_price": false,
-      "price_label": "Price on request"
+      "public_price_eur": 2000,
+      "show_price": true,
+      "price_label": "€2000"
     },
     {
       "id": "u147",
@@ -4853,9 +4853,9 @@
           "full": "images/full/20261106_104804.jpg"
         }
       ],
-      "public_price_eur": null,
-      "show_price": false,
-      "price_label": "Price on request"
+      "public_price_eur": 2000,
+      "show_price": true,
+      "price_label": "€2000"
     },
     {
       "id": "u148",
@@ -4886,9 +4886,9 @@
           "full": "images/full/20261106_104943.jpg"
         }
       ],
-      "public_price_eur": null,
-      "show_price": false,
-      "price_label": "Price on request"
+      "public_price_eur": 2000,
+      "show_price": true,
+      "price_label": "€2000"
     },
     {
       "id": "u149",
@@ -4919,9 +4919,9 @@
           "full": "images/full/20261106_105312.jpg"
         }
       ],
-      "public_price_eur": 245,
+      "public_price_eur": 210,
       "show_price": true,
-      "price_label": "€245"
+      "price_label": "€210"
     },
     {
       "id": "u150",
@@ -4952,9 +4952,9 @@
           "full": "images/full/20261106_105424.jpg"
         }
       ],
-      "public_price_eur": 245,
+      "public_price_eur": 210,
       "show_price": true,
-      "price_label": "€245"
+      "price_label": "€210"
     },
     {
       "id": "u151",
@@ -4985,9 +4985,9 @@
           "full": "images/full/20261106_105536.jpg"
         }
       ],
-      "public_price_eur": 245,
+      "public_price_eur": 210,
       "show_price": true,
-      "price_label": "€245"
+      "price_label": "€210"
     },
     {
       "id": "u152",
@@ -5018,9 +5018,9 @@
           "full": "images/full/20261106_105821.jpg"
         }
       ],
-      "public_price_eur": 280,
+      "public_price_eur": 300,
       "show_price": true,
-      "price_label": "€280"
+      "price_label": "€300"
     },
     {
       "id": "u153",
@@ -5051,9 +5051,9 @@
           "full": "images/full/20261106_110002.jpg"
         }
       ],
-      "public_price_eur": 280,
+      "public_price_eur": 300,
       "show_price": true,
-      "price_label": "€280"
+      "price_label": "€300"
     },
     {
       "id": "u154",
@@ -5084,9 +5084,9 @@
           "full": "images/full/20261106_110146.jpg"
         }
       ],
-      "public_price_eur": 280,
+      "public_price_eur": 300,
       "show_price": true,
-      "price_label": "€280"
+      "price_label": "€300"
     },
     {
       "id": "u155",
@@ -5117,9 +5117,9 @@
           "full": "images/full/20261106_110424.jpg"
         }
       ],
-      "public_price_eur": 280,
+      "public_price_eur": 300,
       "show_price": true,
-      "price_label": "€280"
+      "price_label": "€300"
     },
     {
       "id": "u156",
@@ -5150,9 +5150,9 @@
           "full": "images/full/20261106_110601.jpg"
         }
       ],
-      "public_price_eur": 280,
+      "public_price_eur": 300,
       "show_price": true,
-      "price_label": "€280"
+      "price_label": "€300"
     },
     {
       "id": "u157",
@@ -5183,9 +5183,9 @@
           "full": "images/full/20261106_110757.jpg"
         }
       ],
-      "public_price_eur": 280,
+      "public_price_eur": 300,
       "show_price": true,
-      "price_label": "€280"
+      "price_label": "€300"
     },
     {
       "id": "u158",
@@ -5216,9 +5216,9 @@
           "full": "images/full/20261106_110930.jpg"
         }
       ],
-      "public_price_eur": 250,
+      "public_price_eur": 160,
       "show_price": true,
-      "price_label": "€250"
+      "price_label": "€160"
     },
     {
       "id": "u159",
@@ -5249,9 +5249,9 @@
           "full": "images/full/20261106_111342_1.jpg"
         }
       ],
-      "public_price_eur": 140,
+      "public_price_eur": 120,
       "show_price": true,
-      "price_label": "€140"
+      "price_label": "€120"
     },
     {
       "id": "u160",
@@ -5282,9 +5282,9 @@
           "full": "images/full/20261106_111342_10.jpg"
         }
       ],
-      "public_price_eur": 140,
+      "public_price_eur": 210,
       "show_price": true,
-      "price_label": "€140"
+      "price_label": "€210"
     },
     {
       "id": "u161",
@@ -5315,9 +5315,9 @@
           "full": "images/full/20261106_111342_2.jpg"
         }
       ],
-      "public_price_eur": 140,
+      "public_price_eur": 85,
       "show_price": true,
-      "price_label": "€140"
+      "price_label": "€85"
     },
     {
       "id": "u162",
@@ -5348,9 +5348,9 @@
           "full": "images/full/20261106_111342_3.jpg"
         }
       ],
-      "public_price_eur": 140,
+      "public_price_eur": 85,
       "show_price": true,
-      "price_label": "€140"
+      "price_label": "€85"
     },
     {
       "id": "u163",
@@ -5381,9 +5381,9 @@
           "full": "images/full/20261106_111342_4.jpg"
         }
       ],
-      "public_price_eur": 140,
+      "public_price_eur": 85,
       "show_price": true,
-      "price_label": "€140"
+      "price_label": "€85"
     },
     {
       "id": "u164",
@@ -5414,9 +5414,9 @@
           "full": "images/full/20261106_111342_5.jpg"
         }
       ],
-      "public_price_eur": 140,
+      "public_price_eur": 85,
       "show_price": true,
-      "price_label": "€140"
+      "price_label": "€85"
     },
     {
       "id": "u165",
@@ -5447,9 +5447,9 @@
           "full": "images/full/20261106_111342_6.jpg"
         }
       ],
-      "public_price_eur": 140,
+      "public_price_eur": 85,
       "show_price": true,
-      "price_label": "€140"
+      "price_label": "€85"
     },
     {
       "id": "u166",
@@ -5480,9 +5480,9 @@
           "full": "images/full/20261106_111342_7.jpg"
         }
       ],
-      "public_price_eur": 140,
+      "public_price_eur": 85,
       "show_price": true,
-      "price_label": "€140"
+      "price_label": "€85"
     },
     {
       "id": "u167",
@@ -5513,9 +5513,9 @@
           "full": "images/full/20261106_111342_8.jpg"
         }
       ],
-      "public_price_eur": 140,
+      "public_price_eur": 85,
       "show_price": true,
-      "price_label": "€140"
+      "price_label": "€85"
     },
     {
       "id": "u168",
@@ -5546,9 +5546,9 @@
           "full": "images/full/20261106_111342_9.jpg"
         }
       ],
-      "public_price_eur": 140,
+      "public_price_eur": 85,
       "show_price": true,
-      "price_label": "€140"
+      "price_label": "€85"
     },
     {
       "id": "u169",
@@ -5579,9 +5579,9 @@
           "full": "images/full/20261106_111342.jpg"
         }
       ],
-      "public_price_eur": 140,
+      "public_price_eur": 85,
       "show_price": true,
-      "price_label": "€140"
+      "price_label": "€85"
     },
     {
       "id": "u170",
@@ -5612,9 +5612,9 @@
           "full": "images/full/20261106_111634.jpg"
         }
       ],
-      "public_price_eur": 110,
+      "public_price_eur": 170,
       "show_price": true,
-      "price_label": "€110"
+      "price_label": "€170"
     },
     {
       "id": "u171",
@@ -5678,9 +5678,9 @@
           "full": "images/full/20261106_112002.jpg"
         }
       ],
-      "public_price_eur": 220,
+      "public_price_eur": 380,
       "show_price": true,
-      "price_label": "€220"
+      "price_label": "€380"
     },
     {
       "id": "u173",
@@ -5711,9 +5711,9 @@
           "full": "images/full/20261106_112236.jpg"
         }
       ],
-      "public_price_eur": 280,
+      "public_price_eur": 240,
       "show_price": true,
-      "price_label": "€280"
+      "price_label": "€240"
     },
     {
       "id": "u174",
@@ -5725,7 +5725,7 @@
       "expression_quantity": 2,
       "unit_bottle_number": "061/198",
       "unit_cask_number": "31679",
-      "uncertain": true,
+      "uncertain": false,
       "name": "Midleton Single Pot Still Single Cask 1997 — CÆSAR Club Romania — unit 2 of 2",
       "brand": "Midleton",
       "region": "Ireland",
@@ -5744,9 +5744,9 @@
           "full": "images/full/20261106_112405.jpg"
         }
       ],
-      "public_price_eur": 550,
-      "show_price": true,
-      "price_label": "€550"
+      "public_price_eur": null,
+      "show_price": false,
+      "price_label": "Price on request"
     },
     {
       "id": "u175",
@@ -5777,9 +5777,9 @@
           "full": "images/full/20261106_112500.jpg"
         }
       ],
-      "public_price_eur": 280,
-      "show_price": true,
-      "price_label": "€280"
+      "public_price_eur": null,
+      "show_price": false,
+      "price_label": "Price on request"
     },
     {
       "id": "u176",
@@ -5843,9 +5843,9 @@
           "full": "images/full/20261106_113319.jpg"
         }
       ],
-      "public_price_eur": null,
-      "show_price": false,
-      "price_label": "Price on request"
+      "public_price_eur": 1300,
+      "show_price": true,
+      "price_label": "€1300"
     },
     {
       "id": "u178",
@@ -5876,9 +5876,9 @@
           "full": "images/full/20261106_113522_1.jpg"
         }
       ],
-      "public_price_eur": null,
-      "show_price": false,
-      "price_label": "Price on request"
+      "public_price_eur": 110,
+      "show_price": true,
+      "price_label": "€110"
     },
     {
       "id": "u179",
@@ -5909,9 +5909,9 @@
           "full": "images/full/20261106_113522.jpg"
         }
       ],
-      "public_price_eur": null,
-      "show_price": false,
-      "price_label": "Price on request"
+      "public_price_eur": 110,
+      "show_price": true,
+      "price_label": "€110"
     },
     {
       "id": "u180",
@@ -5942,9 +5942,9 @@
           "full": "images/full/20261106_113701.jpg"
         }
       ],
-      "public_price_eur": 240,
+      "public_price_eur": 320,
       "show_price": true,
-      "price_label": "€240"
+      "price_label": "€320"
     },
     {
       "id": "u181",
@@ -5975,9 +5975,9 @@
           "full": "images/full/20261106_113838.jpg"
         }
       ],
-      "public_price_eur": 280,
+      "public_price_eur": 300,
       "show_price": true,
-      "price_label": "€280"
+      "price_label": "€300"
     },
     {
       "id": "u182",
@@ -6008,9 +6008,9 @@
           "full": "images/full/20261106_114039.jpg"
         }
       ],
-      "public_price_eur": 280,
+      "public_price_eur": 300,
       "show_price": true,
-      "price_label": "€280"
+      "price_label": "€300"
     },
     {
       "id": "u183",
@@ -6041,9 +6041,9 @@
           "full": "images/full/20261106_114230.jpg"
         }
       ],
-      "public_price_eur": 100,
+      "public_price_eur": 250,
       "show_price": true,
-      "price_label": "€100"
+      "price_label": "€250"
     },
     {
       "id": "u184",
@@ -6074,9 +6074,9 @@
           "full": "images/full/20261106_114323.jpg"
         }
       ],
-      "public_price_eur": 200,
+      "public_price_eur": 230,
       "show_price": true,
-      "price_label": "€200"
+      "price_label": "€230"
     },
     {
       "id": "u185",
@@ -6107,9 +6107,9 @@
           "full": "images/full/20261106_114427.jpg"
         }
       ],
-      "public_price_eur": 310,
+      "public_price_eur": 250,
       "show_price": true,
-      "price_label": "€310"
+      "price_label": "€250"
     },
     {
       "id": "u186",
@@ -6140,9 +6140,9 @@
           "full": "images/full/20261106_114522.jpg"
         }
       ],
-      "public_price_eur": 300,
+      "public_price_eur": 280,
       "show_price": true,
-      "price_label": "€300"
+      "price_label": "€280"
     },
     {
       "id": "u187",
@@ -6173,9 +6173,9 @@
           "full": "images/full/20261106_114627.jpg"
         }
       ],
-      "public_price_eur": 350,
-      "show_price": true,
-      "price_label": "€350"
+      "public_price_eur": null,
+      "show_price": false,
+      "price_label": "Price on request"
     },
     {
       "id": "u188",
@@ -6206,9 +6206,9 @@
           "full": "images/full/20261106_114721.jpg"
         }
       ],
-      "public_price_eur": 400,
+      "public_price_eur": 850,
       "show_price": true,
-      "price_label": "€400"
+      "price_label": "€850"
     },
     {
       "id": "u189",
@@ -6228,9 +6228,9 @@
       "vintage": null,
       "abv": 59,
       "volume_ml": 700,
-      "cask": "First fill bourbon 25850",
+      "cask": "First-fill bourbon cask 25850",
       "features": "Label-identified; exact market valuation pending",
-      "history": "TWE exclusive matured in first-fill bourbon cask 25850; bonded 27 February 2006; 59% ABV",
+      "history": "TWE exclusive 12-year single pot still; first-fill bourbon cask 25850; bonded 27 February 2006; photographed at 55% ABV",
       "why_valuable": "Retailer-exclusive, individually numbered bourbon single cask",
       "photos": [
         {
@@ -6272,9 +6272,9 @@
           "full": "images/full/20261106_115033_1.jpg"
         }
       ],
-      "public_price_eur": 200,
+      "public_price_eur": 150,
       "show_price": true,
-      "price_label": "€200"
+      "price_label": "€150"
     },
     {
       "id": "u191",
@@ -6305,9 +6305,9 @@
           "full": "images/full/20261106_115033.jpg"
         }
       ],
-      "public_price_eur": 200,
+      "public_price_eur": 150,
       "show_price": true,
-      "price_label": "€200"
+      "price_label": "€150"
     },
     {
       "id": "u192",
@@ -6338,9 +6338,9 @@
           "full": "images/full/20261106_115053.jpg"
         }
       ],
-      "public_price_eur": null,
-      "show_price": false,
-      "price_label": "Price on request"
+      "public_price_eur": 320,
+      "show_price": true,
+      "price_label": "€320"
     },
     {
       "id": "u193",
@@ -6371,9 +6371,9 @@
           "full": "images/full/20261106_115111.jpg"
         }
       ],
-      "public_price_eur": 190,
+      "public_price_eur": 220,
       "show_price": true,
-      "price_label": "€190"
+      "price_label": "€220"
     },
     {
       "id": "u194",
@@ -6404,17 +6404,17 @@
           "full": "images/full/20261106_115217.jpg"
         }
       ],
-      "public_price_eur": null,
-      "show_price": false,
-      "price_label": "Price on request"
+      "public_price_eur": 550,
+      "show_price": true,
+      "price_label": "€550"
     }
   ],
   "stats": {
     "unique_bottles": 194,
     "total_units": 194,
     "expressions_count": 97,
-    "with_price": 156,
-    "est_market_value_eur": 28840,
+    "with_price": 151,
+    "est_market_value_eur": 33790,
     "brands": 30
   },
   "archive_note": "0 archive_only bottles omitted (no new photo)"
