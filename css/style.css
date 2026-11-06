@@ -150,3 +150,10 @@ footer .footer-meta{margin:0;font-size:.8rem;opacity:.75}
 .market-block .muted{color:var(--muted);font-size:.85rem;margin-top:4px}
 .market-block .sources{margin-top:8px;font-size:.8rem}
 .market-block a{color:var(--gold)}
+
+/* Physical-unit display */
+.imgwrap{position:relative}
+.quantity-badge{position:absolute;right:10px;top:10px;background:#d5af64;color:#201509;border-radius:20px;padding:5px 12px;font-weight:700}
+.unit-choice{background:#1b1713;border:1px solid #75613d;color:#e8d9b9;padding:7px 10px;border-radius:6px;cursor:pointer}
+.unit-choice.active{border-color:#e1b969;background:#403322}
+.thumbs{flex-wrap:wrap;gap:6px}

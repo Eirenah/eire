@@ -18,7 +18,8 @@
     <p class="collector-note">A private collector&rsquo;s cellar. Bottles may be available for sale or exchange with fellow collectors — enquiries welcome.</p>
     <p class="collector-contact">Contact: to be added</p>
     <div class="stats">
-      <div class="stat"><b id="stat-count">—</b><span>Bottles</span></div>
+      <div class="stat"><b id="stat-count">—</b><span>Stock units</span></div>
+      <div class="stat"><b id="stat-expressions">—</b><span>Expressions</span></div>
       <div class="stat"><b id="stat-brands">—</b><span>Brands</span></div>
       <div class="stat"><b id="stat-priced">—</b><span>Priced</span></div>
       <div class="stat"><b id="stat-market">—</b><span>Est. asking value</span></div>
@@ -29,7 +30,9 @@
     <input id="search" type="search" placeholder="Search name, brand, cask…">
     <select id="filter-brand"><option value="">All brands</option></select>
     <select id="filter-region"><option value="">All regions</option></select>
+    <select id="view-mode"><option value="units">Show all units</option><option value="expressions">Group by expression</option></select>
     <select id="sort">
+      <option value="order">Sort: Original photo order</option>
       <option value="brand">Sort: Brand</option>
       <option value="name">Sort: Name</option>
       <option value="price-desc">Sort: Price high→low</option>
@@ -73,7 +76,7 @@
   <footer>
     <p class="collector-note">This is a private collector&rsquo;s collection. Bottles are available for sale or exchange / trade with fellow collectors — enquiries welcome.</p>
     <p class="collector-contact">Contact: to be added</p>
-    <p class="footer-meta">Built as a static catalog for GitHub Pages · Photos from Whiskey new · Prices matched from Whiskey collection where possible</p>
+    <p class="footer-meta">Built as a static catalog for GitHub Pages · Photos from Whiskey new · One physical unit per photo · Individual unit pricing</p>
    · <a href="owner.html">Owner</a></footer>
   <script src="js/app.js"></script>
 </body>

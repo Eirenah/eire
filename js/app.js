@@ -1,141 +1,58 @@
-let DATA = null;
-const $ = (s, el=document) => el.querySelector(s);
-const $$ = (s, el=document) => [...el.querySelectorAll(s)];
-
-async function init(){
-  const res = await fetch('data.json');
-  DATA = await res.json();
-  if(DATA.view !== 'public') console.warn('Expected public data.json');
-  renderStats();
-  fillFilters();
-  bind();
-  render();
+'use strict';
+let DATA=null, modalId=null;
+const $=s=>document.querySelector(s), $$=s=>[...document.querySelectorAll(s)];
+const esc=s=>String(s??'').replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
+const euros=n=>`€${Number(n).toLocaleString('en-IE')}`;
+const amount=u=>u.show_price&&u.public_price_eur!=null?euros(u.public_price_eur):'Price on request';
+function selected(){
+ const q=$('#search').value.trim().toLowerCase(),brand=$('#filter-brand').value,region=$('#filter-region').value;
+ let units=DATA.items.filter(u=>(!brand||u.brand===brand)&&(!region||u.region===region)&&(!q||[u.name,u.id,u.photo_filename,u.unit_bottle_number,u.unit_cask_number,u.cask,u.features].join(' ').toLowerCase().includes(q)));
+ const sort=$('#sort').value;
+ if(sort==='name')units.sort((a,b)=>a.name.localeCompare(b.name));
+ else if(sort==='brand')units.sort((a,b)=>String(a.brand).localeCompare(String(b.brand))||a.stock_order-b.stock_order);
+ else if(sort==='price-asc')units.sort((a,b)=>(a.public_price_eur??Infinity)-(b.public_price_eur??Infinity));
+ else if(sort==='price-desc')units.sort((a,b)=>(b.public_price_eur??-1)-(a.public_price_eur??-1));
+ else if(sort==='year-asc'||sort==='year-desc')units.sort((a,b)=>((a.vintage||a.age||0)-(b.vintage||b.age||0))*(sort==='year-desc'?-1:1));
+ else units.sort((a,b)=>a.stock_order-b.stock_order);
+ return units;
 }
-
-function renderStats(){
-  const s = DATA.stats || {};
-  $('#stat-count').textContent = s.unique_bottles ?? DATA.items.length;
-  $('#stat-brands').textContent = s.brands ?? new Set(DATA.items.map(i=>i.brand)).size;
-  const priced = DATA.items.filter(i => i.show_price && i.public_price_eur != null);
-  if($('#stat-priced')) $('#stat-priced').textContent = priced.length;
-  if($('#stat-total')) {
-    // Hide legacy total stat if present
-    const wrap = $('#stat-total')?.closest('.stat');
-    if(wrap) wrap.style.display = 'none';
-  }
-  if($('#stat-market')) {
-    const est = s.est_market_value_eur || priced.reduce((a,b)=>a+(b.public_price_eur||0),0);
-    $('#stat-market').textContent = est ? `€${est.toLocaleString('en-IE')}` : '—';
-  }
-}
-
-function fillFilters(){
-  const brands = [...new Set(DATA.items.map(i=>i.brand).filter(Boolean))].sort();
-  const regions = [...new Set(DATA.items.map(i=>i.region).filter(Boolean))].sort();
-  const bsel = $('#filter-brand');
-  const rsel = $('#filter-region');
-  brands.forEach(b=>{ const o=document.createElement('option'); o.value=b; o.textContent=b; bsel.appendChild(o); });
-  regions.forEach(r=>{ const o=document.createElement('option'); o.value=r; o.textContent=r; rsel.appendChild(o); });
-}
-
-function bind(){
-  ['#search','#filter-brand','#filter-region','#sort'].forEach(sel=>{
-    $(sel).addEventListener('input', render);
-    $(sel).addEventListener('change', render);
-  });
-  $('#modal').addEventListener('click', e=>{ if(e.target.id==='modal') closeModal(); });
-  $('#modal-close').addEventListener('click', closeModal);
-  document.addEventListener('keydown', e=>{ if(e.key==='Escape') closeModal(); });
-}
-
-function filtered(){
-  const q = $('#search').value.trim().toLowerCase();
-  const brand = $('#filter-brand').value;
-  const region = $('#filter-region').value;
-  const sort = $('#sort').value;
-  let list = DATA.items.filter(it=>{
-    if(brand && it.brand!==brand) return false;
-    if(region && it.region!==region) return false;
-    if(!q) return true;
-    const blob = `${it.name} ${it.brand} ${it.region} ${it.features||''} ${it.history||''}`.toLowerCase();
-    return blob.includes(q);
-  });
-  list = [...list];
-  if(sort==='price-asc') list.sort((a,b)=>(a.public_price_eur??1e12)-(b.public_price_eur??1e12));
-  if(sort==='price-desc') list.sort((a,b)=>(b.public_price_eur??-1)-(a.public_price_eur??-1));
-  if(sort==='year-asc') list.sort((a,b)=>(a.vintage||a.age||0)-(b.vintage||b.age||0));
-  if(sort==='year-desc') list.sort((a,b)=>(b.vintage||b.age||0)-(a.vintage||a.age||0));
-  if(sort==='name') list.sort((a,b)=>a.name.localeCompare(b.name));
-  if(sort==='brand') list.sort((a,b)=>a.brand.localeCompare(b.brand)||a.name.localeCompare(b.name));
-  return list;
-}
-
 function render(){
-  const list = filtered();
-  const grid = $('#grid');
-  $('#result-count').textContent = `${list.length} bottle${list.length===1?'':'s'}`;
-  if(!list.length){ grid.innerHTML = `<div class="empty">No bottles match.</div>`; return; }
-  grid.innerHTML = list.map(it=>{
-    const img = (it.photos&&it.photos[0]) ? it.photos[0].thumb : '';
-    const age = it.age ? `${it.age} Year Old` : (it.vintage ? String(it.vintage) : '');
-    const price = (it.show_price && it.public_price_eur!=null)
-      ? `<span class="ask">€${Number(it.public_price_eur).toLocaleString('en-IE')}</span>`
-      : `<span class="tbd">Price on request</span>`;
-    return `<article class="card" data-id="${it.id}">
-      <div class="imgwrap">${img?`<img src="${img}" alt="${escapeHtml(it.name)}" loading="lazy">`:''}</div>
-      <div class="body">
-        <div class="brand">${escapeHtml(it.brand||'')}</div>
-        <h3>${escapeHtml(it.name)}</h3>
-        <div class="meta">${[it.region, age].filter(Boolean).map(escapeHtml).join(' · ')}</div>
-        <div class="price">${price}</div>
-      </div>
-    </article>`;
-  }).join('');
-  $$('.card').forEach(c=>c.addEventListener('click',()=>openModal(c.dataset.id)));
+ const units=selected(), grouped=$('#view-mode').value==='expressions';
+ const map=new Map();
+ for(const u of units){const key=grouped?u.expression_id:u.id;if(!map.has(key))map.set(key,[]);map.get(key).push(u);}
+ $('#result-count').textContent=grouped?`${units.length} units · ${map.size} expressions`:`${units.length} units`;
+ $('#grid').innerHTML=[...map.values()].map(group=>{
+  const u=group[0], photo=u.photos[0];
+  let price=amount(u);
+  if(grouped){const visible=group.filter(v=>v.show_price&&v.public_price_eur!=null),values=visible.map(v=>v.public_price_eur);if(visible.length===group.length&&values.length){const lo=Math.min(...values),hi=Math.max(...values);price=lo===hi?`${euros(lo)} each`:`${euros(lo)}–${euros(hi)} each`;}else price='Individual prices / on request';}
+  const serial=u.unit_bottle_number?` · Bottle ${esc(u.unit_bottle_number)}`:'';
+  return `<article class="card" data-id="${esc(u.id)}" tabindex="0" role="button" aria-label="View ${esc(u.name)}"><div class="imgwrap"><img src="${esc(photo.thumb)}" alt="${esc(u.name)}" loading="lazy">${grouped?`<span class="quantity-badge">Qty ${group.length}</span>`:''}</div><div class="body"><div class="brand">${esc(u.brand)}</div><h3>${esc(grouped?u.expression_name:u.name)}</h3><div class="meta">${grouped?`${group.length} separate stock units`:esc(u.id)+serial}</div><div class="meta">${esc(u.region)}${u.age?' · '+esc(u.age)+' years':''}</div><div class="price"><span class="ask">${esc(price)}</span></div>${u.uncertain?'<div class="meta">Label details under review</div>':''}</div></article>`;
+ }).join('')||'<p class="empty">No units match.</p>';
+ $$('#grid .card').forEach(c=>{c.onclick=()=>openModal(c.dataset.id);c.onkeydown=e=>{if(e.key==='Enter'||e.key===' '){e.preventDefault();openModal(c.dataset.id);}};});
 }
-
 function openModal(id){
-  const it = DATA.items.find(x=>x.id===id);
-  if(!it) return;
-  const photos = it.photos||[];
-  const main = photos[0]?.full || photos[0]?.thumb || '';
-  $('#m-brand').textContent = it.brand||'';
-  $('#m-name').textContent = it.name;
-  const priceHtml = (it.show_price && it.public_price_eur!=null)
-    ? `<div class="ask-lg">€${Number(it.public_price_eur).toLocaleString('en-IE')}</div>`
-    : `<span class="tbd">Price on request</span>`;
-  $('#m-price').innerHTML = priceHtml;
-  const mkt = $('#m-market');
-  if(mkt) mkt.innerHTML = ''; // market/auction reserved for owner view
-  $('#m-main').src = main;
-  $('#m-main').alt = it.name;
-  $('#m-thumbs').innerHTML = photos.map((p,i)=>`<img src="${p.thumb}" data-full="${p.full}" class="${i===0?'active':''}" alt="">`).join('');
-  $$('#m-thumbs img').forEach(img=>img.addEventListener('click',()=>{
-    $('#m-main').src = img.dataset.full;
-    $$('#m-thumbs img').forEach(x=>x.classList.remove('active'));
-    img.classList.add('active');
-  }));
-  const rows = [
-    ['Region', it.region],
-    ['Age', it.age?`${it.age} years`:null],
-    ['Vintage', it.vintage],
-    ['ABV', it.abv!=null?`${it.abv}%`:null],
-    ['Volume', it.volume_ml?`${it.volume_ml} ml`:null],
-    ['Cask / No.', it.cask],
-  ].filter(([,v])=>v!=null && v!=='');
-  $('#m-dl').innerHTML = rows.map(([k,v])=>`<dt>${escapeHtml(String(k))}</dt><dd>${escapeHtml(String(v))}</dd>`).join('');
-  $('#m-features').textContent = it.features||'';
-  $('#m-history').textContent = it.history||'';
-  if($('#m-why')) $('#m-why').textContent = it.why_valuable||'';
-  if($('#m-notes')) $('#m-notes').textContent = '';
-  $('#modal').classList.add('open');
-  document.body.style.overflow='hidden';
+ const u=DATA.items.find(x=>x.id===id);if(!u)return;modalId=id;
+ $('#m-brand').textContent=u.brand||'';$('#m-name').textContent=u.name;
+ $('#m-main').src=u.photos[0].full;$('#m-main').alt=u.name;
+ const siblings=DATA.items.filter(x=>x.expression_id===u.expression_id);
+ $('#m-thumbs').innerHTML=siblings.map(x=>`<button type="button" data-unit="${esc(x.id)}" class="unit-choice ${x.id===id?'active':''}" title="${esc(x.photo_filename)}">${esc(x.id)}${x.unit_bottle_number?'<br>#'+esc(x.unit_bottle_number):''}</button>`).join('');
+ $$('#m-thumbs [data-unit]').forEach(b=>b.onclick=()=>openModal(b.dataset.unit));
+ $('#m-price').innerHTML=`<div class="ask-lg">${esc(amount(u))}</div>`;
+ $('#m-market').innerHTML='';
+ const rows=[['Unit',u.id],['Position',u.stock_order+' of '+DATA.stats.total_units],['Expression quantity',u.expression_quantity],['Photo',u.photo_filename],['Bottle / serial',u.unit_bottle_number||'Not transcribed / not visible'],['Unit cask number',u.unit_cask_number],['Region',u.region],['Age',u.age?u.age+' years':null],['Vintage',u.vintage],['ABV',u.abv!=null?u.abv+'%':null],['Volume',u.volume_ml?u.volume_ml+' ml':null],['Cask',u.cask]].filter(([,v])=>v!=null&&v!=='');
+ $('#m-dl').innerHTML=rows.map(([k,v])=>`<dt>${esc(k)}</dt><dd>${esc(v)}</dd>`).join('');
+ $('#m-features').textContent=u.features||'';$('#m-history').textContent=u.history||'';$('#m-why').textContent=u.why_valuable||'';
+ $('#m-notes').textContent=u.uncertain?'Some label details remain uncertain; consult the individual photo.':'';
+ $('#modal').classList.add('open');document.body.style.overflow='hidden';
 }
-function closeModal(){
-  $('#modal').classList.remove('open');
-  document.body.style.overflow='';
+function closeModal(){$('#modal').classList.remove('open');document.body.style.overflow='';modalId=null;}
+async function init(){
+ const res=await fetch('data.json');if(!res.ok)throw Error('Catalog data unavailable');DATA=await res.json();
+ if(DATA.view!=='public'||DATA.items.length!==194)throw Error('Invalid catalog data');
+ const s=DATA.stats;$('#stat-count').textContent=s.total_units;$('#stat-expressions').textContent=s.expressions_count;$('#stat-brands').textContent=s.brands;$('#stat-priced').textContent=s.with_price;$('#stat-market').textContent=s.with_price?euros(s.est_market_value_eur):'Price on request';
+ for(const [selector,field] of [['#filter-brand','brand'],['#filter-region','region']])for(const v of [...new Set(DATA.items.map(u=>u[field]).filter(Boolean))].sort()){const o=document.createElement('option');o.value=v;o.textContent=v;$(selector).appendChild(o);}
+ for(const selector of ['#search','#filter-brand','#filter-region','#sort','#view-mode']){$(selector).oninput=render;$(selector).onchange=render;}
+ $('#modal-close').onclick=closeModal;$('#modal').onclick=e=>{if(e.target.id==='modal')closeModal();};document.addEventListener('keydown',e=>{if(e.key==='Escape')closeModal();});render();
+ const detail=new URLSearchParams(location.search).get('unit');if(detail)openModal(detail);
 }
-function escapeHtml(s){
-  return String(s).replace(/[&<>"']/g, c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
-}
-init();
+init().catch(e=>{$('#grid').textContent='Unable to load catalog. Please serve this folder over HTTP or HTTPS.';console.error(e);});
