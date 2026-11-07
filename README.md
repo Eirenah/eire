@@ -1,4 +1,4 @@
-# Aivar Drukalski — Whisky Collection
+# Whisky Collection
 
 Static catalog (GitHub Pages ready).
 

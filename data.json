@@ -1,8 +1,8 @@
 {
-  "title": "Aivar Drukalski — Whisky Collection",
-  "owner": "Aivar Drukalski",
+  "title": "Whisky Collection",
+  "owner": null,
   "location": "Dublin",
-  "generated": "2026-11-06",
+  "generated": "2026-11-07",
   "view": "public",
   "hide_all_prices": false,
   "items": [
@@ -6414,7 +6414,6 @@
     "total_units": 194,
     "expressions_count": 97,
     "with_price": 151,
-    "est_market_value_eur": 33790,
     "brands": 30
   },
   "archive_note": "0 archive_only bottles omitted (no new photo)"
