@@ -4,7 +4,7 @@
   "location": "Dublin",
   "generated": "2026-11-07",
   "view": "public",
-  "hide_all_prices": false,
+  "hide_all_prices": true,
   "items": [
     {
       "id": "u001",
@@ -35,9 +35,9 @@
           "full": "images/full/20261105_100635.jpg"
         }
       ],
-      "public_price_eur": 340,
-      "show_price": true,
-      "price_label": "€340"
+      "public_price_eur": null,
+      "show_price": false,
+      "price_label": "Price on request"
     },
     {
       "id": "u002",
@@ -68,9 +68,9 @@
           "full": "images/full/20261105_100708.jpg"
         }
       ],
-      "public_price_eur": 520,
-      "show_price": true,
-      "price_label": "€520"
+      "public_price_eur": null,
+      "show_price": false,
+      "price_label": "Price on request"
     },
     {
       "id": "u003",
@@ -266,9 +266,9 @@
           "full": "images/full/20261105_101731.jpg"
         }
       ],
-      "public_price_eur": 100,
-      "show_price": true,
-      "price_label": "€100"
+      "public_price_eur": null,
+      "show_price": false,
+      "price_label": "Price on request"
     },
     {
       "id": "u009",
@@ -299,9 +299,9 @@
           "full": "images/full/20261105_101755.jpg"
         }
       ],
-      "public_price_eur": 90,
-      "show_price": true,
-      "price_label": "€90"
+      "public_price_eur": null,
+      "show_price": false,
+      "price_label": "Price on request"
     },
     {
       "id": "u010",
@@ -332,9 +332,9 @@
           "full": "images/full/20261105_101836.jpg"
         }
       ],
-      "public_price_eur": 55,
-      "show_price": true,
-      "price_label": "€55"
+      "public_price_eur": null,
+      "show_price": false,
+      "price_label": "Price on request"
     },
     {
       "id": "u011",
@@ -365,9 +365,9 @@
           "full": "images/full/20261105_101909.jpg"
         }
       ],
-      "public_price_eur": 45,
-      "show_price": true,
-      "price_label": "€45"
+      "public_price_eur": null,
+      "show_price": false,
+      "price_label": "Price on request"
     },
     {
       "id": "u012",
@@ -398,9 +398,9 @@
           "full": "images/full/20261105_103754.jpg"
         }
       ],
-      "public_price_eur": 100,
-      "show_price": true,
-      "price_label": "€100"
+      "public_price_eur": null,
+      "show_price": false,
+      "price_label": "Price on request"
     },
     {
       "id": "u013",
@@ -431,9 +431,9 @@
           "full": "images/full/20261105_103821.jpg"
         }
       ],
-      "public_price_eur": 100,
-      "show_price": true,
-      "price_label": "€100"
+      "public_price_eur": null,
+      "show_price": false,
+      "price_label": "Price on request"
     },
     {
       "id": "u014",
@@ -464,9 +464,9 @@
           "full": "images/full/20261105_103913.jpg"
         }
       ],
-      "public_price_eur": 200,
-      "show_price": true,
-      "price_label": "€200"
+      "public_price_eur": null,
+      "show_price": false,
+      "price_label": "Price on request"
     },
     {
       "id": "u015",
@@ -530,9 +530,9 @@
           "full": "images/full/20261105_104103.jpg"
         }
       ],
-      "public_price_eur": 90,
-      "show_price": true,
-      "price_label": "€90"
+      "public_price_eur": null,
+      "show_price": false,
+      "price_label": "Price on request"
     },
     {
       "id": "u017",
@@ -728,9 +728,9 @@
           "full": "images/full/20261105_104721.jpg"
         }
       ],
-      "public_price_eur": 200,
-      "show_price": true,
-      "price_label": "€200"
+      "public_price_eur": null,
+      "show_price": false,
+      "price_label": "Price on request"
     },
     {
       "id": "u023",
@@ -827,9 +827,9 @@
           "full": "images/full/20261105_105619.jpg"
         }
       ],
-      "public_price_eur": 150,
-      "show_price": true,
-      "price_label": "€150"
+      "public_price_eur": null,
+      "show_price": false,
+      "price_label": "Price on request"
     },
     {
       "id": "u026",
@@ -860,9 +860,9 @@
           "full": "images/full/20261105_105654.jpg"
         }
       ],
-      "public_price_eur": 110,
-      "show_price": true,
-      "price_label": "€110"
+      "public_price_eur": null,
+      "show_price": false,
+      "price_label": "Price on request"
     },
     {
       "id": "u027",
@@ -893,9 +893,9 @@
           "full": "images/full/20261105_105729.jpg"
         }
       ],
-      "public_price_eur": 160,
-      "show_price": true,
-      "price_label": "€160"
+      "public_price_eur": null,
+      "show_price": false,
+      "price_label": "Price on request"
     },
     {
       "id": "u028",
@@ -926,9 +926,9 @@
           "full": "images/full/20261105_105922.jpg"
         }
       ],
-      "public_price_eur": 110,
-      "show_price": true,
-      "price_label": "€110"
+      "public_price_eur": null,
+      "show_price": false,
+      "price_label": "Price on request"
     },
     {
       "id": "u029",
@@ -959,9 +959,9 @@
           "full": "images/full/20261105_105936.jpg"
         }
       ],
-      "public_price_eur": 65,
-      "show_price": true,
-      "price_label": "€65"
+      "public_price_eur": null,
+      "show_price": false,
+      "price_label": "Price on request"
     },
     {
       "id": "u030",
@@ -992,9 +992,9 @@
           "full": "images/full/20261105_110319.jpg"
         }
       ],
-      "public_price_eur": 500,
-      "show_price": true,
-      "price_label": "€500"
+      "public_price_eur": null,
+      "show_price": false,
+      "price_label": "Price on request"
     },
     {
       "id": "u031",
@@ -1091,9 +1091,9 @@
           "full": "images/full/20261105_110753.jpg"
         }
       ],
-      "public_price_eur": 180,
-      "show_price": true,
-      "price_label": "€180"
+      "public_price_eur": null,
+      "show_price": false,
+      "price_label": "Price on request"
     },
     {
       "id": "u034",
@@ -1157,9 +1157,9 @@
           "full": "images/full/20261105_111045.jpg"
         }
       ],
-      "public_price_eur": 380,
-      "show_price": true,
-      "price_label": "€380"
+      "public_price_eur": null,
+      "show_price": false,
+      "price_label": "Price on request"
     },
     {
       "id": "u036",
@@ -1190,9 +1190,9 @@
           "full": "images/full/20261105_111127.jpg"
         }
       ],
-      "public_price_eur": 260,
-      "show_price": true,
-      "price_label": "€260"
+      "public_price_eur": null,
+      "show_price": false,
+      "price_label": "Price on request"
     },
     {
       "id": "u037",
@@ -1223,9 +1223,9 @@
           "full": "images/full/20261105_111257.jpg"
         }
       ],
-      "public_price_eur": 70,
-      "show_price": true,
-      "price_label": "€70"
+      "public_price_eur": null,
+      "show_price": false,
+      "price_label": "Price on request"
     },
     {
       "id": "u038",
@@ -1289,9 +1289,9 @@
           "full": "images/full/20261105_111458.jpg"
         }
       ],
-      "public_price_eur": 60,
-      "show_price": true,
-      "price_label": "€60"
+      "public_price_eur": null,
+      "show_price": false,
+      "price_label": "Price on request"
     },
     {
       "id": "u040",
@@ -1355,9 +1355,9 @@
           "full": "images/full/20261105_111840.jpg"
         }
       ],
-      "public_price_eur": 280,
-      "show_price": true,
-      "price_label": "€280"
+      "public_price_eur": null,
+      "show_price": false,
+      "price_label": "Price on request"
     },
     {
       "id": "u042",
@@ -1388,9 +1388,9 @@
           "full": "images/full/20261105_111928.jpg"
         }
       ],
-      "public_price_eur": 280,
-      "show_price": true,
-      "price_label": "€280"
+      "public_price_eur": null,
+      "show_price": false,
+      "price_label": "Price on request"
     },
     {
       "id": "u043",
@@ -1421,9 +1421,9 @@
           "full": "images/full/20261105_112149.jpg"
         }
       ],
-      "public_price_eur": 280,
-      "show_price": true,
-      "price_label": "€280"
+      "public_price_eur": null,
+      "show_price": false,
+      "price_label": "Price on request"
     },
     {
       "id": "u044",
@@ -1454,9 +1454,9 @@
           "full": "images/full/20261105_112241.jpg"
         }
       ],
-      "public_price_eur": 280,
-      "show_price": true,
-      "price_label": "€280"
+      "public_price_eur": null,
+      "show_price": false,
+      "price_label": "Price on request"
     },
     {
       "id": "u045",
@@ -1520,9 +1520,9 @@
           "full": "images/full/20261105_125626.jpg"
         }
       ],
-      "public_price_eur": 130,
-      "show_price": true,
-      "price_label": "€130"
+      "public_price_eur": null,
+      "show_price": false,
+      "price_label": "Price on request"
     },
     {
       "id": "u047",
@@ -1553,9 +1553,9 @@
           "full": "images/full/20261105_125706.jpg"
         }
       ],
-      "public_price_eur": 180,
-      "show_price": true,
-      "price_label": "€180"
+      "public_price_eur": null,
+      "show_price": false,
+      "price_label": "Price on request"
     },
     {
       "id": "u048",
@@ -1586,9 +1586,9 @@
           "full": "images/full/20261105_125722.jpg"
         }
       ],
-      "public_price_eur": 180,
-      "show_price": true,
-      "price_label": "€180"
+      "public_price_eur": null,
+      "show_price": false,
+      "price_label": "Price on request"
     },
     {
       "id": "u049",
@@ -1619,9 +1619,9 @@
           "full": "images/full/20261105_125753.jpg"
         }
       ],
-      "public_price_eur": 180,
-      "show_price": true,
-      "price_label": "€180"
+      "public_price_eur": null,
+      "show_price": false,
+      "price_label": "Price on request"
     },
     {
       "id": "u050",
@@ -1652,9 +1652,9 @@
           "full": "images/full/20261105_125820.jpg"
         }
       ],
-      "public_price_eur": 180,
-      "show_price": true,
-      "price_label": "€180"
+      "public_price_eur": null,
+      "show_price": false,
+      "price_label": "Price on request"
     },
     {
       "id": "u051",
@@ -1685,9 +1685,9 @@
           "full": "images/full/20261105_130222.jpg"
         }
       ],
-      "public_price_eur": 90,
-      "show_price": true,
-      "price_label": "€90"
+      "public_price_eur": null,
+      "show_price": false,
+      "price_label": "Price on request"
     },
     {
       "id": "u052",
@@ -1718,9 +1718,9 @@
           "full": "images/full/20261105_130251.jpg"
         }
       ],
-      "public_price_eur": 320,
-      "show_price": true,
-      "price_label": "€320"
+      "public_price_eur": null,
+      "show_price": false,
+      "price_label": "Price on request"
     },
     {
       "id": "u053",
@@ -1751,9 +1751,9 @@
           "full": "images/full/20261105_130333.jpg"
         }
       ],
-      "public_price_eur": 320,
-      "show_price": true,
-      "price_label": "€320"
+      "public_price_eur": null,
+      "show_price": false,
+      "price_label": "Price on request"
     },
     {
       "id": "u054",
@@ -1850,9 +1850,9 @@
           "full": "images/full/20261105_130529.jpg"
         }
       ],
-      "public_price_eur": 170,
-      "show_price": true,
-      "price_label": "€170"
+      "public_price_eur": null,
+      "show_price": false,
+      "price_label": "Price on request"
     },
     {
       "id": "u057",
@@ -1883,9 +1883,9 @@
           "full": "images/full/20261105_130614.jpg"
         }
       ],
-      "public_price_eur": 230,
-      "show_price": true,
-      "price_label": "€230"
+      "public_price_eur": null,
+      "show_price": false,
+      "price_label": "Price on request"
     },
     {
       "id": "u058",
@@ -1916,9 +1916,9 @@
           "full": "images/full/20261105_130627.jpg"
         }
       ],
-      "public_price_eur": 230,
-      "show_price": true,
-      "price_label": "€230"
+      "public_price_eur": null,
+      "show_price": false,
+      "price_label": "Price on request"
     },
     {
       "id": "u059",
@@ -1982,9 +1982,9 @@
           "full": "images/full/20261105_130737.jpg"
         }
       ],
-      "public_price_eur": 270,
-      "show_price": true,
-      "price_label": "€270"
+      "public_price_eur": null,
+      "show_price": false,
+      "price_label": "Price on request"
     },
     {
       "id": "u061",
@@ -2015,9 +2015,9 @@
           "full": "images/full/20261105_130822.jpg"
         }
       ],
-      "public_price_eur": 230,
-      "show_price": true,
-      "price_label": "€230"
+      "public_price_eur": null,
+      "show_price": false,
+      "price_label": "Price on request"
     },
     {
       "id": "u062",
@@ -2048,9 +2048,9 @@
           "full": "images/full/20261105_130923.jpg"
         }
       ],
-      "public_price_eur": 120,
-      "show_price": true,
-      "price_label": "€120"
+      "public_price_eur": null,
+      "show_price": false,
+      "price_label": "Price on request"
     },
     {
       "id": "u063",
@@ -2114,9 +2114,9 @@
           "full": "images/full/20261105_131107.jpg"
         }
       ],
-      "public_price_eur": 200,
-      "show_price": true,
-      "price_label": "€200"
+      "public_price_eur": null,
+      "show_price": false,
+      "price_label": "Price on request"
     },
     {
       "id": "u065",
@@ -2147,9 +2147,9 @@
           "full": "images/full/20261105_131202.jpg"
         }
       ],
-      "public_price_eur": 170,
-      "show_price": true,
-      "price_label": "€170"
+      "public_price_eur": null,
+      "show_price": false,
+      "price_label": "Price on request"
     },
     {
       "id": "u066",
@@ -2180,9 +2180,9 @@
           "full": "images/full/20261105_131702.jpg"
         }
       ],
-      "public_price_eur": 70,
-      "show_price": true,
-      "price_label": "€70"
+      "public_price_eur": null,
+      "show_price": false,
+      "price_label": "Price on request"
     },
     {
       "id": "u067",
@@ -2213,9 +2213,9 @@
           "full": "images/full/20261105_131742_1.jpg"
         }
       ],
-      "public_price_eur": 85,
-      "show_price": true,
-      "price_label": "€85"
+      "public_price_eur": null,
+      "show_price": false,
+      "price_label": "Price on request"
     },
     {
       "id": "u068",
@@ -2246,9 +2246,9 @@
           "full": "images/full/20261105_131742.jpg"
         }
       ],
-      "public_price_eur": 85,
-      "show_price": true,
-      "price_label": "€85"
+      "public_price_eur": null,
+      "show_price": false,
+      "price_label": "Price on request"
     },
     {
       "id": "u069",
@@ -2279,9 +2279,9 @@
           "full": "images/full/20261105_131809_1.jpg"
         }
       ],
-      "public_price_eur": 85,
-      "show_price": true,
-      "price_label": "€85"
+      "public_price_eur": null,
+      "show_price": false,
+      "price_label": "Price on request"
     },
     {
       "id": "u070",
@@ -2312,9 +2312,9 @@
           "full": "images/full/20261105_131809_2.jpg"
         }
       ],
-      "public_price_eur": 85,
-      "show_price": true,
-      "price_label": "€85"
+      "public_price_eur": null,
+      "show_price": false,
+      "price_label": "Price on request"
     },
     {
       "id": "u071",
@@ -2345,9 +2345,9 @@
           "full": "images/full/20261105_131809_3.jpg"
         }
       ],
-      "public_price_eur": 85,
-      "show_price": true,
-      "price_label": "€85"
+      "public_price_eur": null,
+      "show_price": false,
+      "price_label": "Price on request"
     },
     {
       "id": "u072",
@@ -2378,9 +2378,9 @@
           "full": "images/full/20261105_131809_4.jpg"
         }
       ],
-      "public_price_eur": 85,
-      "show_price": true,
-      "price_label": "€85"
+      "public_price_eur": null,
+      "show_price": false,
+      "price_label": "Price on request"
     },
     {
       "id": "u073",
@@ -2411,9 +2411,9 @@
           "full": "images/full/20261105_131809.jpg"
         }
       ],
-      "public_price_eur": 85,
-      "show_price": true,
-      "price_label": "€85"
+      "public_price_eur": null,
+      "show_price": false,
+      "price_label": "Price on request"
     },
     {
       "id": "u074",
@@ -2444,9 +2444,9 @@
           "full": "images/full/20261105_131917_1.jpg"
         }
       ],
-      "public_price_eur": 90,
-      "show_price": true,
-      "price_label": "€90"
+      "public_price_eur": null,
+      "show_price": false,
+      "price_label": "Price on request"
     },
     {
       "id": "u075",
@@ -2477,9 +2477,9 @@
           "full": "images/full/20261105_131917.jpg"
         }
       ],
-      "public_price_eur": 70,
-      "show_price": true,
-      "price_label": "€70"
+      "public_price_eur": null,
+      "show_price": false,
+      "price_label": "Price on request"
     },
     {
       "id": "u076",
@@ -2510,9 +2510,9 @@
           "full": "images/full/20261105_132001_1.jpg"
         }
       ],
-      "public_price_eur": 70,
-      "show_price": true,
-      "price_label": "€70"
+      "public_price_eur": null,
+      "show_price": false,
+      "price_label": "Price on request"
     },
     {
       "id": "u077",
@@ -2543,9 +2543,9 @@
           "full": "images/full/20261105_132001_2.jpg"
         }
       ],
-      "public_price_eur": 70,
-      "show_price": true,
-      "price_label": "€70"
+      "public_price_eur": null,
+      "show_price": false,
+      "price_label": "Price on request"
     },
     {
       "id": "u078",
@@ -2576,9 +2576,9 @@
           "full": "images/full/20261105_132001_3.jpg"
         }
       ],
-      "public_price_eur": 70,
-      "show_price": true,
-      "price_label": "€70"
+      "public_price_eur": null,
+      "show_price": false,
+      "price_label": "Price on request"
     },
     {
       "id": "u079",
@@ -2609,9 +2609,9 @@
           "full": "images/full/20261105_132001.jpg"
         }
       ],
-      "public_price_eur": 70,
-      "show_price": true,
-      "price_label": "€70"
+      "public_price_eur": null,
+      "show_price": false,
+      "price_label": "Price on request"
     },
     {
       "id": "u080",
@@ -2642,9 +2642,9 @@
           "full": "images/full/20261105_132055_1.jpg"
         }
       ],
-      "public_price_eur": 70,
-      "show_price": true,
-      "price_label": "€70"
+      "public_price_eur": null,
+      "show_price": false,
+      "price_label": "Price on request"
     },
     {
       "id": "u081",
@@ -2675,9 +2675,9 @@
           "full": "images/full/20261105_132055.jpg"
         }
       ],
-      "public_price_eur": 70,
-      "show_price": true,
-      "price_label": "€70"
+      "public_price_eur": null,
+      "show_price": false,
+      "price_label": "Price on request"
     },
     {
       "id": "u082",
@@ -2708,9 +2708,9 @@
           "full": "images/full/20261105_132159_1.jpg"
         }
       ],
-      "public_price_eur": 70,
-      "show_price": true,
-      "price_label": "€70"
+      "public_price_eur": null,
+      "show_price": false,
+      "price_label": "Price on request"
     },
     {
       "id": "u083",
@@ -2741,9 +2741,9 @@
           "full": "images/full/20261105_132159.jpg"
         }
       ],
-      "public_price_eur": 70,
-      "show_price": true,
-      "price_label": "€70"
+      "public_price_eur": null,
+      "show_price": false,
+      "price_label": "Price on request"
     },
     {
       "id": "u084",
@@ -2774,9 +2774,9 @@
           "full": "images/full/20261105_132851.jpg"
         }
       ],
-      "public_price_eur": 90,
-      "show_price": true,
-      "price_label": "€90"
+      "public_price_eur": null,
+      "show_price": false,
+      "price_label": "Price on request"
     },
     {
       "id": "u085",
@@ -2807,9 +2807,9 @@
           "full": "images/full/20261105_133320_1.jpg"
         }
       ],
-      "public_price_eur": 160,
-      "show_price": true,
-      "price_label": "€160"
+      "public_price_eur": null,
+      "show_price": false,
+      "price_label": "Price on request"
     },
     {
       "id": "u086",
@@ -2840,9 +2840,9 @@
           "full": "images/full/20261105_133320_2.jpg"
         }
       ],
-      "public_price_eur": 160,
-      "show_price": true,
-      "price_label": "€160"
+      "public_price_eur": null,
+      "show_price": false,
+      "price_label": "Price on request"
     },
     {
       "id": "u087",
@@ -2873,9 +2873,9 @@
           "full": "images/full/20261105_133320.jpg"
         }
       ],
-      "public_price_eur": 160,
-      "show_price": true,
-      "price_label": "€160"
+      "public_price_eur": null,
+      "show_price": false,
+      "price_label": "Price on request"
     },
     {
       "id": "u088",
@@ -2906,9 +2906,9 @@
           "full": "images/full/20261105_133509_1.jpg"
         }
       ],
-      "public_price_eur": 100,
-      "show_price": true,
-      "price_label": "€100"
+      "public_price_eur": null,
+      "show_price": false,
+      "price_label": "Price on request"
     },
     {
       "id": "u089",
@@ -2939,9 +2939,9 @@
           "full": "images/full/20261105_133509_2.jpg"
         }
       ],
-      "public_price_eur": 75,
-      "show_price": true,
-      "price_label": "€75"
+      "public_price_eur": null,
+      "show_price": false,
+      "price_label": "Price on request"
     },
     {
       "id": "u090",
@@ -2972,9 +2972,9 @@
           "full": "images/full/20261105_133509.jpg"
         }
       ],
-      "public_price_eur": 75,
-      "show_price": true,
-      "price_label": "€75"
+      "public_price_eur": null,
+      "show_price": false,
+      "price_label": "Price on request"
     },
     {
       "id": "u091",
@@ -3005,9 +3005,9 @@
           "full": "images/full/20261105_133545.jpg"
         }
       ],
-      "public_price_eur": 55,
-      "show_price": true,
-      "price_label": "€55"
+      "public_price_eur": null,
+      "show_price": false,
+      "price_label": "Price on request"
     },
     {
       "id": "u092",
@@ -3038,9 +3038,9 @@
           "full": "images/full/20261105_133634.jpg"
         }
       ],
-      "public_price_eur": 160,
-      "show_price": true,
-      "price_label": "€160"
+      "public_price_eur": null,
+      "show_price": false,
+      "price_label": "Price on request"
     },
     {
       "id": "u093",
@@ -3071,9 +3071,9 @@
           "full": "images/full/20261105_133641.jpg"
         }
       ],
-      "public_price_eur": 160,
-      "show_price": true,
-      "price_label": "€160"
+      "public_price_eur": null,
+      "show_price": false,
+      "price_label": "Price on request"
     },
     {
       "id": "u094",
@@ -3104,9 +3104,9 @@
           "full": "images/full/20261105_133900_1.jpg"
         }
       ],
-      "public_price_eur": 440,
-      "show_price": true,
-      "price_label": "€440"
+      "public_price_eur": null,
+      "show_price": false,
+      "price_label": "Price on request"
     },
     {
       "id": "u095",
@@ -3137,9 +3137,9 @@
           "full": "images/full/20261105_133900.jpg"
         }
       ],
-      "public_price_eur": 140,
-      "show_price": true,
-      "price_label": "€140"
+      "public_price_eur": null,
+      "show_price": false,
+      "price_label": "Price on request"
     },
     {
       "id": "u096",
@@ -3170,9 +3170,9 @@
           "full": "images/full/20261105_134021_1.jpg"
         }
       ],
-      "public_price_eur": 140,
-      "show_price": true,
-      "price_label": "€140"
+      "public_price_eur": null,
+      "show_price": false,
+      "price_label": "Price on request"
     },
     {
       "id": "u097",
@@ -3203,9 +3203,9 @@
           "full": "images/full/20261105_134021.jpg"
         }
       ],
-      "public_price_eur": 140,
-      "show_price": true,
-      "price_label": "€140"
+      "public_price_eur": null,
+      "show_price": false,
+      "price_label": "Price on request"
     },
     {
       "id": "u098",
@@ -3236,9 +3236,9 @@
           "full": "images/full/20261105_134141.jpg"
         }
       ],
-      "public_price_eur": 55,
-      "show_price": true,
-      "price_label": "€55"
+      "public_price_eur": null,
+      "show_price": false,
+      "price_label": "Price on request"
     },
     {
       "id": "u099",
@@ -3269,9 +3269,9 @@
           "full": "images/full/20261105_134324_1.jpg"
         }
       ],
-      "public_price_eur": 140,
-      "show_price": true,
-      "price_label": "€140"
+      "public_price_eur": null,
+      "show_price": false,
+      "price_label": "Price on request"
     },
     {
       "id": "u100",
@@ -3302,9 +3302,9 @@
           "full": "images/full/20261105_134324_2.jpg"
         }
       ],
-      "public_price_eur": 140,
-      "show_price": true,
-      "price_label": "€140"
+      "public_price_eur": null,
+      "show_price": false,
+      "price_label": "Price on request"
     },
     {
       "id": "u101",
@@ -3335,9 +3335,9 @@
           "full": "images/full/20261105_134324.jpg"
         }
       ],
-      "public_price_eur": 140,
-      "show_price": true,
-      "price_label": "€140"
+      "public_price_eur": null,
+      "show_price": false,
+      "price_label": "Price on request"
     },
     {
       "id": "u102",
@@ -3368,9 +3368,9 @@
           "full": "images/full/20261105_135150_1.jpg"
         }
       ],
-      "public_price_eur": 85,
-      "show_price": true,
-      "price_label": "€85"
+      "public_price_eur": null,
+      "show_price": false,
+      "price_label": "Price on request"
     },
     {
       "id": "u103",
@@ -3401,9 +3401,9 @@
           "full": "images/full/20261105_135150.jpg"
         }
       ],
-      "public_price_eur": 85,
-      "show_price": true,
-      "price_label": "€85"
+      "public_price_eur": null,
+      "show_price": false,
+      "price_label": "Price on request"
     },
     {
       "id": "u104",
@@ -3434,9 +3434,9 @@
           "full": "images/full/20261105_135242.jpg"
         }
       ],
-      "public_price_eur": 130,
-      "show_price": true,
-      "price_label": "€130"
+      "public_price_eur": null,
+      "show_price": false,
+      "price_label": "Price on request"
     },
     {
       "id": "u105",
@@ -3533,9 +3533,9 @@
           "full": "images/full/20261105_135612.jpg"
         }
       ],
-      "public_price_eur": 65,
-      "show_price": true,
-      "price_label": "€65"
+      "public_price_eur": null,
+      "show_price": false,
+      "price_label": "Price on request"
     },
     {
       "id": "u108",
@@ -3599,9 +3599,9 @@
           "full": "images/full/20261105_135739.jpg"
         }
       ],
-      "public_price_eur": 90,
-      "show_price": true,
-      "price_label": "€90"
+      "public_price_eur": null,
+      "show_price": false,
+      "price_label": "Price on request"
     },
     {
       "id": "u110",
@@ -3632,9 +3632,9 @@
           "full": "images/full/20261105_135815.jpg"
         }
       ],
-      "public_price_eur": 120,
-      "show_price": true,
-      "price_label": "€120"
+      "public_price_eur": null,
+      "show_price": false,
+      "price_label": "Price on request"
     },
     {
       "id": "u111",
@@ -3665,9 +3665,9 @@
           "full": "images/full/20261105_135838.jpg"
         }
       ],
-      "public_price_eur": 100,
-      "show_price": true,
-      "price_label": "€100"
+      "public_price_eur": null,
+      "show_price": false,
+      "price_label": "Price on request"
     },
     {
       "id": "u112",
@@ -3698,9 +3698,9 @@
           "full": "images/full/20261105_140233.jpg"
         }
       ],
-      "public_price_eur": 570,
-      "show_price": true,
-      "price_label": "€570"
+      "public_price_eur": null,
+      "show_price": false,
+      "price_label": "Price on request"
     },
     {
       "id": "u113",
@@ -3764,9 +3764,9 @@
           "full": "images/full/20261105_140551.jpg"
         }
       ],
-      "public_price_eur": 520,
-      "show_price": true,
-      "price_label": "€520"
+      "public_price_eur": null,
+      "show_price": false,
+      "price_label": "Price on request"
     },
     {
       "id": "u115",
@@ -3797,9 +3797,9 @@
           "full": "images/full/20261105_140624.jpg"
         }
       ],
-      "public_price_eur": 500,
-      "show_price": true,
-      "price_label": "€500"
+      "public_price_eur": null,
+      "show_price": false,
+      "price_label": "Price on request"
     },
     {
       "id": "u116",
@@ -3830,9 +3830,9 @@
           "full": "images/full/20261105_140701_1.jpg"
         }
       ],
-      "public_price_eur": 150,
-      "show_price": true,
-      "price_label": "€150"
+      "public_price_eur": null,
+      "show_price": false,
+      "price_label": "Price on request"
     },
     {
       "id": "u117",
@@ -3863,9 +3863,9 @@
           "full": "images/full/20261105_140701.jpg"
         }
       ],
-      "public_price_eur": 90,
-      "show_price": true,
-      "price_label": "€90"
+      "public_price_eur": null,
+      "show_price": false,
+      "price_label": "Price on request"
     },
     {
       "id": "u118",
@@ -3929,9 +3929,9 @@
           "full": "images/full/20261105_140844.jpg"
         }
       ],
-      "public_price_eur": 550,
-      "show_price": true,
-      "price_label": "€550"
+      "public_price_eur": null,
+      "show_price": false,
+      "price_label": "Price on request"
     },
     {
       "id": "u120",
@@ -3962,9 +3962,9 @@
           "full": "images/full/20261105_140926.jpg"
         }
       ],
-      "public_price_eur": 150,
-      "show_price": true,
-      "price_label": "€150"
+      "public_price_eur": null,
+      "show_price": false,
+      "price_label": "Price on request"
     },
     {
       "id": "u121",
@@ -3995,9 +3995,9 @@
           "full": "images/full/20261105_140944.jpg"
         }
       ],
-      "public_price_eur": 190,
-      "show_price": true,
-      "price_label": "€190"
+      "public_price_eur": null,
+      "show_price": false,
+      "price_label": "Price on request"
     },
     {
       "id": "u122",
@@ -4094,9 +4094,9 @@
           "full": "images/full/20261105_141237_1.jpg"
         }
       ],
-      "public_price_eur": 110,
-      "show_price": true,
-      "price_label": "€110"
+      "public_price_eur": null,
+      "show_price": false,
+      "price_label": "Price on request"
     },
     {
       "id": "u125",
@@ -4127,9 +4127,9 @@
           "full": "images/full/20261105_141237_2.jpg"
         }
       ],
-      "public_price_eur": 110,
-      "show_price": true,
-      "price_label": "€110"
+      "public_price_eur": null,
+      "show_price": false,
+      "price_label": "Price on request"
     },
     {
       "id": "u126",
@@ -4160,9 +4160,9 @@
           "full": "images/full/20261105_141237_3.jpg"
         }
       ],
-      "public_price_eur": 110,
-      "show_price": true,
-      "price_label": "€110"
+      "public_price_eur": null,
+      "show_price": false,
+      "price_label": "Price on request"
     },
     {
       "id": "u127",
@@ -4193,9 +4193,9 @@
           "full": "images/full/20261105_141237_4.jpg"
         }
       ],
-      "public_price_eur": 110,
-      "show_price": true,
-      "price_label": "€110"
+      "public_price_eur": null,
+      "show_price": false,
+      "price_label": "Price on request"
     },
     {
       "id": "u128",
@@ -4226,9 +4226,9 @@
           "full": "images/full/20261105_141237_5.jpg"
         }
       ],
-      "public_price_eur": 110,
-      "show_price": true,
-      "price_label": "€110"
+      "public_price_eur": null,
+      "show_price": false,
+      "price_label": "Price on request"
     },
     {
       "id": "u129",
@@ -4259,9 +4259,9 @@
           "full": "images/full/20261105_141237.jpg"
         }
       ],
-      "public_price_eur": 110,
-      "show_price": true,
-      "price_label": "€110"
+      "public_price_eur": null,
+      "show_price": false,
+      "price_label": "Price on request"
     },
     {
       "id": "u130",
@@ -4424,9 +4424,9 @@
           "full": "images/full/20261105_141528.jpg"
         }
       ],
-      "public_price_eur": 90,
-      "show_price": true,
-      "price_label": "€90"
+      "public_price_eur": null,
+      "show_price": false,
+      "price_label": "Price on request"
     },
     {
       "id": "u135",
@@ -4490,9 +4490,9 @@
           "full": "images/full/20261105_142001.jpg"
         }
       ],
-      "public_price_eur": 170,
-      "show_price": true,
-      "price_label": "€170"
+      "public_price_eur": null,
+      "show_price": false,
+      "price_label": "Price on request"
     },
     {
       "id": "u137",
@@ -4589,9 +4589,9 @@
           "full": "images/full/20261106_103030.jpg"
         }
       ],
-      "public_price_eur": 270,
-      "show_price": true,
-      "price_label": "€270"
+      "public_price_eur": null,
+      "show_price": false,
+      "price_label": "Price on request"
     },
     {
       "id": "u140",
@@ -4622,9 +4622,9 @@
           "full": "images/full/20261106_103146.jpg"
         }
       ],
-      "public_price_eur": 160,
-      "show_price": true,
-      "price_label": "€160"
+      "public_price_eur": null,
+      "show_price": false,
+      "price_label": "Price on request"
     },
     {
       "id": "u141",
@@ -4655,9 +4655,9 @@
           "full": "images/full/20261106_103348.jpg"
         }
       ],
-      "public_price_eur": 160,
-      "show_price": true,
-      "price_label": "€160"
+      "public_price_eur": null,
+      "show_price": false,
+      "price_label": "Price on request"
     },
     {
       "id": "u142",
@@ -4688,9 +4688,9 @@
           "full": "images/full/20261106_103710.jpg"
         }
       ],
-      "public_price_eur": 160,
-      "show_price": true,
-      "price_label": "€160"
+      "public_price_eur": null,
+      "show_price": false,
+      "price_label": "Price on request"
     },
     {
       "id": "u143",
@@ -4754,9 +4754,9 @@
           "full": "images/full/20261106_104021.jpg"
         }
       ],
-      "public_price_eur": 100,
-      "show_price": true,
-      "price_label": "€100"
+      "public_price_eur": null,
+      "show_price": false,
+      "price_label": "Price on request"
     },
     {
       "id": "u145",
@@ -4787,9 +4787,9 @@
           "full": "images/full/20261106_104059.jpg"
         }
       ],
-      "public_price_eur": 100,
-      "show_price": true,
-      "price_label": "€100"
+      "public_price_eur": null,
+      "show_price": false,
+      "price_label": "Price on request"
     },
     {
       "id": "u146",
@@ -4820,9 +4820,9 @@
           "full": "images/full/20261106_104351.jpg"
         }
       ],
-      "public_price_eur": 2000,
-      "show_price": true,
-      "price_label": "€2000"
+      "public_price_eur": null,
+      "show_price": false,
+      "price_label": "Price on request"
     },
     {
       "id": "u147",
@@ -4853,9 +4853,9 @@
           "full": "images/full/20261106_104804.jpg"
         }
       ],
-      "public_price_eur": 2000,
-      "show_price": true,
-      "price_label": "€2000"
+      "public_price_eur": null,
+      "show_price": false,
+      "price_label": "Price on request"
     },
     {
       "id": "u148",
@@ -4886,9 +4886,9 @@
           "full": "images/full/20261106_104943.jpg"
         }
       ],
-      "public_price_eur": 2000,
-      "show_price": true,
-      "price_label": "€2000"
+      "public_price_eur": null,
+      "show_price": false,
+      "price_label": "Price on request"
     },
     {
       "id": "u149",
@@ -4919,9 +4919,9 @@
           "full": "images/full/20261106_105312.jpg"
         }
       ],
-      "public_price_eur": 210,
-      "show_price": true,
-      "price_label": "€210"
+      "public_price_eur": null,
+      "show_price": false,
+      "price_label": "Price on request"
     },
     {
       "id": "u150",
@@ -4952,9 +4952,9 @@
           "full": "images/full/20261106_105424.jpg"
         }
       ],
-      "public_price_eur": 210,
-      "show_price": true,
-      "price_label": "€210"
+      "public_price_eur": null,
+      "show_price": false,
+      "price_label": "Price on request"
     },
     {
       "id": "u151",
@@ -4985,9 +4985,9 @@
           "full": "images/full/20261106_105536.jpg"
         }
       ],
-      "public_price_eur": 210,
-      "show_price": true,
-      "price_label": "€210"
+      "public_price_eur": null,
+      "show_price": false,
+      "price_label": "Price on request"
     },
     {
       "id": "u152",
@@ -5018,9 +5018,9 @@
           "full": "images/full/20261106_105821.jpg"
         }
       ],
-      "public_price_eur": 300,
-      "show_price": true,
-      "price_label": "€300"
+      "public_price_eur": null,
+      "show_price": false,
+      "price_label": "Price on request"
     },
     {
       "id": "u153",
@@ -5051,9 +5051,9 @@
           "full": "images/full/20261106_110002.jpg"
         }
       ],
-      "public_price_eur": 300,
-      "show_price": true,
-      "price_label": "€300"
+      "public_price_eur": null,
+      "show_price": false,
+      "price_label": "Price on request"
     },
     {
       "id": "u154",
@@ -5084,9 +5084,9 @@
           "full": "images/full/20261106_110146.jpg"
         }
       ],
-      "public_price_eur": 300,
-      "show_price": true,
-      "price_label": "€300"
+      "public_price_eur": null,
+      "show_price": false,
+      "price_label": "Price on request"
     },
     {
       "id": "u155",
@@ -5117,9 +5117,9 @@
           "full": "images/full/20261106_110424.jpg"
         }
       ],
-      "public_price_eur": 300,
-      "show_price": true,
-      "price_label": "€300"
+      "public_price_eur": null,
+      "show_price": false,
+      "price_label": "Price on request"
     },
     {
       "id": "u156",
@@ -5150,9 +5150,9 @@
           "full": "images/full/20261106_110601.jpg"
         }
       ],
-      "public_price_eur": 300,
-      "show_price": true,
-      "price_label": "€300"
+      "public_price_eur": null,
+      "show_price": false,
+      "price_label": "Price on request"
     },
     {
       "id": "u157",
@@ -5183,9 +5183,9 @@
           "full": "images/full/20261106_110757.jpg"
         }
       ],
-      "public_price_eur": 300,
-      "show_price": true,
-      "price_label": "€300"
+      "public_price_eur": null,
+      "show_price": false,
+      "price_label": "Price on request"
     },
     {
       "id": "u158",
@@ -5216,9 +5216,9 @@
           "full": "images/full/20261106_110930.jpg"
         }
       ],
-      "public_price_eur": 160,
-      "show_price": true,
-      "price_label": "€160"
+      "public_price_eur": null,
+      "show_price": false,
+      "price_label": "Price on request"
     },
     {
       "id": "u159",
@@ -5249,9 +5249,9 @@
           "full": "images/full/20261106_111342_1.jpg"
         }
       ],
-      "public_price_eur": 120,
-      "show_price": true,
-      "price_label": "€120"
+      "public_price_eur": null,
+      "show_price": false,
+      "price_label": "Price on request"
     },
     {
       "id": "u160",
@@ -5282,9 +5282,9 @@
           "full": "images/full/20261106_111342_10.jpg"
         }
       ],
-      "public_price_eur": 210,
-      "show_price": true,
-      "price_label": "€210"
+      "public_price_eur": null,
+      "show_price": false,
+      "price_label": "Price on request"
     },
     {
       "id": "u161",
@@ -5315,9 +5315,9 @@
           "full": "images/full/20261106_111342_2.jpg"
         }
       ],
-      "public_price_eur": 85,
-      "show_price": true,
-      "price_label": "€85"
+      "public_price_eur": null,
+      "show_price": false,
+      "price_label": "Price on request"
     },
     {
       "id": "u162",
@@ -5348,9 +5348,9 @@
           "full": "images/full/20261106_111342_3.jpg"
         }
       ],
-      "public_price_eur": 85,
-      "show_price": true,
-      "price_label": "€85"
+      "public_price_eur": null,
+      "show_price": false,
+      "price_label": "Price on request"
     },
     {
       "id": "u163",
@@ -5381,9 +5381,9 @@
           "full": "images/full/20261106_111342_4.jpg"
         }
       ],
-      "public_price_eur": 85,
-      "show_price": true,
-      "price_label": "€85"
+      "public_price_eur": null,
+      "show_price": false,
+      "price_label": "Price on request"
     },
     {
       "id": "u164",
@@ -5414,9 +5414,9 @@
           "full": "images/full/20261106_111342_5.jpg"
         }
       ],
-      "public_price_eur": 85,
-      "show_price": true,
-      "price_label": "€85"
+      "public_price_eur": null,
+      "show_price": false,
+      "price_label": "Price on request"
     },
     {
       "id": "u165",
@@ -5447,9 +5447,9 @@
           "full": "images/full/20261106_111342_6.jpg"
         }
       ],
-      "public_price_eur": 85,
-      "show_price": true,
-      "price_label": "€85"
+      "public_price_eur": null,
+      "show_price": false,
+      "price_label": "Price on request"
     },
     {
       "id": "u166",
@@ -5480,9 +5480,9 @@
           "full": "images/full/20261106_111342_7.jpg"
         }
       ],
-      "public_price_eur": 85,
-      "show_price": true,
-      "price_label": "€85"
+      "public_price_eur": null,
+      "show_price": false,
+      "price_label": "Price on request"
     },
     {
       "id": "u167",
@@ -5513,9 +5513,9 @@
           "full": "images/full/20261106_111342_8.jpg"
         }
       ],
-      "public_price_eur": 85,
-      "show_price": true,
-      "price_label": "€85"
+      "public_price_eur": null,
+      "show_price": false,
+      "price_label": "Price on request"
     },
     {
       "id": "u168",
@@ -5546,9 +5546,9 @@
           "full": "images/full/20261106_111342_9.jpg"
         }
       ],
-      "public_price_eur": 85,
-      "show_price": true,
-      "price_label": "€85"
+      "public_price_eur": null,
+      "show_price": false,
+      "price_label": "Price on request"
     },
     {
       "id": "u169",
@@ -5579,9 +5579,9 @@
           "full": "images/full/20261106_111342.jpg"
         }
       ],
-      "public_price_eur": 85,
-      "show_price": true,
-      "price_label": "€85"
+      "public_price_eur": null,
+      "show_price": false,
+      "price_label": "Price on request"
     },
     {
       "id": "u170",
@@ -5612,9 +5612,9 @@
           "full": "images/full/20261106_111634.jpg"
         }
       ],
-      "public_price_eur": 170,
-      "show_price": true,
-      "price_label": "€170"
+      "public_price_eur": null,
+      "show_price": false,
+      "price_label": "Price on request"
     },
     {
       "id": "u171",
@@ -5645,9 +5645,9 @@
           "full": "images/full/20261106_111806.jpg"
         }
       ],
-      "public_price_eur": 240,
-      "show_price": true,
-      "price_label": "€240"
+      "public_price_eur": null,
+      "show_price": false,
+      "price_label": "Price on request"
     },
     {
       "id": "u172",
@@ -5678,9 +5678,9 @@
           "full": "images/full/20261106_112002.jpg"
         }
       ],
-      "public_price_eur": 380,
-      "show_price": true,
-      "price_label": "€380"
+      "public_price_eur": null,
+      "show_price": false,
+      "price_label": "Price on request"
     },
     {
       "id": "u173",
@@ -5711,9 +5711,9 @@
           "full": "images/full/20261106_112236.jpg"
         }
       ],
-      "public_price_eur": 240,
-      "show_price": true,
-      "price_label": "€240"
+      "public_price_eur": null,
+      "show_price": false,
+      "price_label": "Price on request"
     },
     {
       "id": "u174",
@@ -5843,9 +5843,9 @@
           "full": "images/full/20261106_113319.jpg"
         }
       ],
-      "public_price_eur": 1300,
-      "show_price": true,
-      "price_label": "€1300"
+      "public_price_eur": null,
+      "show_price": false,
+      "price_label": "Price on request"
     },
     {
       "id": "u178",
@@ -5876,9 +5876,9 @@
           "full": "images/full/20261106_113522_1.jpg"
         }
       ],
-      "public_price_eur": 110,
-      "show_price": true,
-      "price_label": "€110"
+      "public_price_eur": null,
+      "show_price": false,
+      "price_label": "Price on request"
     },
     {
       "id": "u179",
@@ -5909,9 +5909,9 @@
           "full": "images/full/20261106_113522.jpg"
         }
       ],
-      "public_price_eur": 110,
-      "show_price": true,
-      "price_label": "€110"
+      "public_price_eur": null,
+      "show_price": false,
+      "price_label": "Price on request"
     },
     {
       "id": "u180",
@@ -5942,9 +5942,9 @@
           "full": "images/full/20261106_113701.jpg"
         }
       ],
-      "public_price_eur": 320,
-      "show_price": true,
-      "price_label": "€320"
+      "public_price_eur": null,
+      "show_price": false,
+      "price_label": "Price on request"
     },
     {
       "id": "u181",
@@ -5975,9 +5975,9 @@
           "full": "images/full/20261106_113838.jpg"
         }
       ],
-      "public_price_eur": 300,
-      "show_price": true,
-      "price_label": "€300"
+      "public_price_eur": null,
+      "show_price": false,
+      "price_label": "Price on request"
     },
     {
       "id": "u182",
@@ -6008,9 +6008,9 @@
           "full": "images/full/20261106_114039.jpg"
         }
       ],
-      "public_price_eur": 300,
-      "show_price": true,
-      "price_label": "€300"
+      "public_price_eur": null,
+      "show_price": false,
+      "price_label": "Price on request"
     },
     {
       "id": "u183",
@@ -6041,9 +6041,9 @@
           "full": "images/full/20261106_114230.jpg"
         }
       ],
-      "public_price_eur": 250,
-      "show_price": true,
-      "price_label": "€250"
+      "public_price_eur": null,
+      "show_price": false,
+      "price_label": "Price on request"
     },
     {
       "id": "u184",
@@ -6074,9 +6074,9 @@
           "full": "images/full/20261106_114323.jpg"
         }
       ],
-      "public_price_eur": 230,
-      "show_price": true,
-      "price_label": "€230"
+      "public_price_eur": null,
+      "show_price": false,
+      "price_label": "Price on request"
     },
     {
       "id": "u185",
@@ -6107,9 +6107,9 @@
           "full": "images/full/20261106_114427.jpg"
         }
       ],
-      "public_price_eur": 250,
-      "show_price": true,
-      "price_label": "€250"
+      "public_price_eur": null,
+      "show_price": false,
+      "price_label": "Price on request"
     },
     {
       "id": "u186",
@@ -6140,9 +6140,9 @@
           "full": "images/full/20261106_114522.jpg"
         }
       ],
-      "public_price_eur": 280,
-      "show_price": true,
-      "price_label": "€280"
+      "public_price_eur": null,
+      "show_price": false,
+      "price_label": "Price on request"
     },
     {
       "id": "u187",
@@ -6206,9 +6206,9 @@
           "full": "images/full/20261106_114721.jpg"
         }
       ],
-      "public_price_eur": 850,
-      "show_price": true,
-      "price_label": "€850"
+      "public_price_eur": null,
+      "show_price": false,
+      "price_label": "Price on request"
     },
     {
       "id": "u189",
@@ -6272,9 +6272,9 @@
           "full": "images/full/20261106_115033_1.jpg"
         }
       ],
-      "public_price_eur": 150,
-      "show_price": true,
-      "price_label": "€150"
+      "public_price_eur": null,
+      "show_price": false,
+      "price_label": "Price on request"
     },
     {
       "id": "u191",
@@ -6305,9 +6305,9 @@
           "full": "images/full/20261106_115033.jpg"
         }
       ],
-      "public_price_eur": 150,
-      "show_price": true,
-      "price_label": "€150"
+      "public_price_eur": null,
+      "show_price": false,
+      "price_label": "Price on request"
     },
     {
       "id": "u192",
@@ -6338,9 +6338,9 @@
           "full": "images/full/20261106_115053.jpg"
         }
       ],
-      "public_price_eur": 320,
-      "show_price": true,
-      "price_label": "€320"
+      "public_price_eur": null,
+      "show_price": false,
+      "price_label": "Price on request"
     },
     {
       "id": "u193",
@@ -6371,9 +6371,9 @@
           "full": "images/full/20261106_115111.jpg"
         }
       ],
-      "public_price_eur": 220,
-      "show_price": true,
-      "price_label": "€220"
+      "public_price_eur": null,
+      "show_price": false,
+      "price_label": "Price on request"
     },
     {
       "id": "u194",
@@ -6404,16 +6404,16 @@
           "full": "images/full/20261106_115217.jpg"
         }
       ],
-      "public_price_eur": 550,
-      "show_price": true,
-      "price_label": "€550"
+      "public_price_eur": null,
+      "show_price": false,
+      "price_label": "Price on request"
     }
   ],
   "stats": {
     "unique_bottles": 194,
     "total_units": 194,
     "expressions_count": 97,
-    "with_price": 151,
+    "with_price": 0,
     "brands": 30
   },
   "archive_note": "0 archive_only bottles omitted (no new photo)"

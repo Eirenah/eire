@@ -24,7 +24,7 @@ function render(){
  $('#grid').innerHTML=[...map.values()].map(group=>{
   const u=group[0], photo=u.photos[0];
   let price=amount(u);
-  if(grouped){const visible=group.filter(v=>v.show_price&&v.public_price_eur!=null),values=visible.map(v=>v.public_price_eur);if(visible.length===group.length&&values.length){const lo=Math.min(...values),hi=Math.max(...values);price=lo===hi?`${euros(lo)} each`:`${euros(lo)}–${euros(hi)} each`;}else price='Individual prices / on request';}
+  if(grouped){const visible=group.filter(v=>v.show_price&&v.public_price_eur!=null),values=visible.map(v=>v.public_price_eur);if(visible.length===group.length&&values.length){const lo=Math.min(...values),hi=Math.max(...values);price=lo===hi?`${euros(lo)} each`:`${euros(lo)}–${euros(hi)} each`;}else price='Price on request';}
   const serial=u.unit_bottle_number?` · Bottle ${esc(u.unit_bottle_number)}`:'';
   return `<article class="card" data-id="${esc(u.id)}" tabindex="0" role="button" aria-label="View ${esc(u.name)}"><div class="imgwrap"><img src="${esc(photo.thumb)}" alt="${esc(u.name)}" loading="lazy">${grouped?`<span class="quantity-badge">Qty ${group.length}</span>`:''}</div><div class="body"><div class="brand">${esc(u.brand)}</div><h3>${esc(grouped?u.expression_name:u.name)}</h3><div class="meta">${grouped?`${group.length} separate stock units`:esc(u.id)+serial}</div><div class="meta">${esc(u.region)}${u.age?' · '+esc(u.age)+' years':''}</div><div class="price"><span class="ask">${esc(price)}</span></div>${u.uncertain?'<div class="meta">Label details under review</div>':''}</div></article>`;
  }).join('')||'<p class="empty">No units match.</p>';
@@ -49,7 +49,7 @@ function closeModal(){$('#modal').classList.remove('open');document.body.style.o
 async function init(){
  const res=await fetch('data.json');if(!res.ok)throw Error('Catalog data unavailable');DATA=await res.json();
  if(DATA.view!=='public'||DATA.items.length!==194)throw Error('Invalid catalog data');
- const s=DATA.stats;$('#stat-count').textContent=s.total_units;$('#stat-expressions').textContent=s.expressions_count;$('#stat-brands').textContent=s.brands;$('#stat-priced').textContent=s.with_price;
+ const s=DATA.stats;$('#stat-count').textContent=s.total_units;$('#stat-expressions').textContent=s.expressions_count;$('#stat-brands').textContent=s.brands;
  for(const [selector,field] of [['#filter-brand','brand'],['#filter-region','region']])for(const v of [...new Set(DATA.items.map(u=>u[field]).filter(Boolean))].sort()){const o=document.createElement('option');o.value=v;o.textContent=v;$(selector).appendChild(o);}
  for(const selector of ['#search','#filter-brand','#filter-region','#sort','#view-mode']){$(selector).oninput=render;$(selector).onchange=render;}
  $('#modal-close').onclick=closeModal;$('#modal').onclick=e=>{if(e.target.id==='modal')closeModal();};document.addEventListener('keydown',e=>{if(e.key==='Escape')closeModal();});render();
