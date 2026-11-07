@@ -49,7 +49,7 @@ function closeModal(){$('#modal').classList.remove('open');document.body.style.o
 async function init(){
  const res=await fetch('data.json');if(!res.ok)throw Error('Catalog data unavailable');DATA=await res.json();
  if(DATA.view!=='public'||DATA.items.length!==194)throw Error('Invalid catalog data');
- const s=DATA.stats;$('#stat-count').textContent=s.total_units;$('#stat-expressions').textContent=s.expressions_count;$('#stat-brands').textContent=s.brands;$('#stat-priced').textContent=s.with_price;$('#stat-market').textContent=s.with_price?euros(s.est_market_value_eur):'Price on request';
+ const s=DATA.stats;$('#stat-count').textContent=s.total_units;$('#stat-expressions').textContent=s.expressions_count;$('#stat-brands').textContent=s.brands;$('#stat-priced').textContent=s.with_price;
  for(const [selector,field] of [['#filter-brand','brand'],['#filter-region','region']])for(const v of [...new Set(DATA.items.map(u=>u[field]).filter(Boolean))].sort()){const o=document.createElement('option');o.value=v;o.textContent=v;$(selector).appendChild(o);}
  for(const selector of ['#search','#filter-brand','#filter-region','#sort','#view-mode']){$(selector).oninput=render;$(selector).onchange=render;}
  $('#modal-close').onclick=closeModal;$('#modal').onclick=e=>{if(e.target.id==='modal')closeModal();};document.addEventListener('keydown',e=>{if(e.key==='Escape')closeModal();});render();
