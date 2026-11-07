@@ -6,7 +6,7 @@ const euros=n=>`€${Number(n).toLocaleString('en-IE')}`;
 const amount=u=>u.show_price&&u.public_price_eur!=null?euros(u.public_price_eur):'Price on request';
 function selected(){
  const q=$('#search').value.trim().toLowerCase(),brand=$('#filter-brand').value,region=$('#filter-region').value;
- let units=DATA.items.filter(u=>(!brand||u.brand===brand)&&(!region||u.region===region)&&(!q||[u.name,u.id,u.photo_filename,u.unit_bottle_number,u.unit_cask_number,u.cask,u.features].join(' ').toLowerCase().includes(q)));
+ let units=DATA.items.filter(u=>(!brand||u.brand===brand)&&(!region||u.region===region)&&(!q||[u.name,u.unit_bottle_number,u.unit_cask_number,u.cask,u.features].join(' ').toLowerCase().includes(q)));
  const sort=$('#sort').value;
  if(sort==='name')units.sort((a,b)=>a.name.localeCompare(b.name));
  else if(sort==='brand')units.sort((a,b)=>String(a.brand).localeCompare(String(b.brand))||a.stock_order-b.stock_order);
@@ -26,7 +26,7 @@ function render(){
   let price=amount(u);
   if(grouped){const visible=group.filter(v=>v.show_price&&v.public_price_eur!=null),values=visible.map(v=>v.public_price_eur);if(visible.length===group.length&&values.length){const lo=Math.min(...values),hi=Math.max(...values);price=lo===hi?`${euros(lo)} each`:`${euros(lo)}–${euros(hi)} each`;}else price='Price on request';}
   const serial=u.unit_bottle_number?` · Bottle ${esc(u.unit_bottle_number)}`:'';
-  return `<article class="card" data-id="${esc(u.id)}" tabindex="0" role="button" aria-label="View ${esc(u.name)}"><div class="imgwrap"><img src="${esc(photo.thumb)}" alt="${esc(u.name)}" loading="lazy">${grouped?`<span class="quantity-badge">Qty ${group.length}</span>`:''}</div><div class="body"><div class="brand">${esc(u.brand)}</div><h3>${esc(grouped?u.expression_name:u.name)}</h3><div class="meta">${grouped?`${group.length} separate stock units`:esc(u.id)+serial}</div><div class="meta">${esc(u.region)}${u.age?' · '+esc(u.age)+' years':''}</div><div class="price"><span class="ask">${esc(price)}</span></div>${u.uncertain?'<div class="meta">Label details under review</div>':''}</div></article>`;
+  return `<article class="card" data-id="${esc(u.id)}" tabindex="0" role="button" aria-label="View ${esc(u.name)}"><div class="imgwrap"><img src="${esc(photo.thumb)}" alt="${esc(u.name)}" loading="lazy">${grouped?`<span class="quantity-badge">Qty ${group.length}</span>`:''}</div><div class="body"><div class="brand">${esc(u.brand)}</div><h3>${esc(grouped?u.expression_name:u.name)}</h3><div class="meta">${grouped?`${group.length} separate stock units`:(u.expression_quantity>1?`Bottle ${esc(u.unit_index)} of ${esc(u.expression_quantity)}`:'')+serial}</div><div class="meta">${esc(u.region)}${u.age?' · '+esc(u.age)+' years':''}</div><div class="price"><span class="ask">${esc(price)}</span></div>${u.uncertain?'<div class="meta">Label details under review</div>':''}</div></article>`;
  }).join('')||'<p class="empty">No units match.</p>';
  $$('#grid .card').forEach(c=>{c.onclick=()=>openModal(c.dataset.id);c.onkeydown=e=>{if(e.key==='Enter'||e.key===' '){e.preventDefault();openModal(c.dataset.id);}};});
 }
@@ -35,14 +35,14 @@ function openModal(id){
  $('#m-brand').textContent=u.brand||'';$('#m-name').textContent=u.name;
  $('#m-main').src=u.photos[0].full;$('#m-main').alt=u.name;
  const siblings=DATA.items.filter(x=>x.expression_id===u.expression_id);
- $('#m-thumbs').innerHTML=siblings.map(x=>`<button type="button" data-unit="${esc(x.id)}" class="unit-choice ${x.id===id?'active':''}" title="${esc(x.photo_filename)}">${esc(x.id)}${x.unit_bottle_number?'<br>#'+esc(x.unit_bottle_number):''}</button>`).join('');
+ $('#m-thumbs').innerHTML=siblings.map(x=>`<button type="button" data-unit="${esc(x.id)}" class="unit-choice ${x.id===id?'active':''}"> ${esc(x.unit_index)}${x.unit_bottle_number?'<br>#'+esc(x.unit_bottle_number):''}</button>`).join('');
  $$('#m-thumbs [data-unit]').forEach(b=>b.onclick=()=>openModal(b.dataset.unit));
  $('#m-price').innerHTML=`<div class="ask-lg">${esc(amount(u))}</div>`;
  $('#m-market').innerHTML='';
- const rows=[['Unit',u.id],['Position',u.stock_order+' of '+DATA.stats.total_units],['Expression quantity',u.expression_quantity],['Photo',u.photo_filename],['Bottle / serial',u.unit_bottle_number||'Not transcribed / not visible'],['Unit cask number',u.unit_cask_number],['Region',u.region],['Age',u.age?u.age+' years':null],['Vintage',u.vintage],['ABV',u.abv!=null?u.abv+'%':null],['Volume',u.volume_ml?u.volume_ml+' ml':null],['Cask',u.cask]].filter(([,v])=>v!=null&&v!=='');
+ const rows=[['Bottles in collection',u.expression_quantity],['Bottle number',u.unit_bottle_number],['Unit cask number',u.unit_cask_number],['Region',u.region],['Age',u.age?u.age+' years':null],['Vintage',u.vintage],['ABV',u.abv!=null?u.abv+'%':null],['Volume',u.volume_ml?u.volume_ml+' ml':null],['Cask',u.cask]].filter(([,v])=>v!=null&&v!=='');
  $('#m-dl').innerHTML=rows.map(([k,v])=>`<dt>${esc(k)}</dt><dd>${esc(v)}</dd>`).join('');
  $('#m-features').textContent=u.features||'';$('#m-history').textContent=u.history||'';$('#m-why').textContent=u.why_valuable||'';
- $('#m-notes').textContent=u.uncertain?'Some label details remain uncertain; consult the individual photo.':'';
+ $('#m-notes').textContent=u.uncertain?'Some label details remain uncertain.':'';
  $('#modal').classList.add('open');document.body.style.overflow='hidden';
 }
 function closeModal(){$('#modal').classList.remove('open');document.body.style.overflow='';modalId=null;}

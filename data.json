@@ -10,7 +10,6 @@
       "id": "u001",
       "expression_id": "w001",
       "expression_name": "Bushmills The Causeway Collection 1999 New American Oak",
-      "photo_filename": "20261105_100635.jpg",
       "stock_order": 1,
       "unit_index": 1,
       "expression_quantity": 1,
@@ -30,9 +29,8 @@
       "why_valuable": "Ireland-only Causeway release; 23yo virgin-oak single malt at cask strength; scarce vs core Bushmills",
       "photos": [
         {
-          "file": "20261105_100635.jpg",
-          "thumb": "images/thumbs/20261105_100635.jpg",
-          "full": "images/full/20261105_100635.jpg"
+          "thumb": "images/thumbs/u001.jpg",
+          "full": "images/full/u001.jpg"
         }
       ],
       "public_price_eur": null,
@@ -43,7 +41,6 @@
       "id": "u002",
       "expression_id": "w002",
       "expression_name": "Red Spot 19 Year Old Single Cask Marsala",
-      "photo_filename": "20261105_100708.jpg",
       "stock_order": 2,
       "unit_index": 1,
       "expression_quantity": 1,
@@ -63,9 +60,8 @@
       "why_valuable": "Single Marsala butt; only 603 bottles; Mitchell & Son exclusive; high cask strength",
       "photos": [
         {
-          "file": "20261105_100708.jpg",
-          "thumb": "images/thumbs/20261105_100708.jpg",
-          "full": "images/full/20261105_100708.jpg"
+          "thumb": "images/thumbs/u002.jpg",
+          "full": "images/full/u002.jpg"
         }
       ],
       "public_price_eur": null,
@@ -76,7 +72,6 @@
       "id": "u003",
       "expression_id": "w003",
       "expression_name": "Glen Marnoch 24 Year Old 1988 Cask",
-      "photo_filename": "20261105_100735.jpg",
       "stock_order": 3,
       "unit_index": 1,
       "expression_quantity": 1,
@@ -96,9 +91,8 @@
       "why_valuable": "Long-aged 1988 indie bottling; collectible if distillery identity is desirable — verify label for full cask data",
       "photos": [
         {
-          "file": "20261105_100735.jpg",
-          "thumb": "images/thumbs/20261105_100735.jpg",
-          "full": "images/full/20261105_100735.jpg"
+          "thumb": "images/thumbs/u003.jpg",
+          "full": "images/full/u003.jpg"
         }
       ],
       "public_price_eur": null,
@@ -109,7 +103,6 @@
       "id": "u004",
       "expression_id": "w004",
       "expression_name": "Teeling 20 Year Old Chinese Edition Sherry Cask",
-      "photo_filename": "20261105_100949.jpg",
       "stock_order": 4,
       "unit_index": 1,
       "expression_quantity": 1,
@@ -129,9 +122,8 @@
       "why_valuable": "20yo Teeling market exclusive; scarce outside China; sherry-led older stock",
       "photos": [
         {
-          "file": "20261105_100949.jpg",
-          "thumb": "images/thumbs/20261105_100949.jpg",
-          "full": "images/full/20261105_100949.jpg"
+          "thumb": "images/thumbs/u004.jpg",
+          "full": "images/full/u004.jpg"
         }
       ],
       "public_price_eur": null,
@@ -142,7 +134,6 @@
       "id": "u005",
       "expression_id": "w005",
       "expression_name": "Redbreast All Sherry Single Cask — Sonny Molloy's Galway",
-      "photo_filename": "20261105_101346.jpg",
       "stock_order": 5,
       "unit_index": 1,
       "expression_quantity": 2,
@@ -162,9 +153,8 @@
       "why_valuable": "All-sherry Redbreast single cask; Galway retailer exclusive; cask strength",
       "photos": [
         {
-          "file": "20261105_101346.jpg",
-          "thumb": "images/thumbs/20261105_101346.jpg",
-          "full": "images/full/20261105_101346.jpg"
+          "thumb": "images/thumbs/u005.jpg",
+          "full": "images/full/u005.jpg"
         }
       ],
       "public_price_eur": null,
@@ -175,7 +165,6 @@
       "id": "u006",
       "expression_id": "w005",
       "expression_name": "Redbreast All Sherry Single Cask — Sonny Molloy's Galway",
-      "photo_filename": "20261105_101547.jpg",
       "stock_order": 6,
       "unit_index": 2,
       "expression_quantity": 2,
@@ -195,9 +184,8 @@
       "why_valuable": "All-sherry Redbreast single cask; Galway retailer exclusive; cask strength",
       "photos": [
         {
-          "file": "20261105_101547.jpg",
-          "thumb": "images/thumbs/20261105_101547.jpg",
-          "full": "images/full/20261105_101547.jpg"
+          "thumb": "images/thumbs/u006.jpg",
+          "full": "images/full/u006.jpg"
         }
       ],
       "public_price_eur": null,
@@ -208,7 +196,6 @@
       "id": "u007",
       "expression_id": "w006",
       "expression_name": "Dunville's VR 12 Year Old PX Cask Strength",
-      "photo_filename": "20261105_101702.jpg",
       "stock_order": 7,
       "unit_index": 1,
       "expression_quantity": 4,
@@ -228,9 +215,8 @@
       "why_valuable": "Cask-strength PX single malt under the historic Dunville's name; small festival/shop runs",
       "photos": [
         {
-          "file": "20261105_101702.jpg",
-          "thumb": "images/thumbs/20261105_101702.jpg",
-          "full": "images/full/20261105_101702.jpg"
+          "thumb": "images/thumbs/u007.jpg",
+          "full": "images/full/u007.jpg"
         }
       ],
       "public_price_eur": null,
@@ -241,7 +227,6 @@
       "id": "u008",
       "expression_id": "w201",
       "expression_name": "Writers’ Tears Inniskillin Ice Wine Cask",
-      "photo_filename": "20261105_101731.jpg",
       "stock_order": 8,
       "unit_index": 1,
       "expression_quantity": 3,
@@ -261,9 +246,8 @@
       "why_valuable": "Distinct Inniskillin ice-wine finish and limited-edition packaging",
       "photos": [
         {
-          "file": "20261105_101731.jpg",
-          "thumb": "images/thumbs/20261105_101731.jpg",
-          "full": "images/full/20261105_101731.jpg"
+          "thumb": "images/thumbs/u008.jpg",
+          "full": "images/full/u008.jpg"
         }
       ],
       "public_price_eur": null,
@@ -274,7 +258,6 @@
       "id": "u009",
       "expression_id": "w201",
       "expression_name": "Writers’ Tears Inniskillin Ice Wine Cask",
-      "photo_filename": "20261105_101755.jpg",
       "stock_order": 9,
       "unit_index": 2,
       "expression_quantity": 3,
@@ -294,9 +277,8 @@
       "why_valuable": "Distinct Inniskillin ice-wine finish and limited-edition packaging",
       "photos": [
         {
-          "file": "20261105_101755.jpg",
-          "thumb": "images/thumbs/20261105_101755.jpg",
-          "full": "images/full/20261105_101755.jpg"
+          "thumb": "images/thumbs/u009.jpg",
+          "full": "images/full/u009.jpg"
         }
       ],
       "public_price_eur": null,
@@ -307,7 +289,6 @@
       "id": "u010",
       "expression_id": "w201",
       "expression_name": "Writers’ Tears Inniskillin Ice Wine Cask",
-      "photo_filename": "20261105_101836.jpg",
       "stock_order": 10,
       "unit_index": 3,
       "expression_quantity": 3,
@@ -327,9 +308,8 @@
       "why_valuable": "Distinct Inniskillin ice-wine finish and limited-edition packaging",
       "photos": [
         {
-          "file": "20261105_101836.jpg",
-          "thumb": "images/thumbs/20261105_101836.jpg",
-          "full": "images/full/20261105_101836.jpg"
+          "thumb": "images/thumbs/u010.jpg",
+          "full": "images/full/u010.jpg"
         }
       ],
       "public_price_eur": null,
@@ -340,7 +320,6 @@
       "id": "u011",
       "expression_id": "w007",
       "expression_name": "Writers' Tears Copper Pot",
-      "photo_filename": "20261105_101909.jpg",
       "stock_order": 11,
       "unit_index": 1,
       "expression_quantity": 1,
@@ -360,9 +339,8 @@
       "why_valuable": "Accessible premium Irish blend; value is more drinking than rarity unless sealed older stock",
       "photos": [
         {
-          "file": "20261105_101909.jpg",
-          "thumb": "images/thumbs/20261105_101909.jpg",
-          "full": "images/full/20261105_101909.jpg"
+          "thumb": "images/thumbs/u011.jpg",
+          "full": "images/full/u011.jpg"
         }
       ],
       "public_price_eur": null,
@@ -373,7 +351,6 @@
       "id": "u012",
       "expression_id": "w009",
       "expression_name": "The Macallan Quest",
-      "photo_filename": "20261105_103754.jpg",
       "stock_order": 12,
       "unit_index": 1,
       "expression_quantity": 2,
@@ -393,9 +370,8 @@
       "why_valuable": "Travel-retail Quest series entry; stronger as a set with Enigma than alone",
       "photos": [
         {
-          "file": "20261105_103754.jpg",
-          "thumb": "images/thumbs/20261105_103754.jpg",
-          "full": "images/full/20261105_103754.jpg"
+          "thumb": "images/thumbs/u012.jpg",
+          "full": "images/full/u012.jpg"
         }
       ],
       "public_price_eur": null,
@@ -406,7 +382,6 @@
       "id": "u013",
       "expression_id": "w009",
       "expression_name": "The Macallan Quest",
-      "photo_filename": "20261105_103821.jpg",
       "stock_order": 13,
       "unit_index": 2,
       "expression_quantity": 2,
@@ -426,9 +401,8 @@
       "why_valuable": "Travel-retail Quest series entry; stronger as a set with Enigma than alone",
       "photos": [
         {
-          "file": "20261105_103821.jpg",
-          "thumb": "images/thumbs/20261105_103821.jpg",
-          "full": "images/full/20261105_103821.jpg"
+          "thumb": "images/thumbs/u013.jpg",
+          "full": "images/full/u013.jpg"
         }
       ],
       "public_price_eur": null,
@@ -439,7 +413,6 @@
       "id": "u014",
       "expression_id": "w010",
       "expression_name": "Powers 16 Year Old Single Cask — Celtic Whiskey Shop",
-      "photo_filename": "20261105_103913.jpg",
       "stock_order": 14,
       "unit_index": 1,
       "expression_quantity": 1,
@@ -459,9 +432,8 @@
       "why_valuable": "Uncertain ID — value depends on confirming John's Lane vs single-cask exclusive",
       "photos": [
         {
-          "file": "20261105_103913.jpg",
-          "thumb": "images/thumbs/20261105_103913.jpg",
-          "full": "images/full/20261105_103913.jpg"
+          "thumb": "images/thumbs/u014.jpg",
+          "full": "images/full/u014.jpg"
         }
       ],
       "public_price_eur": null,
@@ -472,7 +444,6 @@
       "id": "u015",
       "expression_id": "w202",
       "expression_name": "Waterford Single Farm Origin Ratheadon Edition 1.1",
-      "photo_filename": "20261105_104010.jpg",
       "stock_order": 15,
       "unit_index": 1,
       "expression_quantity": 1,
@@ -492,9 +463,8 @@
       "why_valuable": "Farm-specific barley provenance; early Waterford Single Farm Origin bottling",
       "photos": [
         {
-          "file": "20261105_104010.jpg",
-          "thumb": "images/thumbs/20261105_104010.jpg",
-          "full": "images/full/20261105_104010.jpg"
+          "thumb": "images/thumbs/u015.jpg",
+          "full": "images/full/u015.jpg"
         }
       ],
       "public_price_eur": null,
@@ -505,7 +475,6 @@
       "id": "u016",
       "expression_id": "w203",
       "expression_name": "Waterford Single Farm Origin Ballykilcavan Edition 1.1",
-      "photo_filename": "20261105_104103.jpg",
       "stock_order": 16,
       "unit_index": 1,
       "expression_quantity": 1,
@@ -525,9 +494,8 @@
       "why_valuable": "Farm-specific barley provenance and edition-specific collectability",
       "photos": [
         {
-          "file": "20261105_104103.jpg",
-          "thumb": "images/thumbs/20261105_104103.jpg",
-          "full": "images/full/20261105_104103.jpg"
+          "thumb": "images/thumbs/u016.jpg",
+          "full": "images/full/u016.jpg"
         }
       ],
       "public_price_eur": null,
@@ -538,7 +506,6 @@
       "id": "u017",
       "expression_id": "w012",
       "expression_name": "Waterford Micro Cuvée",
-      "photo_filename": "20261105_104232.jpg",
       "stock_order": 17,
       "unit_index": 1,
       "expression_quantity": 1,
@@ -558,9 +525,8 @@
       "why_valuable": "Micro Cuvées are short runs — value is in the named edition",
       "photos": [
         {
-          "file": "20261105_104232.jpg",
-          "thumb": "images/thumbs/20261105_104232.jpg",
-          "full": "images/full/20261105_104232.jpg"
+          "thumb": "images/thumbs/u017.jpg",
+          "full": "images/full/u017.jpg"
         }
       ],
       "public_price_eur": null,
@@ -571,7 +537,6 @@
       "id": "u018",
       "expression_id": "w013",
       "expression_name": "Waterford Single Farm Origin Lacken",
-      "photo_filename": "20261105_104355.jpg",
       "stock_order": 18,
       "unit_index": 1,
       "expression_quantity": 1,
@@ -591,9 +556,8 @@
       "why_valuable": "Single-farm Waterford; scarce per farm/edition",
       "photos": [
         {
-          "file": "20261105_104355.jpg",
-          "thumb": "images/thumbs/20261105_104355.jpg",
-          "full": "images/full/20261105_104355.jpg"
+          "thumb": "images/thumbs/u018.jpg",
+          "full": "images/full/u018.jpg"
         }
       ],
       "public_price_eur": null,
@@ -604,7 +568,6 @@
       "id": "u019",
       "expression_id": "w014",
       "expression_name": "Dunville's 20 Year Old Single Malt",
-      "photo_filename": "20261105_104507.jpg",
       "stock_order": 19,
       "unit_index": 1,
       "expression_quantity": 1,
@@ -624,9 +587,8 @@
       "why_valuable": "20yo Dunville's is uncommon age stock for the revived brand",
       "photos": [
         {
-          "file": "20261105_104507.jpg",
-          "thumb": "images/thumbs/20261105_104507.jpg",
-          "full": "images/full/20261105_104507.jpg"
+          "thumb": "images/thumbs/u019.jpg",
+          "full": "images/full/u019.jpg"
         }
       ],
       "public_price_eur": null,
@@ -637,7 +599,6 @@
       "id": "u020",
       "expression_id": "w015",
       "expression_name": "Dingle Batch No. 5 Single Malt",
-      "photo_filename": "20261105_104534.jpg",
       "stock_order": 20,
       "unit_index": 1,
       "expression_quantity": 2,
@@ -657,9 +618,8 @@
       "why_valuable": "Early Dingle batch; closed batches rise as later batches replace them",
       "photos": [
         {
-          "file": "20261105_104534.jpg",
-          "thumb": "images/thumbs/20261105_104534.jpg",
-          "full": "images/full/20261105_104534.jpg"
+          "thumb": "images/thumbs/u020.jpg",
+          "full": "images/full/u020.jpg"
         }
       ],
       "public_price_eur": null,
@@ -670,7 +630,6 @@
       "id": "u021",
       "expression_id": "w015",
       "expression_name": "Dingle Batch No. 5 Single Malt",
-      "photo_filename": "20261105_104635.jpg",
       "stock_order": 21,
       "unit_index": 2,
       "expression_quantity": 2,
@@ -690,9 +649,8 @@
       "why_valuable": "Early Dingle batch; closed batches rise as later batches replace them",
       "photos": [
         {
-          "file": "20261105_104635.jpg",
-          "thumb": "images/thumbs/20261105_104635.jpg",
-          "full": "images/full/20261105_104635.jpg"
+          "thumb": "images/thumbs/u021.jpg",
+          "full": "images/full/u021.jpg"
         }
       ],
       "public_price_eur": null,
@@ -703,7 +661,6 @@
       "id": "u022",
       "expression_id": "w016",
       "expression_name": "Redbreast 21 Year Old",
-      "photo_filename": "20261105_104721.jpg",
       "stock_order": 22,
       "unit_index": 1,
       "expression_quantity": 1,
@@ -723,9 +680,8 @@
       "why_valuable": "Core high-age Redbreast; strong secondary market but widely distributed vs Dream Cask",
       "photos": [
         {
-          "file": "20261105_104721.jpg",
-          "thumb": "images/thumbs/20261105_104721.jpg",
-          "full": "images/full/20261105_104721.jpg"
+          "thumb": "images/thumbs/u022.jpg",
+          "full": "images/full/u022.jpg"
         }
       ],
       "public_price_eur": null,
@@ -736,7 +692,6 @@
       "id": "u023",
       "expression_id": "w017",
       "expression_name": "Teeling Single Pot Still Single Cask — Celtic Whiskey Shop",
-      "photo_filename": "20261105_104810.jpg",
       "stock_order": 23,
       "unit_index": 1,
       "expression_quantity": 1,
@@ -756,9 +711,8 @@
       "why_valuable": "Retailer-exclusive single-cask Dublin pot still bottling",
       "photos": [
         {
-          "file": "20261105_104810.jpg",
-          "thumb": "images/thumbs/20261105_104810.jpg",
-          "full": "images/full/20261105_104810.jpg"
+          "thumb": "images/thumbs/u023.jpg",
+          "full": "images/full/u023.jpg"
         }
       ],
       "public_price_eur": null,
@@ -769,7 +723,6 @@
       "id": "u024",
       "expression_id": "w018",
       "expression_name": "Thomond Gate The Clash of the Ash",
-      "photo_filename": "20261105_104841.jpg",
       "stock_order": 24,
       "unit_index": 1,
       "expression_quantity": 3,
@@ -789,9 +742,8 @@
       "why_valuable": "Uncertain ID — hold value judgment",
       "photos": [
         {
-          "file": "20261105_104841.jpg",
-          "thumb": "images/thumbs/20261105_104841.jpg",
-          "full": "images/full/20261105_104841.jpg"
+          "thumb": "images/thumbs/u024.jpg",
+          "full": "images/full/u024.jpg"
         }
       ],
       "public_price_eur": null,
@@ -802,7 +754,6 @@
       "id": "u025",
       "expression_id": "w019",
       "expression_name": "Blue Spot 7 Year Old Cask Strength",
-      "photo_filename": "20261105_105619.jpg",
       "stock_order": 25,
       "unit_index": 1,
       "expression_quantity": 8,
@@ -822,9 +773,8 @@
       "why_valuable": "First modern Blue Spot batches; cask-strength Spot; Madeira component uncommon",
       "photos": [
         {
-          "file": "20261105_105619.jpg",
-          "thumb": "images/thumbs/20261105_105619.jpg",
-          "full": "images/full/20261105_105619.jpg"
+          "thumb": "images/thumbs/u025.jpg",
+          "full": "images/full/u025.jpg"
         }
       ],
       "public_price_eur": null,
@@ -835,7 +785,6 @@
       "id": "u026",
       "expression_id": "w019",
       "expression_name": "Blue Spot 7 Year Old Cask Strength",
-      "photo_filename": "20261105_105654.jpg",
       "stock_order": 26,
       "unit_index": 2,
       "expression_quantity": 8,
@@ -855,9 +804,8 @@
       "why_valuable": "First modern Blue Spot batches; cask-strength Spot; Madeira component uncommon",
       "photos": [
         {
-          "file": "20261105_105654.jpg",
-          "thumb": "images/thumbs/20261105_105654.jpg",
-          "full": "images/full/20261105_105654.jpg"
+          "thumb": "images/thumbs/u026.jpg",
+          "full": "images/full/u026.jpg"
         }
       ],
       "public_price_eur": null,
@@ -868,7 +816,6 @@
       "id": "u027",
       "expression_id": "w020",
       "expression_name": "Gold Spot 9 Year Old",
-      "photo_filename": "20261105_105729.jpg",
       "stock_order": 27,
       "unit_index": 1,
       "expression_quantity": 4,
@@ -888,9 +835,8 @@
       "why_valuable": "First Gold Spot release; limited vs Green/Yellow/Red core",
       "photos": [
         {
-          "file": "20261105_105729.jpg",
-          "thumb": "images/thumbs/20261105_105729.jpg",
-          "full": "images/full/20261105_105729.jpg"
+          "thumb": "images/thumbs/u027.jpg",
+          "full": "images/full/u027.jpg"
         }
       ],
       "public_price_eur": null,
@@ -901,7 +847,6 @@
       "id": "u028",
       "expression_id": "w204",
       "expression_name": "Dunville’s VR 10 Year Old PX",
-      "photo_filename": "20261105_105922.jpg",
       "stock_order": 28,
       "unit_index": 1,
       "expression_quantity": 3,
@@ -921,9 +866,8 @@
       "why_valuable": "An older age-stated Dunville’s PX presentation, distinct from the 12-year releases",
       "photos": [
         {
-          "file": "20261105_105922.jpg",
-          "thumb": "images/thumbs/20261105_105922.jpg",
-          "full": "images/full/20261105_105922.jpg"
+          "thumb": "images/thumbs/u028.jpg",
+          "full": "images/full/u028.jpg"
         }
       ],
       "public_price_eur": null,
@@ -934,7 +878,6 @@
       "id": "u029",
       "expression_id": "w204",
       "expression_name": "Dunville’s VR 10 Year Old PX",
-      "photo_filename": "20261105_105936.jpg",
       "stock_order": 29,
       "unit_index": 2,
       "expression_quantity": 3,
@@ -954,9 +897,8 @@
       "why_valuable": "An older age-stated Dunville’s PX presentation, distinct from the 12-year releases",
       "photos": [
         {
-          "file": "20261105_105936.jpg",
-          "thumb": "images/thumbs/20261105_105936.jpg",
-          "full": "images/full/20261105_105936.jpg"
+          "thumb": "images/thumbs/u029.jpg",
+          "full": "images/full/u029.jpg"
         }
       ],
       "public_price_eur": null,
@@ -967,7 +909,6 @@
       "id": "u030",
       "expression_id": "w021",
       "expression_name": "The Macallan Harmony Collection Rich Cacao",
-      "photo_filename": "20261105_110319.jpg",
       "stock_order": 30,
       "unit_index": 1,
       "expression_quantity": 3,
@@ -987,9 +928,8 @@
       "why_valuable": "The original chocolate-themed Harmony Collection release with distinctive packaging",
       "photos": [
         {
-          "file": "20261105_110319.jpg",
-          "thumb": "images/thumbs/20261105_110319.jpg",
-          "full": "images/full/20261105_110319.jpg"
+          "thumb": "images/thumbs/u030.jpg",
+          "full": "images/full/u030.jpg"
         }
       ],
       "public_price_eur": null,
@@ -1000,7 +940,6 @@
       "id": "u031",
       "expression_id": "w018",
       "expression_name": "Thomond Gate The Clash of the Ash",
-      "photo_filename": "20261105_110442.jpg",
       "stock_order": 31,
       "unit_index": 2,
       "expression_quantity": 3,
@@ -1020,9 +959,8 @@
       "why_valuable": "Uncertain ID — hold value judgment",
       "photos": [
         {
-          "file": "20261105_110442.jpg",
-          "thumb": "images/thumbs/20261105_110442.jpg",
-          "full": "images/full/20261105_110442.jpg"
+          "thumb": "images/thumbs/u031.jpg",
+          "full": "images/full/u031.jpg"
         }
       ],
       "public_price_eur": null,
@@ -1033,7 +971,6 @@
       "id": "u032",
       "expression_id": "w018",
       "expression_name": "Thomond Gate The Clash of the Ash",
-      "photo_filename": "20261105_110529.jpg",
       "stock_order": 32,
       "unit_index": 3,
       "expression_quantity": 3,
@@ -1053,9 +990,8 @@
       "why_valuable": "Uncertain ID — hold value judgment",
       "photos": [
         {
-          "file": "20261105_110529.jpg",
-          "thumb": "images/thumbs/20261105_110529.jpg",
-          "full": "images/full/20261105_110529.jpg"
+          "thumb": "images/thumbs/u032.jpg",
+          "full": "images/full/u032.jpg"
         }
       ],
       "public_price_eur": null,
@@ -1066,7 +1002,6 @@
       "id": "u033",
       "expression_id": "w022",
       "expression_name": "Krug Grande Cuvée 169ème Édition",
-      "photo_filename": "20261105_110753.jpg",
       "stock_order": 33,
       "unit_index": 1,
       "expression_quantity": 1,
@@ -1086,9 +1021,8 @@
       "why_valuable": "Prestige Champagne; 169th edition collectible among Krug completists",
       "photos": [
         {
-          "file": "20261105_110753.jpg",
-          "thumb": "images/thumbs/20261105_110753.jpg",
-          "full": "images/full/20261105_110753.jpg"
+          "thumb": "images/thumbs/u033.jpg",
+          "full": "images/full/u033.jpg"
         }
       ],
       "public_price_eur": null,
@@ -1099,7 +1033,6 @@
       "id": "u034",
       "expression_id": "w006",
       "expression_name": "Dunville's VR 12 Year Old PX Cask Strength",
-      "photo_filename": "20261105_110915.jpg",
       "stock_order": 34,
       "unit_index": 2,
       "expression_quantity": 4,
@@ -1119,9 +1052,8 @@
       "why_valuable": "Cask-strength PX single malt under the historic Dunville's name; small festival/shop runs",
       "photos": [
         {
-          "file": "20261105_110915.jpg",
-          "thumb": "images/thumbs/20261105_110915.jpg",
-          "full": "images/full/20261105_110915.jpg"
+          "thumb": "images/thumbs/u034.jpg",
+          "full": "images/full/u034.jpg"
         }
       ],
       "public_price_eur": null,
@@ -1132,7 +1064,6 @@
       "id": "u035",
       "expression_id": "w023",
       "expression_name": "The Macallan Rare Cask 2021 Release",
-      "photo_filename": "20261105_111045.jpg",
       "stock_order": 35,
       "unit_index": 1,
       "expression_quantity": 2,
@@ -1152,9 +1083,8 @@
       "why_valuable": "Annual Rare Cask; 2021 dated release sought by year-set collectors",
       "photos": [
         {
-          "file": "20261105_111045.jpg",
-          "thumb": "images/thumbs/20261105_111045.jpg",
-          "full": "images/full/20261105_111045.jpg"
+          "thumb": "images/thumbs/u035.jpg",
+          "full": "images/full/u035.jpg"
         }
       ],
       "public_price_eur": null,
@@ -1165,7 +1095,6 @@
       "id": "u036",
       "expression_id": "w023",
       "expression_name": "The Macallan Rare Cask 2021 Release",
-      "photo_filename": "20261105_111127.jpg",
       "stock_order": 36,
       "unit_index": 2,
       "expression_quantity": 2,
@@ -1185,9 +1114,8 @@
       "why_valuable": "Annual Rare Cask; 2021 dated release sought by year-set collectors",
       "photos": [
         {
-          "file": "20261105_111127.jpg",
-          "thumb": "images/thumbs/20261105_111127.jpg",
-          "full": "images/full/20261105_111127.jpg"
+          "thumb": "images/thumbs/u036.jpg",
+          "full": "images/full/u036.jpg"
         }
       ],
       "public_price_eur": null,
@@ -1198,7 +1126,6 @@
       "id": "u037",
       "expression_id": "w024",
       "expression_name": "Connacht Single Malt Batch 1",
-      "photo_filename": "20261105_111257.jpg",
       "stock_order": 37,
       "unit_index": 1,
       "expression_quantity": 1,
@@ -1218,9 +1145,8 @@
       "why_valuable": "First batch from a young distillery; Batch 1 scarcity",
       "photos": [
         {
-          "file": "20261105_111257.jpg",
-          "thumb": "images/thumbs/20261105_111257.jpg",
-          "full": "images/full/20261105_111257.jpg"
+          "thumb": "images/thumbs/u037.jpg",
+          "full": "images/full/u037.jpg"
         }
       ],
       "public_price_eur": null,
@@ -1231,7 +1157,6 @@
       "id": "u038",
       "expression_id": "w006",
       "expression_name": "Dunville's VR 12 Year Old PX Cask Strength",
-      "photo_filename": "20261105_111317.jpg",
       "stock_order": 38,
       "unit_index": 3,
       "expression_quantity": 4,
@@ -1251,9 +1176,8 @@
       "why_valuable": "Cask-strength PX single malt under the historic Dunville's name; small festival/shop runs",
       "photos": [
         {
-          "file": "20261105_111317.jpg",
-          "thumb": "images/thumbs/20261105_111317.jpg",
-          "full": "images/full/20261105_111317.jpg"
+          "thumb": "images/thumbs/u038.jpg",
+          "full": "images/full/u038.jpg"
         }
       ],
       "public_price_eur": null,
@@ -1264,7 +1188,6 @@
       "id": "u039",
       "expression_id": "w025",
       "expression_name": "Redbreast 12 Year Old",
-      "photo_filename": "20261105_111458.jpg",
       "stock_order": 39,
       "unit_index": 1,
       "expression_quantity": 1,
@@ -1284,9 +1207,8 @@
       "why_valuable": "Core Redbreast; value mainly if older packaging/sealed",
       "photos": [
         {
-          "file": "20261105_111458.jpg",
-          "thumb": "images/thumbs/20261105_111458.jpg",
-          "full": "images/full/20261105_111458.jpg"
+          "thumb": "images/thumbs/u039.jpg",
+          "full": "images/full/u039.jpg"
         }
       ],
       "public_price_eur": null,
@@ -1297,7 +1219,6 @@
       "id": "u040",
       "expression_id": "w026",
       "expression_name": "Irish Whiskey Academy Midleton — Edition No. 1",
-      "photo_filename": "20261105_111521.jpg",
       "stock_order": 40,
       "unit_index": 1,
       "expression_quantity": 1,
@@ -1317,9 +1238,8 @@
       "why_valuable": "Uncertain — do not price as confirmed Academy bottling",
       "photos": [
         {
-          "file": "20261105_111521.jpg",
-          "thumb": "images/thumbs/20261105_111521.jpg",
-          "full": "images/full/20261105_111521.jpg"
+          "thumb": "images/thumbs/u040.jpg",
+          "full": "images/full/u040.jpg"
         }
       ],
       "public_price_eur": null,
@@ -1330,7 +1250,6 @@
       "id": "u041",
       "expression_id": "w027",
       "expression_name": "Armand de Brignac Ace of Spades Brut Gold",
-      "photo_filename": "20261105_111840.jpg",
       "stock_order": 41,
       "unit_index": 1,
       "expression_quantity": 4,
@@ -1350,9 +1269,8 @@
       "why_valuable": "Luxury Champagne; strong gift/resale demand",
       "photos": [
         {
-          "file": "20261105_111840.jpg",
-          "thumb": "images/thumbs/20261105_111840.jpg",
-          "full": "images/full/20261105_111840.jpg"
+          "thumb": "images/thumbs/u041.jpg",
+          "full": "images/full/u041.jpg"
         }
       ],
       "public_price_eur": null,
@@ -1363,7 +1281,6 @@
       "id": "u042",
       "expression_id": "w027",
       "expression_name": "Armand de Brignac Ace of Spades Brut Gold",
-      "photo_filename": "20261105_111928.jpg",
       "stock_order": 42,
       "unit_index": 2,
       "expression_quantity": 4,
@@ -1383,9 +1300,8 @@
       "why_valuable": "Luxury Champagne; strong gift/resale demand",
       "photos": [
         {
-          "file": "20261105_111928.jpg",
-          "thumb": "images/thumbs/20261105_111928.jpg",
-          "full": "images/full/20261105_111928.jpg"
+          "thumb": "images/thumbs/u042.jpg",
+          "full": "images/full/u042.jpg"
         }
       ],
       "public_price_eur": null,
@@ -1396,7 +1312,6 @@
       "id": "u043",
       "expression_id": "w027",
       "expression_name": "Armand de Brignac Ace of Spades Brut Gold",
-      "photo_filename": "20261105_112149.jpg",
       "stock_order": 43,
       "unit_index": 3,
       "expression_quantity": 4,
@@ -1416,9 +1331,8 @@
       "why_valuable": "Luxury Champagne; strong gift/resale demand",
       "photos": [
         {
-          "file": "20261105_112149.jpg",
-          "thumb": "images/thumbs/20261105_112149.jpg",
-          "full": "images/full/20261105_112149.jpg"
+          "thumb": "images/thumbs/u043.jpg",
+          "full": "images/full/u043.jpg"
         }
       ],
       "public_price_eur": null,
@@ -1429,7 +1343,6 @@
       "id": "u044",
       "expression_id": "w027",
       "expression_name": "Armand de Brignac Ace of Spades Brut Gold",
-      "photo_filename": "20261105_112241.jpg",
       "stock_order": 44,
       "unit_index": 4,
       "expression_quantity": 4,
@@ -1449,9 +1362,8 @@
       "why_valuable": "Luxury Champagne; strong gift/resale demand",
       "photos": [
         {
-          "file": "20261105_112241.jpg",
-          "thumb": "images/thumbs/20261105_112241.jpg",
-          "full": "images/full/20261105_112241.jpg"
+          "thumb": "images/thumbs/u044.jpg",
+          "full": "images/full/u044.jpg"
         }
       ],
       "public_price_eur": null,
@@ -1462,7 +1374,6 @@
       "id": "u045",
       "expression_id": "w006",
       "expression_name": "Dunville's VR 12 Year Old PX Cask Strength",
-      "photo_filename": "20261105_125610.jpg",
       "stock_order": 45,
       "unit_index": 4,
       "expression_quantity": 4,
@@ -1482,9 +1393,8 @@
       "why_valuable": "Cask-strength PX single malt under the historic Dunville's name; small festival/shop runs",
       "photos": [
         {
-          "file": "20261105_125610.jpg",
-          "thumb": "images/thumbs/20261105_125610.jpg",
-          "full": "images/full/20261105_125610.jpg"
+          "thumb": "images/thumbs/u045.jpg",
+          "full": "images/full/u045.jpg"
         }
       ],
       "public_price_eur": null,
@@ -1495,7 +1405,6 @@
       "id": "u046",
       "expression_id": "w204",
       "expression_name": "Dunville’s VR 10 Year Old PX",
-      "photo_filename": "20261105_125626.jpg",
       "stock_order": 46,
       "unit_index": 3,
       "expression_quantity": 3,
@@ -1515,9 +1424,8 @@
       "why_valuable": "An older age-stated Dunville’s PX presentation, distinct from the 12-year releases",
       "photos": [
         {
-          "file": "20261105_125626.jpg",
-          "thumb": "images/thumbs/20261105_125626.jpg",
-          "full": "images/full/20261105_125626.jpg"
+          "thumb": "images/thumbs/u046.jpg",
+          "full": "images/full/u046.jpg"
         }
       ],
       "public_price_eur": null,
@@ -1528,7 +1436,6 @@
       "id": "u047",
       "expression_id": "w028",
       "expression_name": "Jameson Black Barrel Proof",
-      "photo_filename": "20261105_125706.jpg",
       "stock_order": 47,
       "unit_index": 1,
       "expression_quantity": 4,
@@ -1548,9 +1455,8 @@
       "why_valuable": "Proof variant scarcer than standard Black Barrel",
       "photos": [
         {
-          "file": "20261105_125706.jpg",
-          "thumb": "images/thumbs/20261105_125706.jpg",
-          "full": "images/full/20261105_125706.jpg"
+          "thumb": "images/thumbs/u047.jpg",
+          "full": "images/full/u047.jpg"
         }
       ],
       "public_price_eur": null,
@@ -1561,7 +1467,6 @@
       "id": "u048",
       "expression_id": "w028",
       "expression_name": "Jameson Black Barrel Proof",
-      "photo_filename": "20261105_125722.jpg",
       "stock_order": 48,
       "unit_index": 2,
       "expression_quantity": 4,
@@ -1581,9 +1486,8 @@
       "why_valuable": "Proof variant scarcer than standard Black Barrel",
       "photos": [
         {
-          "file": "20261105_125722.jpg",
-          "thumb": "images/thumbs/20261105_125722.jpg",
-          "full": "images/full/20261105_125722.jpg"
+          "thumb": "images/thumbs/u048.jpg",
+          "full": "images/full/u048.jpg"
         }
       ],
       "public_price_eur": null,
@@ -1594,7 +1498,6 @@
       "id": "u049",
       "expression_id": "w028",
       "expression_name": "Jameson Black Barrel Proof",
-      "photo_filename": "20261105_125753.jpg",
       "stock_order": 49,
       "unit_index": 3,
       "expression_quantity": 4,
@@ -1614,9 +1517,8 @@
       "why_valuable": "Proof variant scarcer than standard Black Barrel",
       "photos": [
         {
-          "file": "20261105_125753.jpg",
-          "thumb": "images/thumbs/20261105_125753.jpg",
-          "full": "images/full/20261105_125753.jpg"
+          "thumb": "images/thumbs/u049.jpg",
+          "full": "images/full/u049.jpg"
         }
       ],
       "public_price_eur": null,
@@ -1627,7 +1529,6 @@
       "id": "u050",
       "expression_id": "w028",
       "expression_name": "Jameson Black Barrel Proof",
-      "photo_filename": "20261105_125820.jpg",
       "stock_order": 50,
       "unit_index": 4,
       "expression_quantity": 4,
@@ -1647,9 +1548,8 @@
       "why_valuable": "Proof variant scarcer than standard Black Barrel",
       "photos": [
         {
-          "file": "20261105_125820.jpg",
-          "thumb": "images/thumbs/20261105_125820.jpg",
-          "full": "images/full/20261105_125820.jpg"
+          "thumb": "images/thumbs/u050.jpg",
+          "full": "images/full/u050.jpg"
         }
       ],
       "public_price_eur": null,
@@ -1660,7 +1560,6 @@
       "id": "u051",
       "expression_id": "w205",
       "expression_name": "Dunville’s VR 12 Year Old PX (standard strength)",
-      "photo_filename": "20261105_130222.jpg",
       "stock_order": 51,
       "unit_index": 1,
       "expression_quantity": 1,
@@ -1680,9 +1579,8 @@
       "why_valuable": "Age-stated PX finish; complete tube shown",
       "photos": [
         {
-          "file": "20261105_130222.jpg",
-          "thumb": "images/thumbs/20261105_130222.jpg",
-          "full": "images/full/20261105_130222.jpg"
+          "thumb": "images/thumbs/u051.jpg",
+          "full": "images/full/u051.jpg"
         }
       ],
       "public_price_eur": null,
@@ -1693,7 +1591,6 @@
       "id": "u052",
       "expression_id": "w029",
       "expression_name": "Dunville's VR 18 Year Old",
-      "photo_filename": "20261105_130251.jpg",
       "stock_order": 52,
       "unit_index": 1,
       "expression_quantity": 2,
@@ -1713,9 +1610,8 @@
       "why_valuable": "18yo Dunville's; limited Echlinville aged stock",
       "photos": [
         {
-          "file": "20261105_130251.jpg",
-          "thumb": "images/thumbs/20261105_130251.jpg",
-          "full": "images/full/20261105_130251.jpg"
+          "thumb": "images/thumbs/u052.jpg",
+          "full": "images/full/u052.jpg"
         }
       ],
       "public_price_eur": null,
@@ -1726,7 +1622,6 @@
       "id": "u053",
       "expression_id": "w029",
       "expression_name": "Dunville's VR 18 Year Old",
-      "photo_filename": "20261105_130333.jpg",
       "stock_order": 53,
       "unit_index": 2,
       "expression_quantity": 2,
@@ -1746,9 +1641,8 @@
       "why_valuable": "18yo Dunville's; limited Echlinville aged stock",
       "photos": [
         {
-          "file": "20261105_130333.jpg",
-          "thumb": "images/thumbs/20261105_130333.jpg",
-          "full": "images/full/20261105_130333.jpg"
+          "thumb": "images/thumbs/u053.jpg",
+          "full": "images/full/u053.jpg"
         }
       ],
       "public_price_eur": null,
@@ -1759,7 +1653,6 @@
       "id": "u054",
       "expression_id": "w030",
       "expression_name": "Dunville's 19 Year Old Single Malt",
-      "photo_filename": "20261105_130403.jpg",
       "stock_order": 54,
       "unit_index": 1,
       "expression_quantity": 2,
@@ -1779,9 +1672,8 @@
       "why_valuable": "Single-cask Madeira finish; retailer exclusive; numbered bottles",
       "photos": [
         {
-          "file": "20261105_130403.jpg",
-          "thumb": "images/thumbs/20261105_130403.jpg",
-          "full": "images/full/20261105_130403.jpg"
+          "thumb": "images/thumbs/u054.jpg",
+          "full": "images/full/u054.jpg"
         }
       ],
       "public_price_eur": null,
@@ -1792,7 +1684,6 @@
       "id": "u055",
       "expression_id": "w030",
       "expression_name": "Dunville's 19 Year Old Single Malt",
-      "photo_filename": "20261105_130446.jpg",
       "stock_order": 55,
       "unit_index": 2,
       "expression_quantity": 2,
@@ -1812,9 +1703,8 @@
       "why_valuable": "Single-cask Madeira finish; retailer exclusive; numbered bottles",
       "photos": [
         {
-          "file": "20261105_130446.jpg",
-          "thumb": "images/thumbs/20261105_130446.jpg",
-          "full": "images/full/20261105_130446.jpg"
+          "thumb": "images/thumbs/u055.jpg",
+          "full": "images/full/u055.jpg"
         }
       ],
       "public_price_eur": null,
@@ -1825,7 +1715,6 @@
       "id": "u056",
       "expression_id": "w031",
       "expression_name": "Athrú 16 Year Old Single Cask 43001",
-      "photo_filename": "20261105_130529.jpg",
       "stock_order": 56,
       "unit_index": 1,
       "expression_quantity": 1,
@@ -1845,9 +1734,8 @@
       "why_valuable": "Irish craft single cask — value if cask no. verified",
       "photos": [
         {
-          "file": "20261105_130529.jpg",
-          "thumb": "images/thumbs/20261105_130529.jpg",
-          "full": "images/full/20261105_130529.jpg"
+          "thumb": "images/thumbs/u056.jpg",
+          "full": "images/full/u056.jpg"
         }
       ],
       "public_price_eur": null,
@@ -1858,7 +1746,6 @@
       "id": "u057",
       "expression_id": "w032",
       "expression_name": "Heaven's Door × Redbreast Edition",
-      "photo_filename": "20261105_130614.jpg",
       "stock_order": 57,
       "unit_index": 1,
       "expression_quantity": 2,
@@ -1878,9 +1765,8 @@
       "why_valuable": "Cross-category Master Blenders' collab; limited US/IE crossover appeal",
       "photos": [
         {
-          "file": "20261105_130614.jpg",
-          "thumb": "images/thumbs/20261105_130614.jpg",
-          "full": "images/full/20261105_130614.jpg"
+          "thumb": "images/thumbs/u057.jpg",
+          "full": "images/full/u057.jpg"
         }
       ],
       "public_price_eur": null,
@@ -1891,7 +1777,6 @@
       "id": "u058",
       "expression_id": "w032",
       "expression_name": "Heaven's Door × Redbreast Edition",
-      "photo_filename": "20261105_130627.jpg",
       "stock_order": 58,
       "unit_index": 2,
       "expression_quantity": 2,
@@ -1911,9 +1796,8 @@
       "why_valuable": "Cross-category Master Blenders' collab; limited US/IE crossover appeal",
       "photos": [
         {
-          "file": "20261105_130627.jpg",
-          "thumb": "images/thumbs/20261105_130627.jpg",
-          "full": "images/full/20261105_130627.jpg"
+          "thumb": "images/thumbs/u058.jpg",
+          "full": "images/full/u058.jpg"
         }
       ],
       "public_price_eur": null,
@@ -1924,7 +1808,6 @@
       "id": "u059",
       "expression_id": "w033",
       "expression_name": "Dunville's 14 Year Old Single Malt",
-      "photo_filename": "20261105_130655.jpg",
       "stock_order": 59,
       "unit_index": 1,
       "expression_quantity": 1,
@@ -1944,9 +1827,8 @@
       "why_valuable": "Mid-teen Dunville's age statement; smaller runs than core blends",
       "photos": [
         {
-          "file": "20261105_130655.jpg",
-          "thumb": "images/thumbs/20261105_130655.jpg",
-          "full": "images/full/20261105_130655.jpg"
+          "thumb": "images/thumbs/u059.jpg",
+          "full": "images/full/u059.jpg"
         }
       ],
       "public_price_eur": null,
@@ -1957,7 +1839,6 @@
       "id": "u060",
       "expression_id": "w034",
       "expression_name": "Connacht Single Malt First Cask",
-      "photo_filename": "20261105_130737.jpg",
       "stock_order": 60,
       "unit_index": 1,
       "expression_quantity": 2,
@@ -1977,9 +1858,8 @@
       "why_valuable": "Early First Cask; young-distillery collectible",
       "photos": [
         {
-          "file": "20261105_130737.jpg",
-          "thumb": "images/thumbs/20261105_130737.jpg",
-          "full": "images/full/20261105_130737.jpg"
+          "thumb": "images/thumbs/u060.jpg",
+          "full": "images/full/u060.jpg"
         }
       ],
       "public_price_eur": null,
@@ -1990,7 +1870,6 @@
       "id": "u061",
       "expression_id": "w034",
       "expression_name": "Connacht Single Malt First Cask",
-      "photo_filename": "20261105_130822.jpg",
       "stock_order": 61,
       "unit_index": 2,
       "expression_quantity": 2,
@@ -2010,9 +1889,8 @@
       "why_valuable": "Early First Cask; young-distillery collectible",
       "photos": [
         {
-          "file": "20261105_130822.jpg",
-          "thumb": "images/thumbs/20261105_130822.jpg",
-          "full": "images/full/20261105_130822.jpg"
+          "thumb": "images/thumbs/u061.jpg",
+          "full": "images/full/u061.jpg"
         }
       ],
       "public_price_eur": null,
@@ -2023,7 +1901,6 @@
       "id": "u062",
       "expression_id": "w035",
       "expression_name": "Redbreast PX Edition (Iberian Series)",
-      "photo_filename": "20261105_130923.jpg",
       "stock_order": 62,
       "unit_index": 1,
       "expression_quantity": 8,
@@ -2043,9 +1920,8 @@
       "why_valuable": "Iberian Series limited; PX finish popular with collectors",
       "photos": [
         {
-          "file": "20261105_130923.jpg",
-          "thumb": "images/thumbs/20261105_130923.jpg",
-          "full": "images/full/20261105_130923.jpg"
+          "thumb": "images/thumbs/u062.jpg",
+          "full": "images/full/u062.jpg"
         }
       ],
       "public_price_eur": null,
@@ -2056,7 +1932,6 @@
       "id": "u063",
       "expression_id": "w206",
       "expression_name": "The Irishman 17 Year Old Single Cask 2004",
-      "photo_filename": "20261105_131016.jpg",
       "stock_order": 63,
       "unit_index": 1,
       "expression_quantity": 1,
@@ -2076,9 +1951,8 @@
       "why_valuable": "A numbered 600-bottle single sherry cask release",
       "photos": [
         {
-          "file": "20261105_131016.jpg",
-          "thumb": "images/thumbs/20261105_131016.jpg",
-          "full": "images/full/20261105_131016.jpg"
+          "thumb": "images/thumbs/u063.jpg",
+          "full": "images/full/u063.jpg"
         }
       ],
       "public_price_eur": null,
@@ -2089,7 +1963,6 @@
       "id": "u064",
       "expression_id": "w207",
       "expression_name": "Redbreast 10 Year Old Cask Strength",
-      "photo_filename": "20261105_131107.jpg",
       "stock_order": 64,
       "unit_index": 1,
       "expression_quantity": 1,
@@ -2109,9 +1982,8 @@
       "why_valuable": "Distinct age-stated Redbreast presentation; cask strength",
       "photos": [
         {
-          "file": "20261105_131107.jpg",
-          "thumb": "images/thumbs/20261105_131107.jpg",
-          "full": "images/full/20261105_131107.jpg"
+          "thumb": "images/thumbs/u064.jpg",
+          "full": "images/full/u064.jpg"
         }
       ],
       "public_price_eur": null,
@@ -2122,7 +1994,6 @@
       "id": "u065",
       "expression_id": "w036",
       "expression_name": "The Irishman Cask Strength",
-      "photo_filename": "20261105_131202.jpg",
       "stock_order": 65,
       "unit_index": 1,
       "expression_quantity": 1,
@@ -2142,9 +2013,8 @@
       "why_valuable": "Cask-strength Irishman; smaller than standard range",
       "photos": [
         {
-          "file": "20261105_131202.jpg",
-          "thumb": "images/thumbs/20261105_131202.jpg",
-          "full": "images/full/20261105_131202.jpg"
+          "thumb": "images/thumbs/u065.jpg",
+          "full": "images/full/u065.jpg"
         }
       ],
       "public_price_eur": null,
@@ -2155,7 +2025,6 @@
       "id": "u066",
       "expression_id": "w037",
       "expression_name": "Killowen 10 Year Old Bonded Experimental",
-      "photo_filename": "20261105_131702.jpg",
       "stock_order": 66,
       "unit_index": 1,
       "expression_quantity": 1,
@@ -2175,9 +2044,8 @@
       "why_valuable": "Tiny Killowen experimental outturns; 500ml CS format",
       "photos": [
         {
-          "file": "20261105_131702.jpg",
-          "thumb": "images/thumbs/20261105_131702.jpg",
-          "full": "images/full/20261105_131702.jpg"
+          "thumb": "images/thumbs/u066.jpg",
+          "full": "images/full/u066.jpg"
         }
       ],
       "public_price_eur": null,
@@ -2188,7 +2056,6 @@
       "id": "u067",
       "expression_id": "w035",
       "expression_name": "Redbreast PX Edition (Iberian Series)",
-      "photo_filename": "20261105_131742 (1).jpg",
       "stock_order": 67,
       "unit_index": 2,
       "expression_quantity": 8,
@@ -2208,9 +2075,8 @@
       "why_valuable": "Iberian Series limited; PX finish popular with collectors",
       "photos": [
         {
-          "file": "20261105_131742 (1).jpg",
-          "thumb": "images/thumbs/20261105_131742_1.jpg",
-          "full": "images/full/20261105_131742_1.jpg"
+          "thumb": "images/thumbs/u067.jpg",
+          "full": "images/full/u067.jpg"
         }
       ],
       "public_price_eur": null,
@@ -2221,7 +2087,6 @@
       "id": "u068",
       "expression_id": "w035",
       "expression_name": "Redbreast PX Edition (Iberian Series)",
-      "photo_filename": "20261105_131742.jpg",
       "stock_order": 68,
       "unit_index": 3,
       "expression_quantity": 8,
@@ -2241,9 +2106,8 @@
       "why_valuable": "Iberian Series limited; PX finish popular with collectors",
       "photos": [
         {
-          "file": "20261105_131742.jpg",
-          "thumb": "images/thumbs/20261105_131742.jpg",
-          "full": "images/full/20261105_131742.jpg"
+          "thumb": "images/thumbs/u068.jpg",
+          "full": "images/full/u068.jpg"
         }
       ],
       "public_price_eur": null,
@@ -2254,7 +2118,6 @@
       "id": "u069",
       "expression_id": "w035",
       "expression_name": "Redbreast PX Edition (Iberian Series)",
-      "photo_filename": "20261105_131809 (1).jpg",
       "stock_order": 69,
       "unit_index": 4,
       "expression_quantity": 8,
@@ -2274,9 +2137,8 @@
       "why_valuable": "Iberian Series limited; PX finish popular with collectors",
       "photos": [
         {
-          "file": "20261105_131809 (1).jpg",
-          "thumb": "images/thumbs/20261105_131809_1.jpg",
-          "full": "images/full/20261105_131809_1.jpg"
+          "thumb": "images/thumbs/u069.jpg",
+          "full": "images/full/u069.jpg"
         }
       ],
       "public_price_eur": null,
@@ -2287,7 +2149,6 @@
       "id": "u070",
       "expression_id": "w035",
       "expression_name": "Redbreast PX Edition (Iberian Series)",
-      "photo_filename": "20261105_131809 (2).jpg",
       "stock_order": 70,
       "unit_index": 5,
       "expression_quantity": 8,
@@ -2307,9 +2168,8 @@
       "why_valuable": "Iberian Series limited; PX finish popular with collectors",
       "photos": [
         {
-          "file": "20261105_131809 (2).jpg",
-          "thumb": "images/thumbs/20261105_131809_2.jpg",
-          "full": "images/full/20261105_131809_2.jpg"
+          "thumb": "images/thumbs/u070.jpg",
+          "full": "images/full/u070.jpg"
         }
       ],
       "public_price_eur": null,
@@ -2320,7 +2180,6 @@
       "id": "u071",
       "expression_id": "w035",
       "expression_name": "Redbreast PX Edition (Iberian Series)",
-      "photo_filename": "20261105_131809 (3).jpg",
       "stock_order": 71,
       "unit_index": 6,
       "expression_quantity": 8,
@@ -2340,9 +2199,8 @@
       "why_valuable": "Iberian Series limited; PX finish popular with collectors",
       "photos": [
         {
-          "file": "20261105_131809 (3).jpg",
-          "thumb": "images/thumbs/20261105_131809_3.jpg",
-          "full": "images/full/20261105_131809_3.jpg"
+          "thumb": "images/thumbs/u071.jpg",
+          "full": "images/full/u071.jpg"
         }
       ],
       "public_price_eur": null,
@@ -2353,7 +2211,6 @@
       "id": "u072",
       "expression_id": "w035",
       "expression_name": "Redbreast PX Edition (Iberian Series)",
-      "photo_filename": "20261105_131809 (4).jpg",
       "stock_order": 72,
       "unit_index": 7,
       "expression_quantity": 8,
@@ -2373,9 +2230,8 @@
       "why_valuable": "Iberian Series limited; PX finish popular with collectors",
       "photos": [
         {
-          "file": "20261105_131809 (4).jpg",
-          "thumb": "images/thumbs/20261105_131809_4.jpg",
-          "full": "images/full/20261105_131809_4.jpg"
+          "thumb": "images/thumbs/u072.jpg",
+          "full": "images/full/u072.jpg"
         }
       ],
       "public_price_eur": null,
@@ -2386,7 +2242,6 @@
       "id": "u073",
       "expression_id": "w035",
       "expression_name": "Redbreast PX Edition (Iberian Series)",
-      "photo_filename": "20261105_131809.jpg",
       "stock_order": 73,
       "unit_index": 8,
       "expression_quantity": 8,
@@ -2406,9 +2261,8 @@
       "why_valuable": "Iberian Series limited; PX finish popular with collectors",
       "photos": [
         {
-          "file": "20261105_131809.jpg",
-          "thumb": "images/thumbs/20261105_131809.jpg",
-          "full": "images/full/20261105_131809.jpg"
+          "thumb": "images/thumbs/u073.jpg",
+          "full": "images/full/u073.jpg"
         }
       ],
       "public_price_eur": null,
@@ -2419,7 +2273,6 @@
       "id": "u074",
       "expression_id": "w038",
       "expression_name": "Redbreast 12 Year Old Limited Edition Bird Feeder",
-      "photo_filename": "20261105_131917 (1).jpg",
       "stock_order": 74,
       "unit_index": 1,
       "expression_quantity": 10,
@@ -2439,9 +2292,8 @@
       "why_valuable": "Gift-pack rarity more than liquid rarity; complete sets preferred",
       "photos": [
         {
-          "file": "20261105_131917 (1).jpg",
-          "thumb": "images/thumbs/20261105_131917_1.jpg",
-          "full": "images/full/20261105_131917_1.jpg"
+          "thumb": "images/thumbs/u074.jpg",
+          "full": "images/full/u074.jpg"
         }
       ],
       "public_price_eur": null,
@@ -2452,7 +2304,6 @@
       "id": "u075",
       "expression_id": "w038",
       "expression_name": "Redbreast 12 Year Old Limited Edition Bird Feeder",
-      "photo_filename": "20261105_131917.jpg",
       "stock_order": 75,
       "unit_index": 2,
       "expression_quantity": 10,
@@ -2472,9 +2323,8 @@
       "why_valuable": "Gift-pack rarity more than liquid rarity; complete sets preferred",
       "photos": [
         {
-          "file": "20261105_131917.jpg",
-          "thumb": "images/thumbs/20261105_131917.jpg",
-          "full": "images/full/20261105_131917.jpg"
+          "thumb": "images/thumbs/u075.jpg",
+          "full": "images/full/u075.jpg"
         }
       ],
       "public_price_eur": null,
@@ -2485,7 +2335,6 @@
       "id": "u076",
       "expression_id": "w038",
       "expression_name": "Redbreast 12 Year Old Limited Edition Bird Feeder",
-      "photo_filename": "20261105_132001 (1).jpg",
       "stock_order": 76,
       "unit_index": 3,
       "expression_quantity": 10,
@@ -2505,9 +2354,8 @@
       "why_valuable": "Gift-pack rarity more than liquid rarity; complete sets preferred",
       "photos": [
         {
-          "file": "20261105_132001 (1).jpg",
-          "thumb": "images/thumbs/20261105_132001_1.jpg",
-          "full": "images/full/20261105_132001_1.jpg"
+          "thumb": "images/thumbs/u076.jpg",
+          "full": "images/full/u076.jpg"
         }
       ],
       "public_price_eur": null,
@@ -2518,7 +2366,6 @@
       "id": "u077",
       "expression_id": "w038",
       "expression_name": "Redbreast 12 Year Old Limited Edition Bird Feeder",
-      "photo_filename": "20261105_132001 (2).jpg",
       "stock_order": 77,
       "unit_index": 4,
       "expression_quantity": 10,
@@ -2538,9 +2385,8 @@
       "why_valuable": "Gift-pack rarity more than liquid rarity; complete sets preferred",
       "photos": [
         {
-          "file": "20261105_132001 (2).jpg",
-          "thumb": "images/thumbs/20261105_132001_2.jpg",
-          "full": "images/full/20261105_132001_2.jpg"
+          "thumb": "images/thumbs/u077.jpg",
+          "full": "images/full/u077.jpg"
         }
       ],
       "public_price_eur": null,
@@ -2551,7 +2397,6 @@
       "id": "u078",
       "expression_id": "w038",
       "expression_name": "Redbreast 12 Year Old Limited Edition Bird Feeder",
-      "photo_filename": "20261105_132001 (3).jpg",
       "stock_order": 78,
       "unit_index": 5,
       "expression_quantity": 10,
@@ -2571,9 +2416,8 @@
       "why_valuable": "Gift-pack rarity more than liquid rarity; complete sets preferred",
       "photos": [
         {
-          "file": "20261105_132001 (3).jpg",
-          "thumb": "images/thumbs/20261105_132001_3.jpg",
-          "full": "images/full/20261105_132001_3.jpg"
+          "thumb": "images/thumbs/u078.jpg",
+          "full": "images/full/u078.jpg"
         }
       ],
       "public_price_eur": null,
@@ -2584,7 +2428,6 @@
       "id": "u079",
       "expression_id": "w038",
       "expression_name": "Redbreast 12 Year Old Limited Edition Bird Feeder",
-      "photo_filename": "20261105_132001.jpg",
       "stock_order": 79,
       "unit_index": 6,
       "expression_quantity": 10,
@@ -2604,9 +2447,8 @@
       "why_valuable": "Gift-pack rarity more than liquid rarity; complete sets preferred",
       "photos": [
         {
-          "file": "20261105_132001.jpg",
-          "thumb": "images/thumbs/20261105_132001.jpg",
-          "full": "images/full/20261105_132001.jpg"
+          "thumb": "images/thumbs/u079.jpg",
+          "full": "images/full/u079.jpg"
         }
       ],
       "public_price_eur": null,
@@ -2617,7 +2459,6 @@
       "id": "u080",
       "expression_id": "w038",
       "expression_name": "Redbreast 12 Year Old Limited Edition Bird Feeder",
-      "photo_filename": "20261105_132055 (1).jpg",
       "stock_order": 80,
       "unit_index": 7,
       "expression_quantity": 10,
@@ -2637,9 +2478,8 @@
       "why_valuable": "Gift-pack rarity more than liquid rarity; complete sets preferred",
       "photos": [
         {
-          "file": "20261105_132055 (1).jpg",
-          "thumb": "images/thumbs/20261105_132055_1.jpg",
-          "full": "images/full/20261105_132055_1.jpg"
+          "thumb": "images/thumbs/u080.jpg",
+          "full": "images/full/u080.jpg"
         }
       ],
       "public_price_eur": null,
@@ -2650,7 +2490,6 @@
       "id": "u081",
       "expression_id": "w038",
       "expression_name": "Redbreast 12 Year Old Limited Edition Bird Feeder",
-      "photo_filename": "20261105_132055.jpg",
       "stock_order": 81,
       "unit_index": 8,
       "expression_quantity": 10,
@@ -2670,9 +2509,8 @@
       "why_valuable": "Gift-pack rarity more than liquid rarity; complete sets preferred",
       "photos": [
         {
-          "file": "20261105_132055.jpg",
-          "thumb": "images/thumbs/20261105_132055.jpg",
-          "full": "images/full/20261105_132055.jpg"
+          "thumb": "images/thumbs/u081.jpg",
+          "full": "images/full/u081.jpg"
         }
       ],
       "public_price_eur": null,
@@ -2683,7 +2521,6 @@
       "id": "u082",
       "expression_id": "w038",
       "expression_name": "Redbreast 12 Year Old Limited Edition Bird Feeder",
-      "photo_filename": "20261105_132159 (1).jpg",
       "stock_order": 82,
       "unit_index": 9,
       "expression_quantity": 10,
@@ -2703,9 +2540,8 @@
       "why_valuable": "Gift-pack rarity more than liquid rarity; complete sets preferred",
       "photos": [
         {
-          "file": "20261105_132159 (1).jpg",
-          "thumb": "images/thumbs/20261105_132159_1.jpg",
-          "full": "images/full/20261105_132159_1.jpg"
+          "thumb": "images/thumbs/u082.jpg",
+          "full": "images/full/u082.jpg"
         }
       ],
       "public_price_eur": null,
@@ -2716,7 +2552,6 @@
       "id": "u083",
       "expression_id": "w038",
       "expression_name": "Redbreast 12 Year Old Limited Edition Bird Feeder",
-      "photo_filename": "20261105_132159.jpg",
       "stock_order": 83,
       "unit_index": 10,
       "expression_quantity": 10,
@@ -2736,9 +2571,8 @@
       "why_valuable": "Gift-pack rarity more than liquid rarity; complete sets preferred",
       "photos": [
         {
-          "file": "20261105_132159.jpg",
-          "thumb": "images/thumbs/20261105_132159.jpg",
-          "full": "images/full/20261105_132159.jpg"
+          "thumb": "images/thumbs/u083.jpg",
+          "full": "images/full/u083.jpg"
         }
       ],
       "public_price_eur": null,
@@ -2749,7 +2583,6 @@
       "id": "u084",
       "expression_id": "w103",
       "expression_name": "Killowen Signature Rum & Raisin 5 Year Old Batch #03",
-      "photo_filename": "20261105_132851.jpg",
       "stock_order": 84,
       "unit_index": 1,
       "expression_quantity": 1,
@@ -2769,9 +2602,8 @@
       "why_valuable": "Tiny 990-bottle Killowen batch; CS 500ml experimental",
       "photos": [
         {
-          "file": "20261105_132851.jpg",
-          "thumb": "images/thumbs/20261105_132851.jpg",
-          "full": "images/full/20261105_132851.jpg"
+          "thumb": "images/thumbs/u084.jpg",
+          "full": "images/full/u084.jpg"
         }
       ],
       "public_price_eur": null,
@@ -2782,7 +2614,6 @@
       "id": "u085",
       "expression_id": "w020",
       "expression_name": "Gold Spot 9 Year Old",
-      "photo_filename": "20261105_133320 (1).jpg",
       "stock_order": 85,
       "unit_index": 2,
       "expression_quantity": 4,
@@ -2802,9 +2633,8 @@
       "why_valuable": "First Gold Spot release; limited vs Green/Yellow/Red core",
       "photos": [
         {
-          "file": "20261105_133320 (1).jpg",
-          "thumb": "images/thumbs/20261105_133320_1.jpg",
-          "full": "images/full/20261105_133320_1.jpg"
+          "thumb": "images/thumbs/u085.jpg",
+          "full": "images/full/u085.jpg"
         }
       ],
       "public_price_eur": null,
@@ -2815,7 +2645,6 @@
       "id": "u086",
       "expression_id": "w020",
       "expression_name": "Gold Spot 9 Year Old",
-      "photo_filename": "20261105_133320 (2).jpg",
       "stock_order": 86,
       "unit_index": 3,
       "expression_quantity": 4,
@@ -2835,9 +2664,8 @@
       "why_valuable": "First Gold Spot release; limited vs Green/Yellow/Red core",
       "photos": [
         {
-          "file": "20261105_133320 (2).jpg",
-          "thumb": "images/thumbs/20261105_133320_2.jpg",
-          "full": "images/full/20261105_133320_2.jpg"
+          "thumb": "images/thumbs/u086.jpg",
+          "full": "images/full/u086.jpg"
         }
       ],
       "public_price_eur": null,
@@ -2848,7 +2676,6 @@
       "id": "u087",
       "expression_id": "w020",
       "expression_name": "Gold Spot 9 Year Old",
-      "photo_filename": "20261105_133320.jpg",
       "stock_order": 87,
       "unit_index": 4,
       "expression_quantity": 4,
@@ -2868,9 +2695,8 @@
       "why_valuable": "First Gold Spot release; limited vs Green/Yellow/Red core",
       "photos": [
         {
-          "file": "20261105_133320.jpg",
-          "thumb": "images/thumbs/20261105_133320.jpg",
-          "full": "images/full/20261105_133320.jpg"
+          "thumb": "images/thumbs/u087.jpg",
+          "full": "images/full/u087.jpg"
         }
       ],
       "public_price_eur": null,
@@ -2881,7 +2707,6 @@
       "id": "u088",
       "expression_id": "w011",
       "expression_name": "Waterford The Cuvée",
-      "photo_filename": "20261105_133509 (1).jpg",
       "stock_order": 88,
       "unit_index": 1,
       "expression_quantity": 3,
@@ -2901,9 +2726,8 @@
       "why_valuable": "Flagship terroir whisky; collectible for Waterford completists and early Cuvée bottles",
       "photos": [
         {
-          "file": "20261105_133509 (1).jpg",
-          "thumb": "images/thumbs/20261105_133509_1.jpg",
-          "full": "images/full/20261105_133509_1.jpg"
+          "thumb": "images/thumbs/u088.jpg",
+          "full": "images/full/u088.jpg"
         }
       ],
       "public_price_eur": null,
@@ -2914,7 +2738,6 @@
       "id": "u089",
       "expression_id": "w011",
       "expression_name": "Waterford The Cuvée",
-      "photo_filename": "20261105_133509 (2).jpg",
       "stock_order": 89,
       "unit_index": 2,
       "expression_quantity": 3,
@@ -2934,9 +2757,8 @@
       "why_valuable": "Flagship terroir whisky; collectible for Waterford completists and early Cuvée bottles",
       "photos": [
         {
-          "file": "20261105_133509 (2).jpg",
-          "thumb": "images/thumbs/20261105_133509_2.jpg",
-          "full": "images/full/20261105_133509_2.jpg"
+          "thumb": "images/thumbs/u089.jpg",
+          "full": "images/full/u089.jpg"
         }
       ],
       "public_price_eur": null,
@@ -2947,7 +2769,6 @@
       "id": "u090",
       "expression_id": "w011",
       "expression_name": "Waterford The Cuvée",
-      "photo_filename": "20261105_133509.jpg",
       "stock_order": 90,
       "unit_index": 3,
       "expression_quantity": 3,
@@ -2967,9 +2788,8 @@
       "why_valuable": "Flagship terroir whisky; collectible for Waterford completists and early Cuvée bottles",
       "photos": [
         {
-          "file": "20261105_133509.jpg",
-          "thumb": "images/thumbs/20261105_133509.jpg",
-          "full": "images/full/20261105_133509.jpg"
+          "thumb": "images/thumbs/u090.jpg",
+          "full": "images/full/u090.jpg"
         }
       ],
       "public_price_eur": null,
@@ -2980,7 +2800,6 @@
       "id": "u091",
       "expression_id": "w108",
       "expression_name": "Waterford Single Farm Origin Sheestown Edition 1.2",
-      "photo_filename": "20261105_133545.jpg",
       "stock_order": 91,
       "unit_index": 1,
       "expression_quantity": 2,
@@ -3000,9 +2819,8 @@
       "why_valuable": "SFO Sheestown 1.2; per-edition scarcity",
       "photos": [
         {
-          "file": "20261105_133545.jpg",
-          "thumb": "images/thumbs/20261105_133545.jpg",
-          "full": "images/full/20261105_133545.jpg"
+          "thumb": "images/thumbs/u091.jpg",
+          "full": "images/full/u091.jpg"
         }
       ],
       "public_price_eur": null,
@@ -3013,7 +2831,6 @@
       "id": "u092",
       "expression_id": "w039",
       "expression_name": "Gold Spot 13 Year Old",
-      "photo_filename": "20261105_133634.jpg",
       "stock_order": 92,
       "unit_index": 1,
       "expression_quantity": 2,
@@ -3033,9 +2850,8 @@
       "why_valuable": "Named Generations limited; Italian Recioto finish; finite Spot release",
       "photos": [
         {
-          "file": "20261105_133634.jpg",
-          "thumb": "images/thumbs/20261105_133634.jpg",
-          "full": "images/full/20261105_133634.jpg"
+          "thumb": "images/thumbs/u092.jpg",
+          "full": "images/full/u092.jpg"
         }
       ],
       "public_price_eur": null,
@@ -3046,7 +2862,6 @@
       "id": "u093",
       "expression_id": "w039",
       "expression_name": "Gold Spot 13 Year Old",
-      "photo_filename": "20261105_133641.jpg",
       "stock_order": 93,
       "unit_index": 2,
       "expression_quantity": 2,
@@ -3066,9 +2881,8 @@
       "why_valuable": "Named Generations limited; Italian Recioto finish; finite Spot release",
       "photos": [
         {
-          "file": "20261105_133641.jpg",
-          "thumb": "images/thumbs/20261105_133641.jpg",
-          "full": "images/full/20261105_133641.jpg"
+          "thumb": "images/thumbs/u093.jpg",
+          "full": "images/full/u093.jpg"
         }
       ],
       "public_price_eur": null,
@@ -3079,7 +2893,6 @@
       "id": "u094",
       "expression_id": "w106",
       "expression_name": "Waterford Micro Cuvée Lómhar",
-      "photo_filename": "20261105_133900 (1).jpg",
       "stock_order": 94,
       "unit_index": 1,
       "expression_quantity": 2,
@@ -3099,9 +2912,8 @@
       "why_valuable": "Named Micro Cuvée short run; Lómhar-specific demand",
       "photos": [
         {
-          "file": "20261105_133900 (1).jpg",
-          "thumb": "images/thumbs/20261105_133900_1.jpg",
-          "full": "images/full/20261105_133900_1.jpg"
+          "thumb": "images/thumbs/u094.jpg",
+          "full": "images/full/u094.jpg"
         }
       ],
       "public_price_eur": null,
@@ -3112,7 +2924,6 @@
       "id": "u095",
       "expression_id": "w106",
       "expression_name": "Waterford Micro Cuvée Lómhar",
-      "photo_filename": "20261105_133900.jpg",
       "stock_order": 95,
       "unit_index": 2,
       "expression_quantity": 2,
@@ -3132,9 +2943,8 @@
       "why_valuable": "Named Micro Cuvée short run; Lómhar-specific demand",
       "photos": [
         {
-          "file": "20261105_133900.jpg",
-          "thumb": "images/thumbs/20261105_133900.jpg",
-          "full": "images/full/20261105_133900.jpg"
+          "thumb": "images/thumbs/u095.jpg",
+          "full": "images/full/u095.jpg"
         }
       ],
       "public_price_eur": null,
@@ -3145,7 +2955,6 @@
       "id": "u096",
       "expression_id": "w107",
       "expression_name": "Waterford Micro Cuvée Pique-Nique",
-      "photo_filename": "20261105_134021 (1).jpg",
       "stock_order": 96,
       "unit_index": 1,
       "expression_quantity": 5,
@@ -3165,9 +2974,8 @@
       "why_valuable": "Named Micro Cuvée; short outturn",
       "photos": [
         {
-          "file": "20261105_134021 (1).jpg",
-          "thumb": "images/thumbs/20261105_134021_1.jpg",
-          "full": "images/full/20261105_134021_1.jpg"
+          "thumb": "images/thumbs/u096.jpg",
+          "full": "images/full/u096.jpg"
         }
       ],
       "public_price_eur": null,
@@ -3178,7 +2986,6 @@
       "id": "u097",
       "expression_id": "w107",
       "expression_name": "Waterford Micro Cuvée Pique-Nique",
-      "photo_filename": "20261105_134021.jpg",
       "stock_order": 97,
       "unit_index": 2,
       "expression_quantity": 5,
@@ -3198,9 +3005,8 @@
       "why_valuable": "Named Micro Cuvée; short outturn",
       "photos": [
         {
-          "file": "20261105_134021.jpg",
-          "thumb": "images/thumbs/20261105_134021.jpg",
-          "full": "images/full/20261105_134021.jpg"
+          "thumb": "images/thumbs/u097.jpg",
+          "full": "images/full/u097.jpg"
         }
       ],
       "public_price_eur": null,
@@ -3211,7 +3017,6 @@
       "id": "u098",
       "expression_id": "w108",
       "expression_name": "Waterford Single Farm Origin Sheestown Edition 1.2",
-      "photo_filename": "20261105_134141.jpg",
       "stock_order": 98,
       "unit_index": 2,
       "expression_quantity": 2,
@@ -3231,9 +3036,8 @@
       "why_valuable": "SFO Sheestown 1.2; per-edition scarcity",
       "photos": [
         {
-          "file": "20261105_134141.jpg",
-          "thumb": "images/thumbs/20261105_134141.jpg",
-          "full": "images/full/20261105_134141.jpg"
+          "thumb": "images/thumbs/u098.jpg",
+          "full": "images/full/u098.jpg"
         }
       ],
       "public_price_eur": null,
@@ -3244,7 +3048,6 @@
       "id": "u099",
       "expression_id": "w107",
       "expression_name": "Waterford Micro Cuvée Pique-Nique",
-      "photo_filename": "20261105_134324 (1).jpg",
       "stock_order": 99,
       "unit_index": 3,
       "expression_quantity": 5,
@@ -3264,9 +3067,8 @@
       "why_valuable": "Named Micro Cuvée; short outturn",
       "photos": [
         {
-          "file": "20261105_134324 (1).jpg",
-          "thumb": "images/thumbs/20261105_134324_1.jpg",
-          "full": "images/full/20261105_134324_1.jpg"
+          "thumb": "images/thumbs/u099.jpg",
+          "full": "images/full/u099.jpg"
         }
       ],
       "public_price_eur": null,
@@ -3277,7 +3079,6 @@
       "id": "u100",
       "expression_id": "w107",
       "expression_name": "Waterford Micro Cuvée Pique-Nique",
-      "photo_filename": "20261105_134324 (2).jpg",
       "stock_order": 100,
       "unit_index": 4,
       "expression_quantity": 5,
@@ -3297,9 +3098,8 @@
       "why_valuable": "Named Micro Cuvée; short outturn",
       "photos": [
         {
-          "file": "20261105_134324 (2).jpg",
-          "thumb": "images/thumbs/20261105_134324_2.jpg",
-          "full": "images/full/20261105_134324_2.jpg"
+          "thumb": "images/thumbs/u100.jpg",
+          "full": "images/full/u100.jpg"
         }
       ],
       "public_price_eur": null,
@@ -3310,7 +3110,6 @@
       "id": "u101",
       "expression_id": "w107",
       "expression_name": "Waterford Micro Cuvée Pique-Nique",
-      "photo_filename": "20261105_134324.jpg",
       "stock_order": 101,
       "unit_index": 5,
       "expression_quantity": 5,
@@ -3330,9 +3129,8 @@
       "why_valuable": "Named Micro Cuvée; short outturn",
       "photos": [
         {
-          "file": "20261105_134324.jpg",
-          "thumb": "images/thumbs/20261105_134324.jpg",
-          "full": "images/full/20261105_134324.jpg"
+          "thumb": "images/thumbs/u101.jpg",
+          "full": "images/full/u101.jpg"
         }
       ],
       "public_price_eur": null,
@@ -3343,7 +3141,6 @@
       "id": "u102",
       "expression_id": "w110",
       "expression_name": "Redbreast Tawny Port Cask Edition (Iberian Series)",
-      "photo_filename": "20261105_135150 (1).jpg",
       "stock_order": 102,
       "unit_index": 1,
       "expression_quantity": 2,
@@ -3363,9 +3160,8 @@
       "why_valuable": "Iberian Series port finish; limited vs core 12",
       "photos": [
         {
-          "file": "20261105_135150 (1).jpg",
-          "thumb": "images/thumbs/20261105_135150_1.jpg",
-          "full": "images/full/20261105_135150_1.jpg"
+          "thumb": "images/thumbs/u102.jpg",
+          "full": "images/full/u102.jpg"
         }
       ],
       "public_price_eur": null,
@@ -3376,7 +3172,6 @@
       "id": "u103",
       "expression_id": "w110",
       "expression_name": "Redbreast Tawny Port Cask Edition (Iberian Series)",
-      "photo_filename": "20261105_135150.jpg",
       "stock_order": 103,
       "unit_index": 2,
       "expression_quantity": 2,
@@ -3396,9 +3191,8 @@
       "why_valuable": "Iberian Series port finish; limited vs core 12",
       "photos": [
         {
-          "file": "20261105_135150.jpg",
-          "thumb": "images/thumbs/20261105_135150.jpg",
-          "full": "images/full/20261105_135150.jpg"
+          "thumb": "images/thumbs/u103.jpg",
+          "full": "images/full/u103.jpg"
         }
       ],
       "public_price_eur": null,
@@ -3409,7 +3203,6 @@
       "id": "u104",
       "expression_id": "w040",
       "expression_name": "Hibiki Japanese Harmony Master's Select",
-      "photo_filename": "20261105_135242.jpg",
       "stock_order": 104,
       "unit_index": 1,
       "expression_quantity": 1,
@@ -3429,9 +3222,8 @@
       "why_valuable": "Core Hibiki; demand driven by Japanese whisky market, not scarcity of this SKU",
       "photos": [
         {
-          "file": "20261105_135242.jpg",
-          "thumb": "images/thumbs/20261105_135242.jpg",
-          "full": "images/full/20261105_135242.jpg"
+          "thumb": "images/thumbs/u104.jpg",
+          "full": "images/full/u104.jpg"
         }
       ],
       "public_price_eur": null,
@@ -3442,7 +3234,6 @@
       "id": "u105",
       "expression_id": "w111",
       "expression_name": "Killowen Rum & Raisin 6 Year Old Batch #04",
-      "photo_filename": "20261105_135454.jpg",
       "stock_order": 105,
       "unit_index": 1,
       "expression_quantity": 1,
@@ -3462,9 +3253,8 @@
       "why_valuable": "Even smaller than Batch #03 (~395 bottles)",
       "photos": [
         {
-          "file": "20261105_135454.jpg",
-          "thumb": "images/thumbs/20261105_135454.jpg",
-          "full": "images/full/20261105_135454.jpg"
+          "thumb": "images/thumbs/u105.jpg",
+          "full": "images/full/u105.jpg"
         }
       ],
       "public_price_eur": null,
@@ -3475,7 +3265,6 @@
       "id": "u106",
       "expression_id": "w208",
       "expression_name": "The Irishman Founder’s Reserve Oloroso Sherry Cask Finish",
-      "photo_filename": "20261105_135515.jpg",
       "stock_order": 106,
       "unit_index": 1,
       "expression_quantity": 1,
@@ -3495,9 +3284,8 @@
       "why_valuable": "Limited cask-finish variation of the Founder’s Reserve range",
       "photos": [
         {
-          "file": "20261105_135515.jpg",
-          "thumb": "images/thumbs/20261105_135515.jpg",
-          "full": "images/full/20261105_135515.jpg"
+          "thumb": "images/thumbs/u106.jpg",
+          "full": "images/full/u106.jpg"
         }
       ],
       "public_price_eur": null,
@@ -3508,7 +3296,6 @@
       "id": "u107",
       "expression_id": "w041",
       "expression_name": "Killowen The Dalriadan Part 1 of 2 — 11 Year Old",
-      "photo_filename": "20261105_135612.jpg",
       "stock_order": 107,
       "unit_index": 1,
       "expression_quantity": 1,
@@ -3528,9 +3315,8 @@
       "why_valuable": "Verify batch — Killowen 11s are small",
       "photos": [
         {
-          "file": "20261105_135612.jpg",
-          "thumb": "images/thumbs/20261105_135612.jpg",
-          "full": "images/full/20261105_135612.jpg"
+          "thumb": "images/thumbs/u107.jpg",
+          "full": "images/full/u107.jpg"
         }
       ],
       "public_price_eur": null,
@@ -3541,7 +3327,6 @@
       "id": "u108",
       "expression_id": "w042",
       "expression_name": "W.D. O'Connell 19 Year Old PX Series",
-      "photo_filename": "20261105_135655.jpg",
       "stock_order": 108,
       "unit_index": 1,
       "expression_quantity": 1,
@@ -3561,9 +3346,8 @@
       "why_valuable": "19yo indie Irish — value if cask/distillery on label is desirable",
       "photos": [
         {
-          "file": "20261105_135655.jpg",
-          "thumb": "images/thumbs/20261105_135655.jpg",
-          "full": "images/full/20261105_135655.jpg"
+          "thumb": "images/thumbs/u108.jpg",
+          "full": "images/full/u108.jpg"
         }
       ],
       "public_price_eur": null,
@@ -3574,7 +3358,6 @@
       "id": "u109",
       "expression_id": "w043",
       "expression_name": "Dingle Batch No. 6 Single Malt",
-      "photo_filename": "20261105_135739.jpg",
       "stock_order": 109,
       "unit_index": 1,
       "expression_quantity": 1,
@@ -3594,9 +3377,8 @@
       "why_valuable": "Closed Dingle batch; collect as a batch set",
       "photos": [
         {
-          "file": "20261105_135739.jpg",
-          "thumb": "images/thumbs/20261105_135739.jpg",
-          "full": "images/full/20261105_135739.jpg"
+          "thumb": "images/thumbs/u109.jpg",
+          "full": "images/full/u109.jpg"
         }
       ],
       "public_price_eur": null,
@@ -3607,7 +3389,6 @@
       "id": "u110",
       "expression_id": "w044",
       "expression_name": "Dingle Single Pot Still — Fifth Release",
-      "photo_filename": "20261105_135815.jpg",
       "stock_order": 110,
       "unit_index": 1,
       "expression_quantity": 1,
@@ -3627,9 +3408,8 @@
       "why_valuable": "Dingle SPS scarcer than batch malts",
       "photos": [
         {
-          "file": "20261105_135815.jpg",
-          "thumb": "images/thumbs/20261105_135815.jpg",
-          "full": "images/full/20261105_135815.jpg"
+          "thumb": "images/thumbs/u110.jpg",
+          "full": "images/full/u110.jpg"
         }
       ],
       "public_price_eur": null,
@@ -3640,7 +3420,6 @@
       "id": "u111",
       "expression_id": "w209",
       "expression_name": "Dingle Single Pot Still — Second Release",
-      "photo_filename": "20261105_135838.jpg",
       "stock_order": 111,
       "unit_index": 1,
       "expression_quantity": 1,
@@ -3660,9 +3439,8 @@
       "why_valuable": "Release-specific Dingle single pot still bottling",
       "photos": [
         {
-          "file": "20261105_135838.jpg",
-          "thumb": "images/thumbs/20261105_135838.jpg",
-          "full": "images/full/20261105_135838.jpg"
+          "thumb": "images/thumbs/u111.jpg",
+          "full": "images/full/u111.jpg"
         }
       ],
       "public_price_eur": null,
@@ -3673,7 +3451,6 @@
       "id": "u112",
       "expression_id": "w045",
       "expression_name": "Midleton Very Rare 2015",
-      "photo_filename": "20261105_140233.jpg",
       "stock_order": 112,
       "unit_index": 1,
       "expression_quantity": 1,
@@ -3693,9 +3470,8 @@
       "why_valuable": "Annual MVR; wooden case + signature/number drive collectability",
       "photos": [
         {
-          "file": "20261105_140233.jpg",
-          "thumb": "images/thumbs/20261105_140233.jpg",
-          "full": "images/full/20261105_140233.jpg"
+          "thumb": "images/thumbs/u112.jpg",
+          "full": "images/full/u112.jpg"
         }
       ],
       "public_price_eur": null,
@@ -3706,7 +3482,6 @@
       "id": "u113",
       "expression_id": "w121",
       "expression_name": "Midleton Single Pot Still Single Cask 1997 — CÆSAR Club Romania",
-      "photo_filename": "20261105_140306.jpg",
       "stock_order": 113,
       "unit_index": 1,
       "expression_quantity": 2,
@@ -3726,9 +3501,8 @@
       "why_valuable": "198 bottles; club exclusive; 1997 bourbon single cask CS",
       "photos": [
         {
-          "file": "20261105_140306.jpg",
-          "thumb": "images/thumbs/20261105_140306.jpg",
-          "full": "images/full/20261105_140306.jpg"
+          "thumb": "images/thumbs/u113.jpg",
+          "full": "images/full/u113.jpg"
         }
       ],
       "public_price_eur": null,
@@ -3739,7 +3513,6 @@
       "id": "u114",
       "expression_id": "w210",
       "expression_name": "Midleton Very Rare 2016",
-      "photo_filename": "20261105_140551.jpg",
       "stock_order": 114,
       "unit_index": 1,
       "expression_quantity": 2,
@@ -3759,9 +3532,8 @@
       "why_valuable": "Annual vintage and individually numbered presentation",
       "photos": [
         {
-          "file": "20261105_140551.jpg",
-          "thumb": "images/thumbs/20261105_140551.jpg",
-          "full": "images/full/20261105_140551.jpg"
+          "thumb": "images/thumbs/u114.jpg",
+          "full": "images/full/u114.jpg"
         }
       ],
       "public_price_eur": null,
@@ -3772,7 +3544,6 @@
       "id": "u115",
       "expression_id": "w210",
       "expression_name": "Midleton Very Rare 2016",
-      "photo_filename": "20261105_140624.jpg",
       "stock_order": 115,
       "unit_index": 2,
       "expression_quantity": 2,
@@ -3792,9 +3563,8 @@
       "why_valuable": "Annual vintage and individually numbered presentation",
       "photos": [
         {
-          "file": "20261105_140624.jpg",
-          "thumb": "images/thumbs/20261105_140624.jpg",
-          "full": "images/full/20261105_140624.jpg"
+          "thumb": "images/thumbs/u115.jpg",
+          "full": "images/full/u115.jpg"
         }
       ],
       "public_price_eur": null,
@@ -3805,7 +3575,6 @@
       "id": "u116",
       "expression_id": "w211",
       "expression_name": "Bushmills Causeway Collection 2011 Banyuls Casks",
-      "photo_filename": "20261105_140701 (1).jpg",
       "stock_order": 116,
       "unit_index": 1,
       "expression_quantity": 2,
@@ -3825,9 +3594,8 @@
       "why_valuable": "Distinct vintage and Banyuls-wine-cask maturation/finish within the Causeway range",
       "photos": [
         {
-          "file": "20261105_140701 (1).jpg",
-          "thumb": "images/thumbs/20261105_140701_1.jpg",
-          "full": "images/full/20261105_140701_1.jpg"
+          "thumb": "images/thumbs/u116.jpg",
+          "full": "images/full/u116.jpg"
         }
       ],
       "public_price_eur": null,
@@ -3838,7 +3606,6 @@
       "id": "u117",
       "expression_id": "w211",
       "expression_name": "Bushmills Causeway Collection 2011 Banyuls Casks",
-      "photo_filename": "20261105_140701.jpg",
       "stock_order": 117,
       "unit_index": 2,
       "expression_quantity": 2,
@@ -3858,9 +3625,8 @@
       "why_valuable": "Distinct vintage and Banyuls-wine-cask maturation/finish within the Causeway range",
       "photos": [
         {
-          "file": "20261105_140701.jpg",
-          "thumb": "images/thumbs/20261105_140701.jpg",
-          "full": "images/full/20261105_140701.jpg"
+          "thumb": "images/thumbs/u117.jpg",
+          "full": "images/full/u117.jpg"
         }
       ],
       "public_price_eur": null,
@@ -3871,7 +3637,6 @@
       "id": "u118",
       "expression_id": "w046",
       "expression_name": "Midleton Single Cask 1999 — The Friend at Hand, Belfast",
-      "photo_filename": "20261105_140802.jpg",
       "stock_order": 118,
       "unit_index": 1,
       "expression_quantity": 1,
@@ -3891,9 +3656,8 @@
       "why_valuable": "210-bottle Belfast retailer exclusive; 1999 Midleton bourbon single cask",
       "photos": [
         {
-          "file": "20261105_140802.jpg",
-          "thumb": "images/thumbs/20261105_140802.jpg",
-          "full": "images/full/20261105_140802.jpg"
+          "thumb": "images/thumbs/u118.jpg",
+          "full": "images/full/u118.jpg"
         }
       ],
       "public_price_eur": null,
@@ -3904,7 +3668,6 @@
       "id": "u119",
       "expression_id": "w212",
       "expression_name": "Green Spot Single Cask — The Palace Bar",
-      "photo_filename": "20261105_140844.jpg",
       "stock_order": 119,
       "unit_index": 1,
       "expression_quantity": 1,
@@ -3924,9 +3687,8 @@
       "why_valuable": "Exclusive single cask with named retailer/bar provenance",
       "photos": [
         {
-          "file": "20261105_140844.jpg",
-          "thumb": "images/thumbs/20261105_140844.jpg",
-          "full": "images/full/20261105_140844.jpg"
+          "thumb": "images/thumbs/u119.jpg",
+          "full": "images/full/u119.jpg"
         }
       ],
       "public_price_eur": null,
@@ -3937,7 +3699,6 @@
       "id": "u120",
       "expression_id": "w213",
       "expression_name": "Jameson Tokyo Limited Edition",
-      "photo_filename": "20261105_140926.jpg",
       "stock_order": 120,
       "unit_index": 1,
       "expression_quantity": 1,
@@ -3957,9 +3718,8 @@
       "why_valuable": "City-specific decorative presentation; exact edition year to verify",
       "photos": [
         {
-          "file": "20261105_140926.jpg",
-          "thumb": "images/thumbs/20261105_140926.jpg",
-          "full": "images/full/20261105_140926.jpg"
+          "thumb": "images/thumbs/u120.jpg",
+          "full": "images/full/u120.jpg"
         }
       ],
       "public_price_eur": null,
@@ -3970,7 +3730,6 @@
       "id": "u121",
       "expression_id": "w112",
       "expression_name": "Jameson Caskmates DevilCraft Brewing Co. Edition",
-      "photo_filename": "20261105_140944.jpg",
       "stock_order": 121,
       "unit_index": 1,
       "expression_quantity": 1,
@@ -3990,9 +3749,8 @@
       "why_valuable": "Tokyo DevilCraft collab; scarcer Caskmates SKU",
       "photos": [
         {
-          "file": "20261105_140944.jpg",
-          "thumb": "images/thumbs/20261105_140944.jpg",
-          "full": "images/full/20261105_140944.jpg"
+          "thumb": "images/thumbs/u121.jpg",
+          "full": "images/full/u121.jpg"
         }
       ],
       "public_price_eur": null,
@@ -4003,7 +3761,6 @@
       "id": "u122",
       "expression_id": "w214",
       "expression_name": "Jameson Limited Edition — illustrated label",
-      "photo_filename": "20261105_140959.jpg",
       "stock_order": 122,
       "unit_index": 1,
       "expression_quantity": 1,
@@ -4023,9 +3780,8 @@
       "why_valuable": "Decorative Dublin presentation, kept separate from other Jameson editions",
       "photos": [
         {
-          "file": "20261105_140959.jpg",
-          "thumb": "images/thumbs/20261105_140959.jpg",
-          "full": "images/full/20261105_140959.jpg"
+          "thumb": "images/thumbs/u122.jpg",
+          "full": "images/full/u122.jpg"
         }
       ],
       "public_price_eur": null,
@@ -4036,7 +3792,6 @@
       "id": "u123",
       "expression_id": "w064",
       "expression_name": "Jameson Caskmates Dieu du Ciel! Limited Edition",
-      "photo_filename": "20261105_141019.jpg",
       "stock_order": 123,
       "unit_index": 1,
       "expression_quantity": 1,
@@ -4056,9 +3811,8 @@
       "why_valuable": "Beer-cask Caskmates collab; limited vs standard Caskmates Stout/IPA",
       "photos": [
         {
-          "file": "20261105_141019.jpg",
-          "thumb": "images/thumbs/20261105_141019.jpg",
-          "full": "images/full/20261105_141019.jpg"
+          "thumb": "images/thumbs/u123.jpg",
+          "full": "images/full/u123.jpg"
         }
       ],
       "public_price_eur": null,
@@ -4069,7 +3823,6 @@
       "id": "u124",
       "expression_id": "w019",
       "expression_name": "Blue Spot 7 Year Old Cask Strength",
-      "photo_filename": "20261105_141237 (1).jpg",
       "stock_order": 124,
       "unit_index": 3,
       "expression_quantity": 8,
@@ -4089,9 +3842,8 @@
       "why_valuable": "First modern Blue Spot batches; cask-strength Spot; Madeira component uncommon",
       "photos": [
         {
-          "file": "20261105_141237 (1).jpg",
-          "thumb": "images/thumbs/20261105_141237_1.jpg",
-          "full": "images/full/20261105_141237_1.jpg"
+          "thumb": "images/thumbs/u124.jpg",
+          "full": "images/full/u124.jpg"
         }
       ],
       "public_price_eur": null,
@@ -4102,7 +3854,6 @@
       "id": "u125",
       "expression_id": "w019",
       "expression_name": "Blue Spot 7 Year Old Cask Strength",
-      "photo_filename": "20261105_141237 (2).jpg",
       "stock_order": 125,
       "unit_index": 4,
       "expression_quantity": 8,
@@ -4122,9 +3873,8 @@
       "why_valuable": "First modern Blue Spot batches; cask-strength Spot; Madeira component uncommon",
       "photos": [
         {
-          "file": "20261105_141237 (2).jpg",
-          "thumb": "images/thumbs/20261105_141237_2.jpg",
-          "full": "images/full/20261105_141237_2.jpg"
+          "thumb": "images/thumbs/u125.jpg",
+          "full": "images/full/u125.jpg"
         }
       ],
       "public_price_eur": null,
@@ -4135,7 +3885,6 @@
       "id": "u126",
       "expression_id": "w019",
       "expression_name": "Blue Spot 7 Year Old Cask Strength",
-      "photo_filename": "20261105_141237 (3).jpg",
       "stock_order": 126,
       "unit_index": 5,
       "expression_quantity": 8,
@@ -4155,9 +3904,8 @@
       "why_valuable": "First modern Blue Spot batches; cask-strength Spot; Madeira component uncommon",
       "photos": [
         {
-          "file": "20261105_141237 (3).jpg",
-          "thumb": "images/thumbs/20261105_141237_3.jpg",
-          "full": "images/full/20261105_141237_3.jpg"
+          "thumb": "images/thumbs/u126.jpg",
+          "full": "images/full/u126.jpg"
         }
       ],
       "public_price_eur": null,
@@ -4168,7 +3916,6 @@
       "id": "u127",
       "expression_id": "w019",
       "expression_name": "Blue Spot 7 Year Old Cask Strength",
-      "photo_filename": "20261105_141237 (4).jpg",
       "stock_order": 127,
       "unit_index": 6,
       "expression_quantity": 8,
@@ -4188,9 +3935,8 @@
       "why_valuable": "First modern Blue Spot batches; cask-strength Spot; Madeira component uncommon",
       "photos": [
         {
-          "file": "20261105_141237 (4).jpg",
-          "thumb": "images/thumbs/20261105_141237_4.jpg",
-          "full": "images/full/20261105_141237_4.jpg"
+          "thumb": "images/thumbs/u127.jpg",
+          "full": "images/full/u127.jpg"
         }
       ],
       "public_price_eur": null,
@@ -4201,7 +3947,6 @@
       "id": "u128",
       "expression_id": "w019",
       "expression_name": "Blue Spot 7 Year Old Cask Strength",
-      "photo_filename": "20261105_141237 (5).jpg",
       "stock_order": 128,
       "unit_index": 7,
       "expression_quantity": 8,
@@ -4221,9 +3966,8 @@
       "why_valuable": "First modern Blue Spot batches; cask-strength Spot; Madeira component uncommon",
       "photos": [
         {
-          "file": "20261105_141237 (5).jpg",
-          "thumb": "images/thumbs/20261105_141237_5.jpg",
-          "full": "images/full/20261105_141237_5.jpg"
+          "thumb": "images/thumbs/u128.jpg",
+          "full": "images/full/u128.jpg"
         }
       ],
       "public_price_eur": null,
@@ -4234,7 +3978,6 @@
       "id": "u129",
       "expression_id": "w019",
       "expression_name": "Blue Spot 7 Year Old Cask Strength",
-      "photo_filename": "20261105_141237.jpg",
       "stock_order": 129,
       "unit_index": 8,
       "expression_quantity": 8,
@@ -4254,9 +3997,8 @@
       "why_valuable": "First modern Blue Spot batches; cask-strength Spot; Madeira component uncommon",
       "photos": [
         {
-          "file": "20261105_141237.jpg",
-          "thumb": "images/thumbs/20261105_141237.jpg",
-          "full": "images/full/20261105_141237.jpg"
+          "thumb": "images/thumbs/u129.jpg",
+          "full": "images/full/u129.jpg"
         }
       ],
       "public_price_eur": null,
@@ -4267,7 +4009,6 @@
       "id": "u130",
       "expression_id": "w113",
       "expression_name": "Waterford Micro Cuvée Hearth",
-      "photo_filename": "20261105_141329 (1).jpg",
       "stock_order": 130,
       "unit_index": 1,
       "expression_quantity": 4,
@@ -4287,9 +4028,8 @@
       "why_valuable": "Named Micro Cuvée short run",
       "photos": [
         {
-          "file": "20261105_141329 (1).jpg",
-          "thumb": "images/thumbs/20261105_141329_1.jpg",
-          "full": "images/full/20261105_141329_1.jpg"
+          "thumb": "images/thumbs/u130.jpg",
+          "full": "images/full/u130.jpg"
         }
       ],
       "public_price_eur": null,
@@ -4300,7 +4040,6 @@
       "id": "u131",
       "expression_id": "w113",
       "expression_name": "Waterford Micro Cuvée Hearth",
-      "photo_filename": "20261105_141329 (2).jpg",
       "stock_order": 131,
       "unit_index": 2,
       "expression_quantity": 4,
@@ -4320,9 +4059,8 @@
       "why_valuable": "Named Micro Cuvée short run",
       "photos": [
         {
-          "file": "20261105_141329 (2).jpg",
-          "thumb": "images/thumbs/20261105_141329_2.jpg",
-          "full": "images/full/20261105_141329_2.jpg"
+          "thumb": "images/thumbs/u131.jpg",
+          "full": "images/full/u131.jpg"
         }
       ],
       "public_price_eur": null,
@@ -4333,7 +4071,6 @@
       "id": "u132",
       "expression_id": "w113",
       "expression_name": "Waterford Micro Cuvée Hearth",
-      "photo_filename": "20261105_141329 (3).jpg",
       "stock_order": 132,
       "unit_index": 3,
       "expression_quantity": 4,
@@ -4353,9 +4090,8 @@
       "why_valuable": "Named Micro Cuvée short run",
       "photos": [
         {
-          "file": "20261105_141329 (3).jpg",
-          "thumb": "images/thumbs/20261105_141329_3.jpg",
-          "full": "images/full/20261105_141329_3.jpg"
+          "thumb": "images/thumbs/u132.jpg",
+          "full": "images/full/u132.jpg"
         }
       ],
       "public_price_eur": null,
@@ -4366,7 +4102,6 @@
       "id": "u133",
       "expression_id": "w113",
       "expression_name": "Waterford Micro Cuvée Hearth",
-      "photo_filename": "20261105_141329.jpg",
       "stock_order": 133,
       "unit_index": 4,
       "expression_quantity": 4,
@@ -4386,9 +4121,8 @@
       "why_valuable": "Named Micro Cuvée short run",
       "photos": [
         {
-          "file": "20261105_141329.jpg",
-          "thumb": "images/thumbs/20261105_141329.jpg",
-          "full": "images/full/20261105_141329.jpg"
+          "thumb": "images/thumbs/u133.jpg",
+          "full": "images/full/u133.jpg"
         }
       ],
       "public_price_eur": null,
@@ -4399,7 +4133,6 @@
       "id": "u134",
       "expression_id": "w215",
       "expression_name": "Waterford Single Farm Origin Hook Head Edition 1.1",
-      "photo_filename": "20261105_141528.jpg",
       "stock_order": 134,
       "unit_index": 1,
       "expression_quantity": 1,
@@ -4419,9 +4152,8 @@
       "why_valuable": "Farm-specific barley provenance in the early Waterford range",
       "photos": [
         {
-          "file": "20261105_141528.jpg",
-          "thumb": "images/thumbs/20261105_141528.jpg",
-          "full": "images/full/20261105_141528.jpg"
+          "thumb": "images/thumbs/u134.jpg",
+          "full": "images/full/u134.jpg"
         }
       ],
       "public_price_eur": null,
@@ -4432,7 +4164,6 @@
       "id": "u135",
       "expression_id": "w216",
       "expression_name": "Jameson Remastered JJ’s 15 Year Old Single Pot Still",
-      "photo_filename": "20261105_141857.jpg",
       "stock_order": 135,
       "unit_index": 1,
       "expression_quantity": 1,
@@ -4452,9 +4183,8 @@
       "why_valuable": "Distinct Remastered release with numbered presentation",
       "photos": [
         {
-          "file": "20261105_141857.jpg",
-          "thumb": "images/thumbs/20261105_141857.jpg",
-          "full": "images/full/20261105_141857.jpg"
+          "thumb": "images/thumbs/u135.jpg",
+          "full": "images/full/u135.jpg"
         }
       ],
       "public_price_eur": null,
@@ -4465,7 +4195,6 @@
       "id": "u136",
       "expression_id": "w049",
       "expression_name": "The Irishman Cask Strength 2022",
-      "photo_filename": "20261105_142001.jpg",
       "stock_order": 136,
       "unit_index": 1,
       "expression_quantity": 1,
@@ -4485,9 +4214,8 @@
       "why_valuable": "Year-dated CS; scarcer than NAS Irishman",
       "photos": [
         {
-          "file": "20261105_142001.jpg",
-          "thumb": "images/thumbs/20261105_142001.jpg",
-          "full": "images/full/20261105_142001.jpg"
+          "thumb": "images/thumbs/u136.jpg",
+          "full": "images/full/u136.jpg"
         }
       ],
       "public_price_eur": null,
@@ -4498,7 +4226,6 @@
       "id": "u137",
       "expression_id": "w050",
       "expression_name": "Natterjack Cask Strength",
-      "photo_filename": "20261105_143858.jpg",
       "stock_order": 137,
       "unit_index": 1,
       "expression_quantity": 2,
@@ -4518,9 +4245,8 @@
       "why_valuable": "Uncertain — verify expression",
       "photos": [
         {
-          "file": "20261105_143858.jpg",
-          "thumb": "images/thumbs/20261105_143858.jpg",
-          "full": "images/full/20261105_143858.jpg"
+          "thumb": "images/thumbs/u137.jpg",
+          "full": "images/full/u137.jpg"
         }
       ],
       "public_price_eur": null,
@@ -4531,7 +4257,6 @@
       "id": "u138",
       "expression_id": "w050",
       "expression_name": "Natterjack Cask Strength",
-      "photo_filename": "20261105_143924.jpg",
       "stock_order": 138,
       "unit_index": 2,
       "expression_quantity": 2,
@@ -4551,9 +4276,8 @@
       "why_valuable": "Uncertain — verify expression",
       "photos": [
         {
-          "file": "20261105_143924.jpg",
-          "thumb": "images/thumbs/20261105_143924.jpg",
-          "full": "images/full/20261105_143924.jpg"
+          "thumb": "images/thumbs/u138.jpg",
+          "full": "images/full/u138.jpg"
         }
       ],
       "public_price_eur": null,
@@ -4564,7 +4288,6 @@
       "id": "u139",
       "expression_id": "w056",
       "expression_name": "Midleton Very Rare 2023",
-      "photo_filename": "20261106_103030.jpg",
       "stock_order": 139,
       "unit_index": 1,
       "expression_quantity": 5,
@@ -4584,9 +4307,8 @@
       "why_valuable": "2023 MVR vintage; numbered collectible",
       "photos": [
         {
-          "file": "20261106_103030.jpg",
-          "thumb": "images/thumbs/20261106_103030.jpg",
-          "full": "images/full/20261106_103030.jpg"
+          "thumb": "images/thumbs/u139.jpg",
+          "full": "images/full/u139.jpg"
         }
       ],
       "public_price_eur": null,
@@ -4597,7 +4319,6 @@
       "id": "u140",
       "expression_id": "w056",
       "expression_name": "Midleton Very Rare 2023",
-      "photo_filename": "20261106_103146.jpg",
       "stock_order": 140,
       "unit_index": 2,
       "expression_quantity": 5,
@@ -4617,9 +4338,8 @@
       "why_valuable": "2023 MVR vintage; numbered collectible",
       "photos": [
         {
-          "file": "20261106_103146.jpg",
-          "thumb": "images/thumbs/20261106_103146.jpg",
-          "full": "images/full/20261106_103146.jpg"
+          "thumb": "images/thumbs/u140.jpg",
+          "full": "images/full/u140.jpg"
         }
       ],
       "public_price_eur": null,
@@ -4630,7 +4350,6 @@
       "id": "u141",
       "expression_id": "w056",
       "expression_name": "Midleton Very Rare 2023",
-      "photo_filename": "20261106_103348.jpg",
       "stock_order": 141,
       "unit_index": 3,
       "expression_quantity": 5,
@@ -4650,9 +4369,8 @@
       "why_valuable": "2023 MVR vintage; numbered collectible",
       "photos": [
         {
-          "file": "20261106_103348.jpg",
-          "thumb": "images/thumbs/20261106_103348.jpg",
-          "full": "images/full/20261106_103348.jpg"
+          "thumb": "images/thumbs/u141.jpg",
+          "full": "images/full/u141.jpg"
         }
       ],
       "public_price_eur": null,
@@ -4663,7 +4381,6 @@
       "id": "u142",
       "expression_id": "w056",
       "expression_name": "Midleton Very Rare 2023",
-      "photo_filename": "20261106_103710.jpg",
       "stock_order": 142,
       "unit_index": 4,
       "expression_quantity": 5,
@@ -4683,9 +4400,8 @@
       "why_valuable": "2023 MVR vintage; numbered collectible",
       "photos": [
         {
-          "file": "20261106_103710.jpg",
-          "thumb": "images/thumbs/20261106_103710.jpg",
-          "full": "images/full/20261106_103710.jpg"
+          "thumb": "images/thumbs/u142.jpg",
+          "full": "images/full/u142.jpg"
         }
       ],
       "public_price_eur": null,
@@ -4696,7 +4412,6 @@
       "id": "u143",
       "expression_id": "w116",
       "expression_name": "Redbreast 16 Year Old Oloroso Single Cask — Friends of Midleton",
-      "photo_filename": "20261106_103818.jpg",
       "stock_order": 143,
       "unit_index": 1,
       "expression_quantity": 1,
@@ -4716,9 +4431,8 @@
       "why_valuable": "FoM exclusive; 654 bottles; named cask; CS",
       "photos": [
         {
-          "file": "20261106_103818.jpg",
-          "thumb": "images/thumbs/20261106_103818.jpg",
-          "full": "images/full/20261106_103818.jpg"
+          "thumb": "images/thumbs/u143.jpg",
+          "full": "images/full/u143.jpg"
         }
       ],
       "public_price_eur": null,
@@ -4729,7 +4443,6 @@
       "id": "u144",
       "expression_id": "w117",
       "expression_name": "The Macallan Harmony Collection Smooth Arabica",
-      "photo_filename": "20261106_104021.jpg",
       "stock_order": 144,
       "unit_index": 1,
       "expression_quantity": 2,
@@ -4749,9 +4462,8 @@
       "why_valuable": "Travel Harmony + sustainable pack; Arabica pair with Intense",
       "photos": [
         {
-          "file": "20261106_104021.jpg",
-          "thumb": "images/thumbs/20261106_104021.jpg",
-          "full": "images/full/20261106_104021.jpg"
+          "thumb": "images/thumbs/u144.jpg",
+          "full": "images/full/u144.jpg"
         }
       ],
       "public_price_eur": null,
@@ -4762,7 +4474,6 @@
       "id": "u145",
       "expression_id": "w117",
       "expression_name": "The Macallan Harmony Collection Smooth Arabica",
-      "photo_filename": "20261106_104059.jpg",
       "stock_order": 145,
       "unit_index": 2,
       "expression_quantity": 2,
@@ -4782,9 +4493,8 @@
       "why_valuable": "Travel Harmony + sustainable pack; Arabica pair with Intense",
       "photos": [
         {
-          "file": "20261106_104059.jpg",
-          "thumb": "images/thumbs/20261106_104059.jpg",
-          "full": "images/full/20261106_104059.jpg"
+          "thumb": "images/thumbs/u145.jpg",
+          "full": "images/full/u145.jpg"
         }
       ],
       "public_price_eur": null,
@@ -4795,7 +4505,6 @@
       "id": "u146",
       "expression_id": "w217",
       "expression_name": "Redbreast Dream Cask 38 Year Old — Zenith Edition",
-      "photo_filename": "20261106_104351.jpg",
       "stock_order": 146,
       "unit_index": 1,
       "expression_quantity": 3,
@@ -4815,9 +4524,8 @@
       "why_valuable": "Thirty-eight-year age statement and numbered Dream Cask release",
       "photos": [
         {
-          "file": "20261106_104351.jpg",
-          "thumb": "images/thumbs/20261106_104351.jpg",
-          "full": "images/full/20261106_104351.jpg"
+          "thumb": "images/thumbs/u146.jpg",
+          "full": "images/full/u146.jpg"
         }
       ],
       "public_price_eur": null,
@@ -4828,7 +4536,6 @@
       "id": "u147",
       "expression_id": "w217",
       "expression_name": "Redbreast Dream Cask 38 Year Old — Zenith Edition",
-      "photo_filename": "20261106_104804.jpg",
       "stock_order": 147,
       "unit_index": 2,
       "expression_quantity": 3,
@@ -4848,9 +4555,8 @@
       "why_valuable": "Thirty-eight-year age statement and numbered Dream Cask release",
       "photos": [
         {
-          "file": "20261106_104804.jpg",
-          "thumb": "images/thumbs/20261106_104804.jpg",
-          "full": "images/full/20261106_104804.jpg"
+          "thumb": "images/thumbs/u147.jpg",
+          "full": "images/full/u147.jpg"
         }
       ],
       "public_price_eur": null,
@@ -4861,7 +4567,6 @@
       "id": "u148",
       "expression_id": "w217",
       "expression_name": "Redbreast Dream Cask 38 Year Old — Zenith Edition",
-      "photo_filename": "20261106_104943.jpg",
       "stock_order": 148,
       "unit_index": 3,
       "expression_quantity": 3,
@@ -4881,9 +4586,8 @@
       "why_valuable": "Thirty-eight-year age statement and numbered Dream Cask release",
       "photos": [
         {
-          "file": "20261106_104943.jpg",
-          "thumb": "images/thumbs/20261106_104943.jpg",
-          "full": "images/full/20261106_104943.jpg"
+          "thumb": "images/thumbs/u148.jpg",
+          "full": "images/full/u148.jpg"
         }
       ],
       "public_price_eur": null,
@@ -4894,7 +4598,6 @@
       "id": "u149",
       "expression_id": "w054",
       "expression_name": "Midleton Very Rare 2024",
-      "photo_filename": "20261106_105312.jpg",
       "stock_order": 149,
       "unit_index": 1,
       "expression_quantity": 3,
@@ -4914,9 +4617,8 @@
       "why_valuable": "Newest MVR vintage; early sealed bottles for year sets",
       "photos": [
         {
-          "file": "20261106_105312.jpg",
-          "thumb": "images/thumbs/20261106_105312.jpg",
-          "full": "images/full/20261106_105312.jpg"
+          "thumb": "images/thumbs/u149.jpg",
+          "full": "images/full/u149.jpg"
         }
       ],
       "public_price_eur": null,
@@ -4927,7 +4629,6 @@
       "id": "u150",
       "expression_id": "w054",
       "expression_name": "Midleton Very Rare 2024",
-      "photo_filename": "20261106_105424.jpg",
       "stock_order": 150,
       "unit_index": 2,
       "expression_quantity": 3,
@@ -4947,9 +4648,8 @@
       "why_valuable": "Newest MVR vintage; early sealed bottles for year sets",
       "photos": [
         {
-          "file": "20261106_105424.jpg",
-          "thumb": "images/thumbs/20261106_105424.jpg",
-          "full": "images/full/20261106_105424.jpg"
+          "thumb": "images/thumbs/u150.jpg",
+          "full": "images/full/u150.jpg"
         }
       ],
       "public_price_eur": null,
@@ -4960,7 +4660,6 @@
       "id": "u151",
       "expression_id": "w054",
       "expression_name": "Midleton Very Rare 2024",
-      "photo_filename": "20261106_105536.jpg",
       "stock_order": 151,
       "unit_index": 3,
       "expression_quantity": 3,
@@ -4980,9 +4679,8 @@
       "why_valuable": "Newest MVR vintage; early sealed bottles for year sets",
       "photos": [
         {
-          "file": "20261106_105536.jpg",
-          "thumb": "images/thumbs/20261106_105536.jpg",
-          "full": "images/full/20261106_105536.jpg"
+          "thumb": "images/thumbs/u151.jpg",
+          "full": "images/full/u151.jpg"
         }
       ],
       "public_price_eur": null,
@@ -4993,7 +4691,6 @@
       "id": "u152",
       "expression_id": "w055",
       "expression_name": "Midleton Very Rare 2021",
-      "photo_filename": "20261106_105821.jpg",
       "stock_order": 152,
       "unit_index": 1,
       "expression_quantity": 8,
@@ -5013,9 +4710,8 @@
       "why_valuable": "",
       "photos": [
         {
-          "file": "20261106_105821.jpg",
-          "thumb": "images/thumbs/20261106_105821.jpg",
-          "full": "images/full/20261106_105821.jpg"
+          "thumb": "images/thumbs/u152.jpg",
+          "full": "images/full/u152.jpg"
         }
       ],
       "public_price_eur": null,
@@ -5026,7 +4722,6 @@
       "id": "u153",
       "expression_id": "w055",
       "expression_name": "Midleton Very Rare 2021",
-      "photo_filename": "20261106_110002.jpg",
       "stock_order": 153,
       "unit_index": 2,
       "expression_quantity": 8,
@@ -5046,9 +4741,8 @@
       "why_valuable": "",
       "photos": [
         {
-          "file": "20261106_110002.jpg",
-          "thumb": "images/thumbs/20261106_110002.jpg",
-          "full": "images/full/20261106_110002.jpg"
+          "thumb": "images/thumbs/u153.jpg",
+          "full": "images/full/u153.jpg"
         }
       ],
       "public_price_eur": null,
@@ -5059,7 +4753,6 @@
       "id": "u154",
       "expression_id": "w055",
       "expression_name": "Midleton Very Rare 2021",
-      "photo_filename": "20261106_110146.jpg",
       "stock_order": 154,
       "unit_index": 3,
       "expression_quantity": 8,
@@ -5079,9 +4772,8 @@
       "why_valuable": "",
       "photos": [
         {
-          "file": "20261106_110146.jpg",
-          "thumb": "images/thumbs/20261106_110146.jpg",
-          "full": "images/full/20261106_110146.jpg"
+          "thumb": "images/thumbs/u154.jpg",
+          "full": "images/full/u154.jpg"
         }
       ],
       "public_price_eur": null,
@@ -5092,7 +4784,6 @@
       "id": "u155",
       "expression_id": "w055",
       "expression_name": "Midleton Very Rare 2021",
-      "photo_filename": "20261106_110424.jpg",
       "stock_order": 155,
       "unit_index": 4,
       "expression_quantity": 8,
@@ -5112,9 +4803,8 @@
       "why_valuable": "",
       "photos": [
         {
-          "file": "20261106_110424.jpg",
-          "thumb": "images/thumbs/20261106_110424.jpg",
-          "full": "images/full/20261106_110424.jpg"
+          "thumb": "images/thumbs/u155.jpg",
+          "full": "images/full/u155.jpg"
         }
       ],
       "public_price_eur": null,
@@ -5125,7 +4815,6 @@
       "id": "u156",
       "expression_id": "w055",
       "expression_name": "Midleton Very Rare 2021",
-      "photo_filename": "20261106_110601.jpg",
       "stock_order": 156,
       "unit_index": 5,
       "expression_quantity": 8,
@@ -5145,9 +4834,8 @@
       "why_valuable": "",
       "photos": [
         {
-          "file": "20261106_110601.jpg",
-          "thumb": "images/thumbs/20261106_110601.jpg",
-          "full": "images/full/20261106_110601.jpg"
+          "thumb": "images/thumbs/u156.jpg",
+          "full": "images/full/u156.jpg"
         }
       ],
       "public_price_eur": null,
@@ -5158,7 +4846,6 @@
       "id": "u157",
       "expression_id": "w055",
       "expression_name": "Midleton Very Rare 2021",
-      "photo_filename": "20261106_110757.jpg",
       "stock_order": 157,
       "unit_index": 6,
       "expression_quantity": 8,
@@ -5178,9 +4865,8 @@
       "why_valuable": "",
       "photos": [
         {
-          "file": "20261106_110757.jpg",
-          "thumb": "images/thumbs/20261106_110757.jpg",
-          "full": "images/full/20261106_110757.jpg"
+          "thumb": "images/thumbs/u157.jpg",
+          "full": "images/full/u157.jpg"
         }
       ],
       "public_price_eur": null,
@@ -5191,7 +4877,6 @@
       "id": "u158",
       "expression_id": "w056",
       "expression_name": "Midleton Very Rare 2023",
-      "photo_filename": "20261106_110930.jpg",
       "stock_order": 158,
       "unit_index": 5,
       "expression_quantity": 5,
@@ -5211,9 +4896,8 @@
       "why_valuable": "2023 MVR vintage; numbered collectible",
       "photos": [
         {
-          "file": "20261106_110930.jpg",
-          "thumb": "images/thumbs/20261106_110930.jpg",
-          "full": "images/full/20261106_110930.jpg"
+          "thumb": "images/thumbs/u158.jpg",
+          "full": "images/full/u158.jpg"
         }
       ],
       "public_price_eur": null,
@@ -5224,7 +4908,6 @@
       "id": "u159",
       "expression_id": "w057",
       "expression_name": "The Macallan Classic Cut 2022",
-      "photo_filename": "20261106_111342 (1).jpg",
       "stock_order": 159,
       "unit_index": 1,
       "expression_quantity": 11,
@@ -5244,9 +4927,8 @@
       "why_valuable": "Annual Classic Cut; year-dated collectible",
       "photos": [
         {
-          "file": "20261106_111342 (1).jpg",
-          "thumb": "images/thumbs/20261106_111342_1.jpg",
-          "full": "images/full/20261106_111342_1.jpg"
+          "thumb": "images/thumbs/u159.jpg",
+          "full": "images/full/u159.jpg"
         }
       ],
       "public_price_eur": null,
@@ -5257,7 +4939,6 @@
       "id": "u160",
       "expression_id": "w057",
       "expression_name": "The Macallan Classic Cut 2022",
-      "photo_filename": "20261106_111342 (10).jpg",
       "stock_order": 160,
       "unit_index": 2,
       "expression_quantity": 11,
@@ -5277,9 +4958,8 @@
       "why_valuable": "Annual Classic Cut; year-dated collectible",
       "photos": [
         {
-          "file": "20261106_111342 (10).jpg",
-          "thumb": "images/thumbs/20261106_111342_10.jpg",
-          "full": "images/full/20261106_111342_10.jpg"
+          "thumb": "images/thumbs/u160.jpg",
+          "full": "images/full/u160.jpg"
         }
       ],
       "public_price_eur": null,
@@ -5290,7 +4970,6 @@
       "id": "u161",
       "expression_id": "w057",
       "expression_name": "The Macallan Classic Cut 2022",
-      "photo_filename": "20261106_111342 (2).jpg",
       "stock_order": 161,
       "unit_index": 3,
       "expression_quantity": 11,
@@ -5310,9 +4989,8 @@
       "why_valuable": "Annual Classic Cut; year-dated collectible",
       "photos": [
         {
-          "file": "20261106_111342 (2).jpg",
-          "thumb": "images/thumbs/20261106_111342_2.jpg",
-          "full": "images/full/20261106_111342_2.jpg"
+          "thumb": "images/thumbs/u161.jpg",
+          "full": "images/full/u161.jpg"
         }
       ],
       "public_price_eur": null,
@@ -5323,7 +5001,6 @@
       "id": "u162",
       "expression_id": "w057",
       "expression_name": "The Macallan Classic Cut 2022",
-      "photo_filename": "20261106_111342 (3).jpg",
       "stock_order": 162,
       "unit_index": 4,
       "expression_quantity": 11,
@@ -5343,9 +5020,8 @@
       "why_valuable": "Annual Classic Cut; year-dated collectible",
       "photos": [
         {
-          "file": "20261106_111342 (3).jpg",
-          "thumb": "images/thumbs/20261106_111342_3.jpg",
-          "full": "images/full/20261106_111342_3.jpg"
+          "thumb": "images/thumbs/u162.jpg",
+          "full": "images/full/u162.jpg"
         }
       ],
       "public_price_eur": null,
@@ -5356,7 +5032,6 @@
       "id": "u163",
       "expression_id": "w057",
       "expression_name": "The Macallan Classic Cut 2022",
-      "photo_filename": "20261106_111342 (4).jpg",
       "stock_order": 163,
       "unit_index": 5,
       "expression_quantity": 11,
@@ -5376,9 +5051,8 @@
       "why_valuable": "Annual Classic Cut; year-dated collectible",
       "photos": [
         {
-          "file": "20261106_111342 (4).jpg",
-          "thumb": "images/thumbs/20261106_111342_4.jpg",
-          "full": "images/full/20261106_111342_4.jpg"
+          "thumb": "images/thumbs/u163.jpg",
+          "full": "images/full/u163.jpg"
         }
       ],
       "public_price_eur": null,
@@ -5389,7 +5063,6 @@
       "id": "u164",
       "expression_id": "w057",
       "expression_name": "The Macallan Classic Cut 2022",
-      "photo_filename": "20261106_111342 (5).jpg",
       "stock_order": 164,
       "unit_index": 6,
       "expression_quantity": 11,
@@ -5409,9 +5082,8 @@
       "why_valuable": "Annual Classic Cut; year-dated collectible",
       "photos": [
         {
-          "file": "20261106_111342 (5).jpg",
-          "thumb": "images/thumbs/20261106_111342_5.jpg",
-          "full": "images/full/20261106_111342_5.jpg"
+          "thumb": "images/thumbs/u164.jpg",
+          "full": "images/full/u164.jpg"
         }
       ],
       "public_price_eur": null,
@@ -5422,7 +5094,6 @@
       "id": "u165",
       "expression_id": "w057",
       "expression_name": "The Macallan Classic Cut 2022",
-      "photo_filename": "20261106_111342 (6).jpg",
       "stock_order": 165,
       "unit_index": 7,
       "expression_quantity": 11,
@@ -5442,9 +5113,8 @@
       "why_valuable": "Annual Classic Cut; year-dated collectible",
       "photos": [
         {
-          "file": "20261106_111342 (6).jpg",
-          "thumb": "images/thumbs/20261106_111342_6.jpg",
-          "full": "images/full/20261106_111342_6.jpg"
+          "thumb": "images/thumbs/u165.jpg",
+          "full": "images/full/u165.jpg"
         }
       ],
       "public_price_eur": null,
@@ -5455,7 +5125,6 @@
       "id": "u166",
       "expression_id": "w057",
       "expression_name": "The Macallan Classic Cut 2022",
-      "photo_filename": "20261106_111342 (7).jpg",
       "stock_order": 166,
       "unit_index": 8,
       "expression_quantity": 11,
@@ -5475,9 +5144,8 @@
       "why_valuable": "Annual Classic Cut; year-dated collectible",
       "photos": [
         {
-          "file": "20261106_111342 (7).jpg",
-          "thumb": "images/thumbs/20261106_111342_7.jpg",
-          "full": "images/full/20261106_111342_7.jpg"
+          "thumb": "images/thumbs/u166.jpg",
+          "full": "images/full/u166.jpg"
         }
       ],
       "public_price_eur": null,
@@ -5488,7 +5156,6 @@
       "id": "u167",
       "expression_id": "w057",
       "expression_name": "The Macallan Classic Cut 2022",
-      "photo_filename": "20261106_111342 (8).jpg",
       "stock_order": 167,
       "unit_index": 9,
       "expression_quantity": 11,
@@ -5508,9 +5175,8 @@
       "why_valuable": "Annual Classic Cut; year-dated collectible",
       "photos": [
         {
-          "file": "20261106_111342 (8).jpg",
-          "thumb": "images/thumbs/20261106_111342_8.jpg",
-          "full": "images/full/20261106_111342_8.jpg"
+          "thumb": "images/thumbs/u167.jpg",
+          "full": "images/full/u167.jpg"
         }
       ],
       "public_price_eur": null,
@@ -5521,7 +5187,6 @@
       "id": "u168",
       "expression_id": "w057",
       "expression_name": "The Macallan Classic Cut 2022",
-      "photo_filename": "20261106_111342 (9).jpg",
       "stock_order": 168,
       "unit_index": 10,
       "expression_quantity": 11,
@@ -5541,9 +5206,8 @@
       "why_valuable": "Annual Classic Cut; year-dated collectible",
       "photos": [
         {
-          "file": "20261106_111342 (9).jpg",
-          "thumb": "images/thumbs/20261106_111342_9.jpg",
-          "full": "images/full/20261106_111342_9.jpg"
+          "thumb": "images/thumbs/u168.jpg",
+          "full": "images/full/u168.jpg"
         }
       ],
       "public_price_eur": null,
@@ -5554,7 +5218,6 @@
       "id": "u169",
       "expression_id": "w057",
       "expression_name": "The Macallan Classic Cut 2022",
-      "photo_filename": "20261106_111342.jpg",
       "stock_order": 169,
       "unit_index": 11,
       "expression_quantity": 11,
@@ -5574,9 +5237,8 @@
       "why_valuable": "Annual Classic Cut; year-dated collectible",
       "photos": [
         {
-          "file": "20261106_111342.jpg",
-          "thumb": "images/thumbs/20261106_111342.jpg",
-          "full": "images/full/20261106_111342.jpg"
+          "thumb": "images/thumbs/u169.jpg",
+          "full": "images/full/u169.jpg"
         }
       ],
       "public_price_eur": null,
@@ -5587,7 +5249,6 @@
       "id": "u170",
       "expression_id": "w062",
       "expression_name": "Bushmills 1608 Anniversary Edition",
-      "photo_filename": "20261106_111634.jpg",
       "stock_order": 170,
       "unit_index": 1,
       "expression_quantity": 1,
@@ -5607,9 +5268,8 @@
       "why_valuable": "Anniversary packaging collectible; verify liquid specs",
       "photos": [
         {
-          "file": "20261106_111634.jpg",
-          "thumb": "images/thumbs/20261106_111634.jpg",
-          "full": "images/full/20261106_111634.jpg"
+          "thumb": "images/thumbs/u170.jpg",
+          "full": "images/full/u170.jpg"
         }
       ],
       "public_price_eur": null,
@@ -5620,7 +5280,6 @@
       "id": "u171",
       "expression_id": "w051",
       "expression_name": "Midleton Very Rare 2022",
-      "photo_filename": "20261106_111806.jpg",
       "stock_order": 171,
       "unit_index": 1,
       "expression_quantity": 2,
@@ -5640,9 +5299,8 @@
       "why_valuable": "Dated MVR vintage; numbered + signed; year-set collectors",
       "photos": [
         {
-          "file": "20261106_111806.jpg",
-          "thumb": "images/thumbs/20261106_111806.jpg",
-          "full": "images/full/20261106_111806.jpg"
+          "thumb": "images/thumbs/u171.jpg",
+          "full": "images/full/u171.jpg"
         }
       ],
       "public_price_eur": null,
@@ -5653,7 +5311,6 @@
       "id": "u172",
       "expression_id": "w119",
       "expression_name": "The Macallan Rare Cask 2022 Release",
-      "photo_filename": "20261106_112002.jpg",
       "stock_order": 172,
       "unit_index": 1,
       "expression_quantity": 1,
@@ -5673,9 +5330,8 @@
       "why_valuable": "Year-dated Rare Cask for annual sets",
       "photos": [
         {
-          "file": "20261106_112002.jpg",
-          "thumb": "images/thumbs/20261106_112002.jpg",
-          "full": "images/full/20261106_112002.jpg"
+          "thumb": "images/thumbs/u172.jpg",
+          "full": "images/full/u172.jpg"
         }
       ],
       "public_price_eur": null,
@@ -5686,7 +5342,6 @@
       "id": "u173",
       "expression_id": "w065",
       "expression_name": "The Macallan Enigma",
-      "photo_filename": "20261106_112236.jpg",
       "stock_order": 173,
       "unit_index": 1,
       "expression_quantity": 1,
@@ -5706,9 +5361,8 @@
       "why_valuable": "Quest Collection top expression; travel-only scarcity",
       "photos": [
         {
-          "file": "20261106_112236.jpg",
-          "thumb": "images/thumbs/20261106_112236.jpg",
-          "full": "images/full/20261106_112236.jpg"
+          "thumb": "images/thumbs/u173.jpg",
+          "full": "images/full/u173.jpg"
         }
       ],
       "public_price_eur": null,
@@ -5719,7 +5373,6 @@
       "id": "u174",
       "expression_id": "w121",
       "expression_name": "Midleton Single Pot Still Single Cask 1997 — CÆSAR Club Romania",
-      "photo_filename": "20261106_112405.jpg",
       "stock_order": 174,
       "unit_index": 2,
       "expression_quantity": 2,
@@ -5739,9 +5392,8 @@
       "why_valuable": "198 bottles; club exclusive; 1997 bourbon single cask CS",
       "photos": [
         {
-          "file": "20261106_112405.jpg",
-          "thumb": "images/thumbs/20261106_112405.jpg",
-          "full": "images/full/20261106_112405.jpg"
+          "thumb": "images/thumbs/u174.jpg",
+          "full": "images/full/u174.jpg"
         }
       ],
       "public_price_eur": null,
@@ -5752,7 +5404,6 @@
       "id": "u175",
       "expression_id": "w122",
       "expression_name": "Powers 12 Year Old Single Cask — Friends of Midleton",
-      "photo_filename": "20261106_112500.jpg",
       "stock_order": 175,
       "unit_index": 1,
       "expression_quantity": 1,
@@ -5772,9 +5423,8 @@
       "why_valuable": "FoM Powers; only ~204 bottles",
       "photos": [
         {
-          "file": "20261106_112500.jpg",
-          "thumb": "images/thumbs/20261106_112500.jpg",
-          "full": "images/full/20261106_112500.jpg"
+          "thumb": "images/thumbs/u175.jpg",
+          "full": "images/full/u175.jpg"
         }
       ],
       "public_price_eur": null,
@@ -5785,7 +5435,6 @@
       "id": "u176",
       "expression_id": "w218",
       "expression_name": "Midleton Very Rare Single Cask 25 Year Old — Bow St. Distilleries",
-      "photo_filename": "20261106_112824.jpg",
       "stock_order": 176,
       "unit_index": 1,
       "expression_quantity": 1,
@@ -5805,9 +5454,8 @@
       "why_valuable": "A 25-year first-fill bourbon single cask with a 174-bottle outturn",
       "photos": [
         {
-          "file": "20261106_112824.jpg",
-          "thumb": "images/thumbs/20261106_112824.jpg",
-          "full": "images/full/20261106_112824.jpg"
+          "thumb": "images/thumbs/u176.jpg",
+          "full": "images/full/u176.jpg"
         }
       ],
       "public_price_eur": null,
@@ -5818,7 +5466,6 @@
       "id": "u177",
       "expression_id": "w219",
       "expression_name": "Redbreast Dream Cask 30 Year Old — Double Cask Edition",
-      "photo_filename": "20261106_113319.jpg",
       "stock_order": 177,
       "unit_index": 1,
       "expression_quantity": 1,
@@ -5838,9 +5485,8 @@
       "why_valuable": "Thirty-year age statement and limited Dream Cask vatting",
       "photos": [
         {
-          "file": "20261106_113319.jpg",
-          "thumb": "images/thumbs/20261106_113319.jpg",
-          "full": "images/full/20261106_113319.jpg"
+          "thumb": "images/thumbs/u177.jpg",
+          "full": "images/full/u177.jpg"
         }
       ],
       "public_price_eur": null,
@@ -5851,7 +5497,6 @@
       "id": "u178",
       "expression_id": "w021",
       "expression_name": "The Macallan Harmony Collection Rich Cacao",
-      "photo_filename": "20261106_113522 (1).jpg",
       "stock_order": 178,
       "unit_index": 2,
       "expression_quantity": 3,
@@ -5871,9 +5516,8 @@
       "why_valuable": "The original chocolate-themed Harmony Collection release with distinctive packaging",
       "photos": [
         {
-          "file": "20261106_113522 (1).jpg",
-          "thumb": "images/thumbs/20261106_113522_1.jpg",
-          "full": "images/full/20261106_113522_1.jpg"
+          "thumb": "images/thumbs/u178.jpg",
+          "full": "images/full/u178.jpg"
         }
       ],
       "public_price_eur": null,
@@ -5884,7 +5528,6 @@
       "id": "u179",
       "expression_id": "w021",
       "expression_name": "The Macallan Harmony Collection Rich Cacao",
-      "photo_filename": "20261106_113522.jpg",
       "stock_order": 179,
       "unit_index": 3,
       "expression_quantity": 3,
@@ -5904,9 +5547,8 @@
       "why_valuable": "The original chocolate-themed Harmony Collection release with distinctive packaging",
       "photos": [
         {
-          "file": "20261106_113522.jpg",
-          "thumb": "images/thumbs/20261106_113522.jpg",
-          "full": "images/full/20261106_113522.jpg"
+          "thumb": "images/thumbs/u179.jpg",
+          "full": "images/full/u179.jpg"
         }
       ],
       "public_price_eur": null,
@@ -5917,7 +5559,6 @@
       "id": "u180",
       "expression_id": "w051",
       "expression_name": "Midleton Very Rare 2022",
-      "photo_filename": "20261106_113701.jpg",
       "stock_order": 180,
       "unit_index": 2,
       "expression_quantity": 2,
@@ -5937,9 +5578,8 @@
       "why_valuable": "Dated MVR vintage; numbered + signed; year-set collectors",
       "photos": [
         {
-          "file": "20261106_113701.jpg",
-          "thumb": "images/thumbs/20261106_113701.jpg",
-          "full": "images/full/20261106_113701.jpg"
+          "thumb": "images/thumbs/u180.jpg",
+          "full": "images/full/u180.jpg"
         }
       ],
       "public_price_eur": null,
@@ -5950,7 +5590,6 @@
       "id": "u181",
       "expression_id": "w055",
       "expression_name": "Midleton Very Rare 2021",
-      "photo_filename": "20261106_113838.jpg",
       "stock_order": 181,
       "unit_index": 7,
       "expression_quantity": 8,
@@ -5970,9 +5609,8 @@
       "why_valuable": "",
       "photos": [
         {
-          "file": "20261106_113838.jpg",
-          "thumb": "images/thumbs/20261106_113838.jpg",
-          "full": "images/full/20261106_113838.jpg"
+          "thumb": "images/thumbs/u181.jpg",
+          "full": "images/full/u181.jpg"
         }
       ],
       "public_price_eur": null,
@@ -5983,7 +5621,6 @@
       "id": "u182",
       "expression_id": "w055",
       "expression_name": "Midleton Very Rare 2021",
-      "photo_filename": "20261106_114039.jpg",
       "stock_order": 182,
       "unit_index": 8,
       "expression_quantity": 8,
@@ -6003,9 +5640,8 @@
       "why_valuable": "",
       "photos": [
         {
-          "file": "20261106_114039.jpg",
-          "thumb": "images/thumbs/20261106_114039.jpg",
-          "full": "images/full/20261106_114039.jpg"
+          "thumb": "images/thumbs/u182.jpg",
+          "full": "images/full/u182.jpg"
         }
       ],
       "public_price_eur": null,
@@ -6016,7 +5652,6 @@
       "id": "u183",
       "expression_id": "w125",
       "expression_name": "The Macallan Aera",
-      "photo_filename": "20261106_114230.jpg",
       "stock_order": 183,
       "unit_index": 1,
       "expression_quantity": 1,
@@ -6036,9 +5671,8 @@
       "why_valuable": "Travel-only Aera; distinctive black bottle",
       "photos": [
         {
-          "file": "20261106_114230.jpg",
-          "thumb": "images/thumbs/20261106_114230.jpg",
-          "full": "images/full/20261106_114230.jpg"
+          "thumb": "images/thumbs/u183.jpg",
+          "full": "images/full/u183.jpg"
         }
       ],
       "public_price_eur": null,
@@ -6049,7 +5683,6 @@
       "id": "u184",
       "expression_id": "w126",
       "expression_name": "The Macallan Edition No.6",
-      "photo_filename": "20261106_114323.jpg",
       "stock_order": 184,
       "unit_index": 1,
       "expression_quantity": 3,
@@ -6069,9 +5702,8 @@
       "why_valuable": "Closed Edition series; Hardy collab; transparent cask story",
       "photos": [
         {
-          "file": "20261106_114323.jpg",
-          "thumb": "images/thumbs/20261106_114323.jpg",
-          "full": "images/full/20261106_114323.jpg"
+          "thumb": "images/thumbs/u184.jpg",
+          "full": "images/full/u184.jpg"
         }
       ],
       "public_price_eur": null,
@@ -6082,7 +5714,6 @@
       "id": "u185",
       "expression_id": "w127",
       "expression_name": "The Macallan Rare Cask Batch No.1 2019 Release",
-      "photo_filename": "20261106_114427.jpg",
       "stock_order": 185,
       "unit_index": 1,
       "expression_quantity": 1,
@@ -6102,9 +5733,8 @@
       "why_valuable": "Batch No.1 2019; early Rare Cask collectible",
       "photos": [
         {
-          "file": "20261106_114427.jpg",
-          "thumb": "images/thumbs/20261106_114427.jpg",
-          "full": "images/full/20261106_114427.jpg"
+          "thumb": "images/thumbs/u185.jpg",
+          "full": "images/full/u185.jpg"
         }
       ],
       "public_price_eur": null,
@@ -6115,7 +5745,6 @@
       "id": "u186",
       "expression_id": "w128",
       "expression_name": "The Macallan Rare Cask 2020 Release",
-      "photo_filename": "20261106_114522.jpg",
       "stock_order": 186,
       "unit_index": 1,
       "expression_quantity": 1,
@@ -6135,9 +5764,8 @@
       "why_valuable": "2020 Rare Cask year-set piece",
       "photos": [
         {
-          "file": "20261106_114522.jpg",
-          "thumb": "images/thumbs/20261106_114522.jpg",
-          "full": "images/full/20261106_114522.jpg"
+          "thumb": "images/thumbs/u186.jpg",
+          "full": "images/full/u186.jpg"
         }
       ],
       "public_price_eur": null,
@@ -6148,7 +5776,6 @@
       "id": "u187",
       "expression_id": "w129",
       "expression_name": "Green Spot Single Cask — Revolution Whiskey Bar",
-      "photo_filename": "20261106_114627.jpg",
       "stock_order": 187,
       "unit_index": 1,
       "expression_quantity": 1,
@@ -6168,9 +5795,8 @@
       "why_valuable": "174 bottles; bar exclusive; high CS",
       "photos": [
         {
-          "file": "20261106_114627.jpg",
-          "thumb": "images/thumbs/20261106_114627.jpg",
-          "full": "images/full/20261106_114627.jpg"
+          "thumb": "images/thumbs/u187.jpg",
+          "full": "images/full/u187.jpg"
         }
       ],
       "public_price_eur": null,
@@ -6181,7 +5807,6 @@
       "id": "u188",
       "expression_id": "w130",
       "expression_name": "Green Spot Single Cask — The Whisky Exchange (Marsala Butt)",
-      "photo_filename": "20261106_114721.jpg",
       "stock_order": 188,
       "unit_index": 1,
       "expression_quantity": 1,
@@ -6201,9 +5826,8 @@
       "why_valuable": "1991 distillate; Marsala butt; 576 bottles; TWE exclusive",
       "photos": [
         {
-          "file": "20261106_114721.jpg",
-          "thumb": "images/thumbs/20261106_114721.jpg",
-          "full": "images/full/20261106_114721.jpg"
+          "thumb": "images/thumbs/u188.jpg",
+          "full": "images/full/u188.jpg"
         }
       ],
       "public_price_eur": null,
@@ -6214,7 +5838,6 @@
       "id": "u189",
       "expression_id": "w220",
       "expression_name": "Green Spot Single Cask — The Whisky Exchange (Bourbon)",
-      "photo_filename": "20261106_114930.jpg",
       "stock_order": 189,
       "unit_index": 1,
       "expression_quantity": 1,
@@ -6234,9 +5857,8 @@
       "why_valuable": "Retailer-exclusive, individually numbered bourbon single cask",
       "photos": [
         {
-          "file": "20261106_114930.jpg",
-          "thumb": "images/thumbs/20261106_114930.jpg",
-          "full": "images/full/20261106_114930.jpg"
+          "thumb": "images/thumbs/u189.jpg",
+          "full": "images/full/u189.jpg"
         }
       ],
       "public_price_eur": null,
@@ -6247,7 +5869,6 @@
       "id": "u190",
       "expression_id": "w126",
       "expression_name": "The Macallan Edition No.6",
-      "photo_filename": "20261106_115033 (1).jpg",
       "stock_order": 190,
       "unit_index": 2,
       "expression_quantity": 3,
@@ -6267,9 +5888,8 @@
       "why_valuable": "Closed Edition series; Hardy collab; transparent cask story",
       "photos": [
         {
-          "file": "20261106_115033 (1).jpg",
-          "thumb": "images/thumbs/20261106_115033_1.jpg",
-          "full": "images/full/20261106_115033_1.jpg"
+          "thumb": "images/thumbs/u190.jpg",
+          "full": "images/full/u190.jpg"
         }
       ],
       "public_price_eur": null,
@@ -6280,7 +5900,6 @@
       "id": "u191",
       "expression_id": "w126",
       "expression_name": "The Macallan Edition No.6",
-      "photo_filename": "20261106_115033.jpg",
       "stock_order": 191,
       "unit_index": 3,
       "expression_quantity": 3,
@@ -6300,9 +5919,8 @@
       "why_valuable": "Closed Edition series; Hardy collab; transparent cask story",
       "photos": [
         {
-          "file": "20261106_115033.jpg",
-          "thumb": "images/thumbs/20261106_115033.jpg",
-          "full": "images/full/20261106_115033.jpg"
+          "thumb": "images/thumbs/u191.jpg",
+          "full": "images/full/u191.jpg"
         }
       ],
       "public_price_eur": null,
@@ -6313,7 +5931,6 @@
       "id": "u192",
       "expression_id": "w221",
       "expression_name": "The Macallan Edition No.5",
-      "photo_filename": "20261106_115053.jpg",
       "stock_order": 192,
       "unit_index": 1,
       "expression_quantity": 1,
@@ -6333,9 +5950,8 @@
       "why_valuable": "Numbered Macallan Edition-series release",
       "photos": [
         {
-          "file": "20261106_115053.jpg",
-          "thumb": "images/thumbs/20261106_115053.jpg",
-          "full": "images/full/20261106_115053.jpg"
+          "thumb": "images/thumbs/u192.jpg",
+          "full": "images/full/u192.jpg"
         }
       ],
       "public_price_eur": null,
@@ -6346,7 +5962,6 @@
       "id": "u193",
       "expression_id": "w063",
       "expression_name": "The Macallan Edition No.4",
-      "photo_filename": "20261106_115111.jpg",
       "stock_order": 193,
       "unit_index": 1,
       "expression_quantity": 1,
@@ -6366,9 +5981,8 @@
       "why_valuable": "Transparent Edition series; distillery-celebration release; closed series now",
       "photos": [
         {
-          "file": "20261106_115111.jpg",
-          "thumb": "images/thumbs/20261106_115111.jpg",
-          "full": "images/full/20261106_115111.jpg"
+          "thumb": "images/thumbs/u193.jpg",
+          "full": "images/full/u193.jpg"
         }
       ],
       "public_price_eur": null,
@@ -6379,7 +5993,6 @@
       "id": "u194",
       "expression_id": "w222",
       "expression_name": "Green Spot Single Cask — Mitchell & Son Bordeaux",
-      "photo_filename": "20261106_115217.jpg",
       "stock_order": 194,
       "unit_index": 1,
       "expression_quantity": 1,
@@ -6399,9 +6012,8 @@
       "why_valuable": "Exclusive high-strength wine-cask-finished single pot still bottling",
       "photos": [
         {
-          "file": "20261106_115217.jpg",
-          "thumb": "images/thumbs/20261106_115217.jpg",
-          "full": "images/full/20261106_115217.jpg"
+          "thumb": "images/thumbs/u194.jpg",
+          "full": "images/full/u194.jpg"
         }
       ],
       "public_price_eur": null,
