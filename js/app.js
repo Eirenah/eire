@@ -43,16 +43,17 @@ function openModal(id){
  $('#m-dl').innerHTML=rows.map(([k,v])=>`<dt>${esc(k)}</dt><dd>${esc(v)}</dd>`).join('');
  $('#m-features').textContent=u.features||'';$('#m-history').textContent=u.history||'';$('#m-why').textContent=u.why_valuable||'';
  $('#m-notes').textContent=u.uncertain?'Some label details remain uncertain.':'';
- $('#modal').classList.add('open');document.body.style.overflow='hidden';
+ if(!$('#modal').classList.contains('open'))history.pushState({modal:1},'');$('#modal').classList.add('open');document.body.style.overflow='hidden';$('.modal-card').scrollTop=0;
 }
-function closeModal(){$('#modal').classList.remove('open');document.body.style.overflow='';modalId=null;}
+function closeModal(){if(history.state&&history.state.modal){history.back();return;}hideModal();}
+function hideModal(){$('#modal').classList.remove('open');document.body.style.overflow='';modalId=null;}
 async function init(){
  const res=await fetch('data.json');if(!res.ok)throw Error('Catalog data unavailable');DATA=await res.json();
  if(DATA.view!=='public'||DATA.items.length!==194)throw Error('Invalid catalog data');
  const s=DATA.stats;$('#stat-count').textContent=s.total_units;$('#stat-expressions').textContent=s.expressions_count;$('#stat-brands').textContent=s.brands;
  for(const [selector,field] of [['#filter-brand','brand'],['#filter-region','region']])for(const v of [...new Set(DATA.items.map(u=>u[field]).filter(Boolean))].sort()){const o=document.createElement('option');o.value=v;o.textContent=v;$(selector).appendChild(o);}
  for(const selector of ['#search','#filter-brand','#filter-region','#sort','#view-mode']){$(selector).oninput=render;$(selector).onchange=render;}
- $('#modal-close').onclick=closeModal;$('#modal').onclick=e=>{if(e.target.id==='modal')closeModal();};document.addEventListener('keydown',e=>{if(e.key==='Escape')closeModal();});render();
+ $('#modal-close').onclick=closeModal;$('#modal').onclick=e=>{if(e.target.id==='modal')closeModal();};document.addEventListener('keydown',e=>{if(e.key==='Escape')closeModal();});window.addEventListener('popstate',()=>{if($('#modal').classList.contains('open'))hideModal();});const ft=$('#filters-toggle');if(ft)ft.onclick=()=>$('.toolbar').classList.toggle('show-filters');render();
  const detail=new URLSearchParams(location.search).get('unit');if(detail)openModal(detail);
 }
 init().catch(e=>{$('#grid').textContent='Unable to load catalog. Please serve this folder over HTTP or HTTPS.';console.error(e);});
