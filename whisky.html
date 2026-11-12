@@ -3,7 +3,6 @@
 <link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:wght@500;600;700&family=Source+Sans+3:wght@400;600;700&display=swap" rel="stylesheet">
 <style>html,body{margin:0;background:#140f0a}</style>
-<!-- DRAFT v3 (2026-11-12, rev. after Aivars’ answers). NOT PUBLISHED. Public part has no prices; private part = same AES-256-GCM/PBKDF2 blob as the live page. -->
 </head><body><div id="eal-whisky" lang="en"><style>#eal-whisky{--bg:#14110d;--card:#1d1913;--line:#d5ad6233;--gold:#d5ad62;--ink:#e9e0cc;--mute:#b9b0a0;color:var(--ink);background:var(--bg);font:16px/1.6 Arial,Helvetica,sans-serif;padding:48px 5vw 64px;box-sizing:border-box}
 #eal-whisky *{box-sizing:border-box}
 #eal-whisky .ew-head{max-width:860px;margin:0 0 32px}
@@ -49,7 +48,7 @@
 #eal-whisky .ew-thumbs{display:grid;grid-template-columns:repeat(7,1fr);gap:2px;background:#0e0c09}
 #eal-whisky .ew-card .ew-thumbs img{height:64px;object-fit:cover}
 
-/* draft_v3 — layout pattern from the earlier collection site (/workspace/eire index.html + css/style.css, commit be9f789): sticky toolbar, compact card grid, full-screen detail view */
+/* v3 layout: sticky toolbar, compact card grid, full-screen detail view */
 #eal-whisky{--bg:#140f0a;--bg2:#1c1510;--panel:#241c14;--gold:#c9a227;--gold2:#e8d48b;--cream:#f3e9d7;--muted:#a89880;--border:rgba(201,162,39,.28);
  --serif:"Cormorant Garamond",Georgia,"Times New Roman",serif;--sans:"Source Sans 3",system-ui,-apple-system,"Segoe UI",Arial,sans-serif;
  padding:0;background:var(--bg);color:var(--cream);font:16px/1.55 var(--sans);min-height:100vh}
@@ -160,7 +159,7 @@
 <header class="wc-hero"><p class="wc-kicker">Ealoiontoir · Private collection</p><h1>Whiskey Collection</h1>
 <p class="wc-sub">Mainly Irish whiskey and Scotch whisky, with a little champagne. Each bottle is described from its own label. Ages are time in cask: whiskey does not continue to mature once bottled. Prices on request.</p>
 <div class="wc-stats"><div class="wc-stat"><b>244</b><span>Bottles</span></div><div class="wc-stat"><b>124</b><span>Expressions</span></div><div class="wc-stat"><b>24</b><span>Brands</span></div></div></header>
-<section class="wc-intro"><div class="wc-box"><h2>About the collection</h2><p>This collection has been built up over a very long time. It was started by my stepfather, and it is still growing.</p><p>Mostly Irish whiskey and Scotch whisky, with a little champagne. Now and then bottles are traded with other collectors, so the shelves keep changing.</p></div><div class="wc-box wc-swap" id="contact"><h2>Open to swaps 🔄</h2><p>The collection is open to swaps and exchanges with fellow collectors. Have a bottle you would like to trade? Let’s talk.</p><p>Use the form below — tell me which bottle you have in mind and what you could offer.</p><form class="wc-form" id="wc-contact" data-endpoint="TO_CONFIGURE" data-access-key="" novalidate>
+<section class="wc-intro"><div class="wc-box"><h2>About the collection</h2><p>This collection has been built up over a very long time. It was started by my stepfather. When he passed away, part of his collection — and his love of the hobby — came to me, and it is still growing.</p><p>Mostly Irish whiskey and Scotch whisky, with a little champagne. Now and then bottles are traded with other collectors, so the shelves keep changing.</p></div><div class="wc-box wc-swap" id="contact"><h2>Open to swaps 🔄</h2><p>The collection is open to swaps and exchanges with fellow collectors. Have a bottle you would like to trade? Let’s talk.</p><p>Use the form below — tell me which bottle you have in mind and what you could offer.</p><form class="wc-form" id="wc-contact" data-endpoint="TO_CONFIGURE" data-access-key="" novalidate>
 <!-- CONTACT FORM — NOT CONNECTED YET. data-endpoint="TO_CONFIGURE" is a placeholder: no data is sent anywhere until a form service is chosen and configured with Aivars' go-ahead. -->
 <div class="wc-frow"><label for="wc-cf-name">Your name</label><input id="wc-cf-name" name="name" type="text" autocomplete="name" required maxlength="120"></div>
 <div class="wc-frow"><label for="wc-cf-email">Your email</label><input id="wc-cf-email" name="email" type="email" autocomplete="email" required maxlength="200"></div>
