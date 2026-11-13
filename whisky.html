@@ -166,10 +166,36 @@
 #eal-whisky .wc-plist p{margin:4px 0 0;font-size:.88rem}
 #eal-whisky #ew-lock{margin:6px 0 10px;background:transparent;color:#e8d48b;border:1px solid #6b5420;border-radius:8px;padding:8px 14px;font:inherit;cursor:pointer}
 @media (max-width:640px){#eal-whisky .wc-plist ul{columns:1}}
+
+/* v6 hero image (hero_v3: peat smoke, fireplace, floating bottles) */
+#eal-whisky .wc-hero.wc-hero-img{position:relative;overflow:hidden;padding:0;text-align:left;background:#120d08;border-bottom:1px solid var(--border)}
+#eal-whisky .wc-hero-media{position:absolute;inset:0;z-index:0;overflow:hidden}
+#eal-whisky .wc-hero-media picture,#eal-whisky .wc-hero-media img{display:block;width:100%;height:100%}
+#eal-whisky .wc-hero-media img{object-fit:cover;object-position:62% 50%;transform-origin:68% 55%;animation:wc-kb 30s ease-in-out infinite alternate;will-change:transform}
+#eal-whisky .wc-hero-media::after{content:"";position:absolute;inset:0;pointer-events:none;background:linear-gradient(90deg,rgba(12,9,6,.94) 0%,rgba(12,9,6,.78) 28%,rgba(12,9,6,.35) 52%,rgba(12,9,6,0) 72%),linear-gradient(0deg,#140f0a 0%,rgba(20,15,10,0) 24%)}
+@keyframes wc-kb{from{transform:scale(1)}to{transform:scale(1.08) translate(-1.2%,.6%)}}
+#eal-whisky .wc-hero-copy{position:relative;z-index:1;box-sizing:border-box;min-height:clamp(460px,44vw,700px);max-width:min(44em,54%);padding:56px 0 48px 6vw;display:flex;flex-direction:column;justify-content:center}
+#eal-whisky .wc-hero-img .wc-kicker{color:#e3c25a;text-shadow:0 1px 6px rgba(0,0,0,.8)}
+#eal-whisky .wc-hero-img h1{font-size:clamp(2.6rem,5.2vw,4.6rem);line-height:1.02;margin:.1em 0 .25em;color:#f1dc94;text-shadow:0 2px 18px rgba(0,0,0,.85),0 1px 2px rgba(0,0,0,.9)}
+#eal-whisky .wc-hero-img .wc-sub{margin:0 0 14px;max-width:34em;color:#e6dac0;text-shadow:0 1px 8px rgba(0,0,0,.9)}
+#eal-whisky .wc-hero-img .wc-stats{justify-content:flex-start}
+#eal-whisky .wc-hero-img .wc-stat{background:rgba(20,15,10,.62);backdrop-filter:blur(4px);-webkit-backdrop-filter:blur(4px)}
+@media (max-width:640px){
+ #eal-whisky .wc-hero.wc-hero-img{padding:0;text-align:center}
+ #eal-whisky .wc-hero-media{position:relative;inset:auto;aspect-ratio:900/1105;max-height:76vh}
+ #eal-whisky .wc-hero-media img{object-position:50% 50%}
+ #eal-whisky .wc-hero-media::after{background:linear-gradient(180deg,rgba(12,9,6,.9) 0%,rgba(12,9,6,.62) 17%,rgba(12,9,6,0) 36%),linear-gradient(0deg,#140f0a 0%,rgba(20,15,10,.55) 12%,rgba(20,15,10,0) 30%)}
+ #eal-whisky .wc-hero-copy{position:static;min-height:0;max-width:none;padding:0 12px 14px;display:block}
+ #eal-whisky .wc-hero-title{position:absolute;top:0;left:0;right:0;z-index:2;padding:20px 14px 0}
+ #eal-whisky .wc-hero-img h1{font-size:clamp(2.1rem,10vw,2.8rem)}
+ #eal-whisky .wc-hero-info{position:relative;z-index:1;margin-top:-34px}
+ #eal-whisky .wc-hero-img .wc-stats{justify-content:center}
+}
+@media (prefers-reduced-motion:reduce){#eal-whisky .wc-hero-media img{animation:none;transform:none}}
 </style>
-<header class="wc-hero"><p class="wc-kicker">Private collection</p><h1>Whiskey Collection</h1>
-<p class="wc-sub">Mainly Irish whiskey and Scotch whisky, with a little champagne. Each bottle is described from its own label. Ages are time in cask: whiskey does not continue to mature once bottled. Prices on request.</p>
-<div class="wc-stats"><div class="wc-stat"><b>243</b><span>Bottles</span></div><div class="wc-stat"><b>124</b><span>Expressions</span></div><div class="wc-stat"><b>24</b><span>Brands</span></div></div></header>
+<header class="wc-hero wc-hero-img"><div class="wc-hero-media"><picture><source media="(max-width:640px)" type="image/webp" srcset="img3/hero/hero_m900.webp"><source media="(max-width:640px)" srcset="img3/hero/hero_m900.jpg"><source type="image/webp" srcset="img3/hero/hero_1600.webp 1600w, img3/hero/hero_2400.webp 2400w" sizes="100vw"><img src="img3/hero/hero_1600.jpg" srcset="img3/hero/hero_1600.jpg 1600w, img3/hero/hero_2400.jpg 2400w" sizes="100vw" width="2400" height="1350" alt="" fetchpriority="high" decoding="async"></picture></div><div class="wc-hero-copy"><div class="wc-hero-title"><p class="wc-kicker">Private collection</p><h1>Whiskey Collection</h1></div>
+<div class="wc-hero-info"><p class="wc-sub">Mainly Irish whiskey and Scotch whisky, with a little champagne. Each bottle is described from its own label. Ages are time in cask: whiskey does not continue to mature once bottled. Prices on request.</p>
+<div class="wc-stats"><div class="wc-stat"><b>243</b><span>Bottles</span></div><div class="wc-stat"><b>124</b><span>Expressions</span></div><div class="wc-stat"><b>24</b><span>Brands</span></div></div></div></div></header>
 <section class="wc-intro"><div class="wc-box"><h2>About the collection</h2><p>This collection has been built up over a very long time. It was started by my stepfather. When he passed away, part of his collection — and his love of the hobby — came to me, and it is still growing.</p><p>Mostly Irish whiskey and Scotch whisky, with a little champagne. Now and then bottles are traded with other collectors, so the shelves keep changing.</p></div><div class="wc-box wc-swap" id="contact"><h2>Open to swaps 🔄</h2><p>The collection is open to swaps and exchanges with fellow collectors. Have a bottle you would like to trade? Let’s talk.</p><p>Use the form below — tell me which bottle you have in mind and what you could offer.</p><form class="wc-form" id="wc-contact" data-endpoint="TO_CONFIGURE" data-access-key="" novalidate>
 <!-- CONTACT FORM — NOT CONNECTED YET. data-endpoint="TO_CONFIGURE" is a placeholder: no data is sent anywhere until a form service is chosen and configured with Aivars' go-ahead. -->
 <div class="wc-frow"><label for="wc-cf-name">Your name</label><input id="wc-cf-name" name="name" type="text" autocomplete="name" required maxlength="120"></div>
